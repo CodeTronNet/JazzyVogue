@@ -41,7 +41,7 @@ module JazzyVogue
         Weight	            = 0.1,
         Type	            = Literature,
         DisplayName	        = Anleitung Jazzy Vogue - Suit Pants (Blue Stripes) (Benötigt Schneidern 10),
-        Icon	            = MagazineJazzy,
+        Icon	            = JZV_MagazineJazzy,
         TeachedRecipes      = Herstellen Jazzy Vogue - Suit Pants (Blue Stripes),
         ReplaceOnUse        = SheetPaper2,
         StaticModel         = Magazine,

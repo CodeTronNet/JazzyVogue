@@ -4,7 +4,7 @@ module JazzyVogue
     {
         DisplayCategory = Clothing,
         Type = Clothing,
-        DisplayName = Jazzy Vogue - Suit Jacket Funky No. 12
+        DisplayName = Jazzy Vogue - Suit Jacket Funky No. 2,
         ClothingItem = JZV_SuitJacket_Funky002,
         BodyLocation = JacketSuit,
         BloodLocation = Jacket,
@@ -46,7 +46,7 @@ module JazzyVogue
         Weight	            = 0.1,
         Type	            = Literature,
         DisplayName	        = Anleitung Jazzy Vogue - Suit Jacket Funky No. 2 (Benötigt Schneidern 10),
-        Icon	            = MagazineJazzy,
+        Icon	            = JZV_MagazineJazzy,
         TeachedRecipes      = Herstellen Jazzy Vogue - Suit Jacket Funky No. 2,
         ReplaceOnUse        = SheetPaper2,
         StaticModel         = Magazine,
