@@ -1,0 +1,43 @@
+module JazzyVogue
+{
+    item JZV_GlassesMonocle_Gold
+	{
+	    DisplayCategory = Accessory,
+		Type = Clothing,
+		DisplayName = Jazzy Vogue - Monocle (Gold),
+		ClothingItem = JZV_GlassesMonocle_Gold,
+		BodyLocation = Eyes,
+		IconsForTexture = GlassesReading,
+		Weight = 0.1,
+		Cosmetic = TRUE,
+		ChanceToFall = 50,
+	}
+
+	recipe Herstellen Jazzy Vogue - Monocle (Gold)
+    {
+		MetalPipe,
+		keep BallPeenHammer,
+		keep Scalpel,
+
+		Result:JZV_GlassesMonocle_Gold,
+		Time:450.0,
+		Category:Tailoring,
+		NeedToBeLearn:true,
+		SkillRequired:Tailoring=10,
+		OnGiveXP:Recipe.OnGiveXP.Tailoring5,
+		CanBeDoneFromFloor:true,
+    }
+
+	item JZV_Blueprint_GlassesMonocle_Gold
+    {
+        DisplayCategory     = SkillBook,
+        Weight	            = 0.1,
+        Type	            = Literature,
+        DisplayName	        = Anleitung Jazzy Vogue - Monocle (Gold) (Benötigt Schneidern 10),
+        Icon	            = JZV_MagazineJazzy,
+        TeachedRecipes      = Herstellen Jazzy Vogue - Monocle (Gold),
+        ReplaceOnUse        = SheetPaper2,
+        StaticModel         = Magazine,
+        WorldStaticModel    = MagazineGround,
+    }
+}

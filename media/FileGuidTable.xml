@@ -56,5 +56,11 @@
 		<path>media/clothing/clothingItems/JZV_LeatherJacket_Raiders001.xml</path>
 		<guid>c0055b70-ba50-460d-b5e0-51b9dcac8be0</guid>
 	</files>
+	<files>
+		<path>media/clothing/clothingItems/JZV_GlassesMonocle_Gold.xml</path>
+		<guid>da31fb2b-e230-48a9-9e8d-da9d727ea5f8</guid>
+	</files>
+
+	
 </fileGuidTable>
 
