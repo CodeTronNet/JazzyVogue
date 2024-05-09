@@ -1,0 +1,51 @@
+module JazzyVogue
+{
+	item JZV_FancyDress_TurquoiseOrange
+	{
+        DisplayCategory = Clothing,
+        Type = Clothing,
+        DisplayName = Jazzy Vogue - Fancy Dress (Turquoise / Orange),
+        ClothingItem = JZV_FancyDress_TurquoiseOrange,
+        BodyLocation = FullSuit,
+        BloodLocation = Trousers;Shirt,
+        Icon = JZV_FancyDress_TurquoiseOrange,
+        RunSpeedModifier = 0.8,
+        ScratchDefense = 10,
+        Insulation = 0.25,
+        WindResistance = 0.1,
+        FabricType = Cotton,
+        WorldStaticModel = WeddingDress_Ground,
+	}
+
+    recipe Herstellen Jazzy Vogue - Fancy Dress (Turquoise / Orange)
+    {
+		RippedSheets=16,
+		Thread;4,
+		PaintOrange;1,
+		PaintTurquoise;2,
+
+		keep Needle,
+		keep Paintbrush,
+
+		Result:JZV_FancyDress_TurquoiseOrange,
+		Time:450.0,
+		Category:Tailoring,
+		NeedToBeLearn:true,
+		SkillRequired:Tailoring=10,
+		OnGiveXP:Recipe.OnGiveXP.Tailoring5,
+		CanBeDoneFromFloor:true,
+    }
+
+	item JZV_Blueprint_FancyDress_TurquoiseOrange
+    {
+        DisplayCategory     = SkillBook,
+        Weight	            = 0.1,
+        Type	            = Literature,
+        DisplayName	        = Anleitung Jazzy Vogue - Fancy Dress (Turquoise / Orange) (Benötigt Schneidern 10),
+        Icon	            = MagazineJazzy,
+        TeachedRecipes      = Herstellen Jazzy Vogue - Fancy Dress (Turquoise / Orange),
+        ReplaceOnUse        = SheetPaper2,
+        StaticModel         = Magazine,
+        WorldStaticModel    = MagazineGround,
+    }
+}

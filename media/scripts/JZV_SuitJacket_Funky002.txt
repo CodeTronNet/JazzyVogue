@@ -1,0 +1,55 @@
+module JazzyVogue
+{
+    item JZV_SuitJacket_Funky002
+    {
+        DisplayCategory = Clothing,
+        Type = Clothing,
+        DisplayName = Jazzy Vogue - Suit Jacket Funky No. 12
+        ClothingItem = JZV_SuitJacket_Funky002,
+        BodyLocation = JacketSuit,
+        BloodLocation = Jacket,
+        Icon = JZV_SuitJacket_Funky002,
+        RunSpeedModifier = 0.95,
+        CombatSpeedModifier = 0.95,
+        ScratchDefense = 20,
+        NeckProtectionModifier = 0.5,
+        Insulation = 0.55,
+        WindResistance = 0.45,
+        FabricType = Cotton,
+        Weight = 2,
+        WorldStaticModel = SuitJacket_Ground,
+    }
+
+    recipe Herstellen Jazzy Vogue - Suit Jacket Funky No. 2
+    {
+		RippedSheets=10,
+		Thread;2,
+		PaintLightBrown;1,
+		PaintBlue;1,
+        PaintRed;1,
+
+		keep Needle,
+		keep Paintbrush,
+
+		Result:JZV_SuitJacket_Funky002,
+		Time:450.0,
+		Category:Tailoring,
+		NeedToBeLearn:true,
+		SkillRequired:Tailoring=10,
+		OnGiveXP:Recipe.OnGiveXP.Tailoring5,
+		CanBeDoneFromFloor:true,
+    }
+
+	item JZV_Blueprint_SuitJacket_Funky002
+    {
+        DisplayCategory     = SkillBook,
+        Weight	            = 0.1,
+        Type	            = Literature,
+        DisplayName	        = Anleitung Jazzy Vogue - Suit Jacket Funky No. 2 (Benötigt Schneidern 10),
+        Icon	            = MagazineJazzy,
+        TeachedRecipes      = Herstellen Jazzy Vogue - Suit Jacket Funky No. 2,
+        ReplaceOnUse        = SheetPaper2,
+        StaticModel         = Magazine,
+        WorldStaticModel    = MagazineGround,
+    }
+}

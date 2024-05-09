@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8"?>
+<fileGuidTable>
+	<files>
+		<path>media/clothing/clothingItems/JZV_TShirt_Jazzy001.xml</path>
+		<guid>9cc3a7b7-1c9e-4ec6-b63a-be4221a11d25</guid>
+	</files>
+	<files>
+		<path>media/clothing/clothingItems/JZV_TShirt_FallenLands001.xml</path>
+		<guid>df5d3f6b-94d4-48d8-8f1f-4c91723cc354</guid>
+	</files>
+	<files>
+		<path>media/clothing/clothingItems/JZV_TShirt_Admin001.xml</path>
+		<guid>1487f424-a800-4f9a-b9fc-a83c09996116</guid>
+	</files>
+	<files>
+		<path>media/clothing/clothingItems/JZV_TShirt_Admin002.xml</path>
+		<guid>d11b7659-96ae-48c5-9250-84891d7a5635</guid>
+	</files>
+	<files>
+		<path>media/clothing/clothingItems/JZV_TShirt_Vaugn001.xml</path>
+		<guid>78d89aea-b6a9-4c80-ad2f-53538c05972d</guid>
+	</files>
+	<files>
+		<path>media/clothing/clothingItems/JZV_FancyDress_Turquoise.xml</path>
+		<guid>0d284cfa-1577-49f2-a126-4f6b214a43d5</guid>
+	</files>
+	<files>
+		<path>media/clothing/clothingItems/JZV_FancyDress_TurquoiseOrange.xml</path>
+		<guid>16a43553c-39a8-49ec-9f32-6bff1a9f69c</guid>
+	</files>
+	<files>
+		<path>media/clothing/clothingItems/JZV_FancyDress_RedGrey.xml</path>
+		<guid>c06cad84-dba2-4203-9191-8d2bbf73485e</guid>
+	</files>
+	<files>
+		<path>media/clothing/clothingItems/JZV_SuitJacket_BlueStripes.xml</path>
+		<guid>c40fc04e-a39c-473b-8843-0a9a39a6266c</guid>
+	</files>
+	<files>
+		<path>media/clothing/clothingItems/JZV_SuitPants_BlueStripes.xml</path>
+		<guid>aed499b3-fc75-4ba8-ade8-fed10c219944</guid>
+	</files>
+	<files>
+		<path>media/clothing/clothingItems/JZV_SuitJacket_Funky001.xml</path>
+		<guid>25446186-c8a8-49ae-ab8c-0b6e97c68cb3</guid>
+	</files>
+	<files>
+		<path>media/clothing/clothingItems/JZV_SuitJacket_Funky002.xml</path>
+		<guid>f2fa7499-f0c1-431c-9f2b-0941fd0aefb2</guid>
+	</files>
+</fileGuidTable>
+

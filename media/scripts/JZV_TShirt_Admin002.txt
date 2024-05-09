@@ -1,0 +1,17 @@
+module JazzyVogue
+{
+    item JZV_TShirt_Admin002
+	{
+		DisplayCategory = Clothing,
+		Type				= Clothing,
+		DisplayName			= Jazzy Vogue - T-Shirt Admin No. 2,
+		ClothingItem		= JZV_TShirt_Admin002,
+		BodyLocation		= Tshirt,
+		Icon				= JZV_TShirt_Jazzy001,
+		BloodLocation		= Shirt,
+        Insulation			= 0.2,
+        WindResistance		= 0.2,
+        FabricType			= Cotton,
+        WorldStaticModel	= TShirt_Ground,
+	}
+}
