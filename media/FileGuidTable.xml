@@ -48,5 +48,13 @@
 		<path>media/clothing/clothingItems/JZV_SuitJacket_Funky002.xml</path>
 		<guid>f2fa7499-f0c1-431c-9f2b-0941fd0aefb2</guid>
 	</files>
+	<files>
+		<path>media/clothing/clothingItems/JZV_TopHat_Black.xml</path>
+		<guid>4a4a770f-d67b-4607-8286-8d22a26dd138</guid>
+	</files>
+	<files>
+		<path>media/clothing/clothingItems/JZV_LeatherJacket_Raiders001.xml</path>
+		<guid>c0055b70-ba50-460d-b5e0-51b9dcac8be0</guid>
+	</files>
 </fileGuidTable>
 

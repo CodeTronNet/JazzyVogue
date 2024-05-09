@@ -1,0 +1,56 @@
+module JazzyVogue
+{
+    item JZV_LeatherJacket_Raiders001
+    {
+        DisplayCategory = Clothing,
+        Type = Clothing,
+        DisplayName = Jazzy Vogue - Leather Jacket Raiders No. 1,
+        ClothingItem = JZV_LeatherJacket_Raiders001,
+        BodyLocation = Jacket,
+        Icon = JZV_LeatherJacket_White,
+        BloodLocation = Jacket,
+        RunSpeedModifier = 0.95,
+        CombatSpeedModifier = 0.97,
+        BiteDefense = 20,
+        ScratchDefense = 40,
+        NeckProtectionModifier = 0.5,
+        Insulation = 0.40,
+        WindResistance = 0.6,
+        FabricType = Leather,
+        WaterResistance = 0.4,
+        Weight = 2,
+        WorldStaticModel = JacketCoat_Ground,
+    }
+
+    recipe Herstellen Jazzy Vogue - Leather Jacket Raiders No. 1
+    {
+		LeatherStrips=10,
+		Thread;2,
+		PaintWhite;2,
+		PaintBlack;1,
+
+		keep Needle,
+		keep Paintbrush,
+
+		Result:JZV_LeatherJacket_Raiders001,
+		Time:450.0,
+		Category:Tailoring,
+		NeedToBeLearn:true,
+		SkillRequired:Tailoring=10,
+		OnGiveXP:Recipe.OnGiveXP.Tailoring5,
+		CanBeDoneFromFloor:true,
+    }
+
+	item JZV_Blueprint_LeatherJacket_Raiders001
+    {
+        DisplayCategory     = SkillBook,
+        Weight	            = 0.1,
+        Type	            = Literature,
+        DisplayName	        = Anleitung Jazzy Vogue - Leather Jacket Raiders No. 1 (Benötigt Schneidern 10),
+        Icon	            = JZV_MagazineJazzy,
+        TeachedRecipes      = Herstellen Jazzy Vogue - Leather Jacket Raiders No. 1,
+        ReplaceOnUse        = SheetPaper2,
+        StaticModel         = Magazine,
+        WorldStaticModel    = MagazineGround,
+    }
+}
