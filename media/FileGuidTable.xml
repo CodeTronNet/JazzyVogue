@@ -9,6 +9,10 @@
 		<guid>df5d3f6b-94d4-48d8-8f1f-4c91723cc354</guid>
 	</files>
 	<files>
+		<path>media/clothing/clothingItems/JZV_TShirt_Theme_Day1.xml</path>
+		<guid>d9ff8b2b-d050-4b48-a76e-867fdd53b930</guid>
+	</files>
+	<files>
 		<path>media/clothing/clothingItems/JZV_TShirt_Admin001.xml</path>
 		<guid>1487f424-a800-4f9a-b9fc-a83c09996116</guid>
 	</files>
@@ -60,7 +64,5 @@
 		<path>media/clothing/clothingItems/JZV_GlassesMonocle_Gold.xml</path>
 		<guid>da31fb2b-e230-48a9-9e8d-da9d727ea5f8</guid>
 	</files>
-
-	
 </fileGuidTable>
 
