@@ -1,0 +1,56 @@
+module JazzyVogue
+{
+	imports
+    {
+        Base
+    }
+
+    item JZV_TShirt_KCU001
+	{
+		DisplayCategory 	= Clothing,
+		Type				= Clothing,
+		DisplayName			= Jazzy Vogue - T-Shirt KCU No. 1,
+		ClothingItem		= JZV_TShirt_KCU001,
+		BodyLocation		= Tshirt,
+		Icon				= JZV_TShirt_Jazzy001,
+		BloodLocation		= Shirt,
+        Insulation			= 0.2,
+        WindResistance		= 0.2,
+        FabricType			= Cotton,
+        WorldStaticModel	= TShirt_Ground,
+	}
+
+	recipe Herstellen Jazzy Vogue - T-Shirt KCU No. 1
+    {
+		RippedSheets=8,
+		Thread;2,
+		PaintBlack;1,
+		PaintWhite;1,
+        PaintBlue;1,
+		PaintGreen;1,
+
+		keep Needle,
+		keep Paintbrush,
+
+		Result:JZV_TShirt_KCU001,
+		Time:450.0,
+		Category:Tailoring,
+		NeedToBeLearn:true,
+		SkillRequired:Tailoring=10,
+		OnGiveXP:Recipe.OnGiveXP.Tailoring5,
+		CanBeDoneFromFloor:true,
+    }
+
+	item JZV_Blueprint_TShirt_KCU001
+    {
+        DisplayCategory     = SkillBook,
+        Weight	            = 0.1,
+        Type	            = Literature,
+        DisplayName	        = Anleitung Jazzy Vogue - T-Shirt KCU No. 1 (Benötigt Schneidern 10),
+        Icon	            = JZV_MagazineJazzy,
+        TeachedRecipes      = Herstellen Jazzy Vogue - T-Shirt KCU No. 1,
+        ReplaceOnUse        = SheetPaper2,
+        StaticModel         = Magazine,
+        WorldStaticModel    = MagazineGround,
+    }
+}
