@@ -1,0 +1,15 @@
+module JazzyVogue
+{
+    item JZV_Blueprint_ArmyPack_Colors
+    {
+        DisplayCategory     = SkillBook,
+        Weight	            = 0.1,
+        Type	            = Literature,
+        DisplayName	        = Anleitung Jazzy Vogue - Colored Backpacks (Benötigt Schneidern 10),
+        Icon	            = JZV_MagazineJazzy,
+        TeachedRecipes      = Herstellen Jazzy Vogue - Backpack (Blue);Herstellen Jazzy Vogue - Backpack (Grey);Herstellen Jazzy Vogue - Backpack (Red),
+        ReplaceOnUse        = SheetPaper2,
+        StaticModel         = Magazine,
+        WorldStaticModel    = MagazineGround,
+    }
+}

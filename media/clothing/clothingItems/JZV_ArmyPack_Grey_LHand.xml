@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<clothingItem>
+	<m_MaleModel>media\models_X\Skinned\BackPacks\ALICE_Pack_LHand.X</m_MaleModel>
+	<m_FemaleModel>media\models_X\Skinned\BackPacks\ALICE_Pack_LHand.X</m_FemaleModel>
+	<m_GUID>f73c055b-d26f-4699-a014-04771d8c3320</m_GUID>
+	<m_Static>false</m_Static>
+	<m_AllowRandomHue>false</m_AllowRandomHue>
+	<m_AllowRandomTint>false</m_AllowRandomTint>
+	<m_AttachBone></m_AttachBone>
+	<textureChoices>clothes\JazzyVogue\JZV_ArmyPack_Grey</textureChoices>
+</clothingItem>

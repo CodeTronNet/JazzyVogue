@@ -1,0 +1,44 @@
+module JazzyVogue
+{
+    item JZV_ArmyPack_Blue
+    {
+        DisplayCategory = Bag,
+        Type = Container,
+        DisplayName = Jazzy Vogue - Backpack (Blue),
+        ClothingItem = JZV_ArmyPack_Blue,
+        CanBeEquipped = Back,
+        WeightReduction	=	87,
+        Weight	=	2,
+        Capacity	=	28,
+        Icon	=	JZV_ArmyPack_Blue,
+        OpenSound   =   OpenBag,
+        CloseSound   =   CloseBag,
+        PutInSound   =   PutItemInBag,
+        BloodLocation = Bag,
+        RunSpeedModifier = 0.94,
+        CanHaveHoles = false,
+        AttachmentReplacement = Bag,
+        ReplaceInSecondHand = JZV_ArmyPack_Blue_LHand holdingbagleft,
+        ReplaceInPrimaryHand = JZV_ArmyPack_Blue_RHand holdingbagright,
+        WorldStaticModel = ALICE_Pack_Ground,
+    }
+
+    recipe Herstellen Jazzy Vogue - Backpack (Blue)
+    {
+            RippedSheets=16,
+            Thread;4,
+            PaintBlue;3,
+            Bag_ALICEpack_Army,
+
+            keep Needle,
+            keep Paintbrush,
+
+            Result:JZV_ArmyPack_Blue,
+            Time:450.0,
+            Category:Tailoring,
+            NeedToBeLearn:true,
+            SkillRequired:Tailoring=10,
+            OnGiveXP:Recipe.OnGiveXP.Tailoring5,
+            CanBeDoneFromFloor:true,
+    }
+}

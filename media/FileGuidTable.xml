@@ -68,5 +68,41 @@
 		<path>media/clothing/clothingItems/JZV_GlassesMonocle_Gold.xml</path>
 		<guid>da31fb2b-e230-48a9-9e8d-da9d727ea5f8</guid>
 	</files>
+	<files>
+		<path>media/clothing/clothingItems/JZV_ArmyPack_Red.xml</path>
+		<guid>bec1b3e0-0400-43b9-9d09-ab3caebe3867</guid>
+	</files>
+	<files>
+		<path>media/clothing/clothingItems/JZV_ArmyPack_Red_LHand.xml</path>
+		<guid>30561a2b-cd76-4ba9-b928-9dc00bb9cece</guid>
+	</files>
+	<files>
+		<path>media/clothing/clothingItems/JZV_ArmyPack_Red_RHand.xml</path>
+		<guid>12edd214-b294-48a4-9dff-e079b6fe8d69</guid>
+	</files>
+	<files>
+		<path>media/clothing/clothingItems/JZV_ArmyPack_Blue.xml</path>
+		<guid>b8a232ec-e96a-4ce9-ae98-ac10ca06dbd0</guid>
+	</files>
+	<files>
+		<path>media/clothing/clothingItems/JZV_ArmyPack_Blue_LHand.xml</path>
+		<guid>30602825-0d5f-493c-b745-d1dab0a944bf</guid>
+	</files>
+	<files>
+		<path>media/clothing/clothingItems/JZV_ArmyPack_Blue_RHand.xml</path>
+		<guid>bc80df42-ca62-4163-b4bd-b4cac7e3f1aa</guid>
+	</files>
+	<files>
+		<path>media/clothing/clothingItems/JZV_ArmyPack_Grey.xml</path>
+		<guid>b09d67c9-c031-4300-83de-a70e21d5f0df</guid>
+	</files>
+	<files>
+		<path>media/clothing/clothingItems/JZV_ArmyPack_Grey_LHand.xml</path>
+		<guid>f73c055b-d26f-4699-a014-04771d8c3320</guid>
+	</files>
+	<files>
+		<path>media/clothing/clothingItems/JZV_ArmyPack_Grey_RHand.xml</path>
+		<guid>75a8d1cd-ac42-41bb-aa36-ac303a2fc548</guid>
+	</files>
 </fileGuidTable>
 

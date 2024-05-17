@@ -1,0 +1,44 @@
+module JazzyVogue
+{
+    item JZV_ArmyPack_Grey
+    {
+        DisplayCategory = Bag,
+        Type = Container,
+        DisplayName = Jazzy Vogue - Backpack (Grey),
+        ClothingItem = JZV_ArmyPack_Grey,
+        CanBeEquipped = Back,
+        WeightReduction	=	87,
+        Weight	=	2,
+        Capacity	=	28,
+        Icon	=	JZV_ArmyPack_Grey,
+        OpenSound   =   OpenBag,
+        CloseSound   =   CloseBag,
+        PutInSound   =   PutItemInBag,
+        BloodLocation = Bag,
+        RunSpeedModifier = 0.94,
+        CanHaveHoles = false,
+        AttachmentReplacement = Bag,
+        ReplaceInSecondHand = JZV_ArmyPack_Grey_LHand holdingbagleft,
+        ReplaceInPrimaryHand = JZV_ArmyPack_Grey_RHand holdingbagright,
+        WorldStaticModel = ALICE_Pack_Ground,
+    }
+
+    recipe Herstellen Jazzy Vogue - Backpack (Grey)
+    {
+            RippedSheets=16,
+            Thread;4,
+            PaintGrey;3,
+            Bag_ALICEpack_Army,
+
+            keep Needle,
+            keep Paintbrush,
+
+            Result:JZV_ArmyPack_Grey,
+            Time:450.0,
+            Category:Tailoring,
+            NeedToBeLearn:true,
+            SkillRequired:Tailoring=10,
+            OnGiveXP:Recipe.OnGiveXP.Tailoring5,
+            CanBeDoneFromFloor:true,
+    }
+}
