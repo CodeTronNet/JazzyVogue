@@ -1,0 +1,72 @@
+module JazzyVogue
+{
+    item JZV_Deco_Painting_Viktor
+	{
+		Weight = 0.2,	
+		Type = Moveable,
+		WorldObjectSprite = JazzyVogue001_0,
+		DisplayName	= Portrait von Viktor Adelhart,
+	}
+
+	recipe Herstellen Jazzy Vogue - Portrait von Viktor Adelhart
+    {
+		Sheet=1,
+		Plank=1,
+		Thread;5,
+		PaintBlack;2,
+		PaintWhite;1,
+
+		keep Needle,
+		keep Paintbrush,
+
+		Result:JZV_Deco_Painting_Viktor,
+		Time:800.0,
+		Category:Tailoring,
+		NeedToBeLearn:true,
+		SkillRequired:Tailoring=10,
+		OnGiveXP:Recipe.OnGiveXP.Tailoring5,
+		CanBeDoneFromFloor:true,
+    }
+
+	item JZV_Deco_Painting_HSO001
+	{
+		Weight = 0.2,	
+		Type = Moveable,
+		WorldObjectSprite = JazzyVogue001_2,
+		DisplayName	= Bild des Homo Superior Orden No. 1,
+	}
+
+	recipe Herstellen Jazzy Vogue - Bild des Homo Superior Orden No. 1
+    {
+		Sheet=1,
+		Plank=1,
+		Thread;5,
+		PaintBlack;2,
+		PaintWhite;1,
+		PaintRed;1,
+
+		keep Needle,
+		keep Paintbrush,
+
+		Result:JZV_Deco_Painting_HSO001,
+		Time:800.0,
+		Category:Tailoring,
+		NeedToBeLearn:true,
+		SkillRequired:Tailoring=10,
+		OnGiveXP:Recipe.OnGiveXP.Tailoring5,
+		CanBeDoneFromFloor:true,
+    }
+
+	item JZV_Blueprint_Deco_Paintings
+    {
+        DisplayCategory     = SkillBook,
+        Weight	            = 0.1,
+        Type	            = Literature,
+        DisplayName	        = Anleitung Jazzy Vogue - Bilder (Benötigt Schneidern 10),
+        Icon	            = JZV_MagazineJazzy,
+        TeachedRecipes      = Herstellen Jazzy Vogue - Portrait von Viktor Adelhart;Herstellen Jazzy Vogue - Bild des Homo Superior Orden No. 1,
+        ReplaceOnUse        = SheetPaper2,
+        StaticModel         = Magazine,
+        WorldStaticModel    = MagazineGround,
+    }
+}

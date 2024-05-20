@@ -2,4 +2,6 @@ name=Jazzy Vogue
 poster=poster.png
 id=JazzyVogue
 description=Jazzy Vogue clothing for Fallen Lands
+pack=JazzyVogue001
+tiledef=JazzyVogue001 7430
 url=https://codetron.net

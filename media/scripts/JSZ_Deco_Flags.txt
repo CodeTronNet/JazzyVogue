@@ -1,0 +1,98 @@
+module JazzyVogue
+{
+	item JZV_Deco_Flag_HSO001
+	{
+		Weight = 0.2,	
+		Type = Moveable,
+		WorldObjectSprite = JazzyVogue001_4,
+		DisplayName	= Flagge des Homo Superior Orden No. 1,
+	}
+
+	recipe Herstellen Jazzy Vogue - Flagge des Homo Superior Orden No. 1
+    {
+		Sheet=1,
+		Thread;5,
+		PaintBlack;2,
+		PaintRed;1,
+		PaintWhite;1,
+		PaintYellow;1,
+
+		keep Needle,
+		keep Paintbrush,
+
+		Result:JZV_Deco_Flag_HSO001,
+		Time:800.0,
+		Category:Tailoring,
+		NeedToBeLearn:true,
+		SkillRequired:Tailoring=10,
+		OnGiveXP:Recipe.OnGiveXP.Tailoring5,
+		CanBeDoneFromFloor:true,
+    }
+
+	item JZV_Deco_Flag_Jazzy001
+	{
+		Weight = 0.2,	
+		Type = Moveable,
+		WorldObjectSprite = JazzyVogue001_6,
+		DisplayName	= Flagge von Jazzy No. 1,
+	}
+
+	recipe Herstellen Jazzy Vogue - Flagge von Jazzy No. 1
+    {
+		Sheet=1,
+		Thread;5,
+		PaintBlack;2,
+		PaintWhite;2,
+
+		keep Needle,
+		keep Paintbrush,
+
+		Result:JZV_Deco_Flag_Jazzy001,
+		Time:800.0,
+		Category:Tailoring,
+		NeedToBeLearn:true,
+		SkillRequired:Tailoring=10,
+		OnGiveXP:Recipe.OnGiveXP.Tailoring5,
+		CanBeDoneFromFloor:true,
+    }
+
+	item JZV_Deco_Flag_Raiders001
+	{
+		Weight = 0.2,	
+		Type = Moveable,
+		WorldObjectSprite = JazzyVogue001_8,
+		DisplayName	= Flagge der Raiders No. 1,
+	}
+
+	recipe Herstellen Jazzy Vogue - Flagge der Raider No. 1
+    {
+		Sheet=1,
+		Thread;5,
+		PaintBlack;2,
+		PaintWhite;2,
+
+		keep Needle,
+		keep Paintbrush,
+
+		Result:JZV_Deco_Flag_Raiders001,
+		Time:800.0,
+		Category:Tailoring,
+		NeedToBeLearn:true,
+		SkillRequired:Tailoring=10,
+		OnGiveXP:Recipe.OnGiveXP.Tailoring5,
+		CanBeDoneFromFloor:true,
+    }
+
+	item JZV_Blueprint_Deco_Flags
+    {
+        DisplayCategory     = SkillBook,
+        Weight	            = 0.1,
+        Type	            = Literature,
+        DisplayName	        = Anleitung Jazzy Vogue - Flaggen (Benötigt Schneidern 10),
+        Icon	            = JZV_MagazineJazzy,
+        TeachedRecipes      = Herstellen Jazzy Vogue - Flagge des Homo Superior Orden No. 1;Herstellen Jazzy Vogue - Flagge von Jazzy No. 1;Herstellen Jazzy Vogue - Flagge der Raider No. 1,
+        ReplaceOnUse        = SheetPaper2,
+        StaticModel         = Magazine,
+        WorldStaticModel    = MagazineGround,
+    }
+}
