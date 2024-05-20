@@ -4,7 +4,7 @@ module JazzyVogue
     {
         DisplayCategory = Bag,
         Type = Container,
-        DisplayName = Jazzy Vogue - Backpack (Red),
+        DisplayName = Military Backpack (Red),
         ClothingItem = JZV_ArmyPack_Red,
         CanBeEquipped = Back,
         WeightReduction	=	87,
@@ -23,7 +23,7 @@ module JazzyVogue
         WorldStaticModel = ALICE_Pack_Ground,
     }
 
-    recipe Herstellen Jazzy Vogue - Backpack (Red)
+    recipe Herstellen Military Backpack (Red)
     {
             RippedSheets=16,
             Thread;4,
@@ -37,7 +37,7 @@ module JazzyVogue
             Time:450.0,
             Category:Tailoring,
             NeedToBeLearn:true,
-            SkillRequired:Tailoring=10,
+            SkillRequired:Tailoring=6,
             OnGiveXP:Recipe.OnGiveXP.Tailoring5,
             CanBeDoneFromFloor:true,
     }
