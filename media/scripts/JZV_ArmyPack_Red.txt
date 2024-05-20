@@ -36,7 +36,6 @@ module JazzyVogue
             Result:JZV_ArmyPack_Red,
             Time:450.0,
             Category:Tailoring,
-            NeedToBeLearn:true,
             SkillRequired:Tailoring=6,
             OnGiveXP:Recipe.OnGiveXP.Tailoring5,
             CanBeDoneFromFloor:true,
