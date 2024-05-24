@@ -19,11 +19,11 @@ module JazzyVogue
 
 		keep Needle,
 		keep Paintbrush,
+		keep JZV_Sketchbook,
 
 		Result:JZV_Deco_Flag_HSO001,
 		Time:800.0,
 		Category:Tailoring,
-		NeedToBeLearn:true,
 		SkillRequired:Tailoring=10,
 		OnGiveXP:Recipe.OnGiveXP.Tailoring5,
 		CanBeDoneFromFloor:true,
@@ -46,11 +46,11 @@ module JazzyVogue
 
 		keep Needle,
 		keep Paintbrush,
+		keep JZV_Sketchbook,
 
 		Result:JZV_Deco_Flag_Jazzy001,
 		Time:800.0,
 		Category:Tailoring,
-		NeedToBeLearn:true,
 		SkillRequired:Tailoring=10,
 		OnGiveXP:Recipe.OnGiveXP.Tailoring5,
 		CanBeDoneFromFloor:true,
@@ -73,26 +73,13 @@ module JazzyVogue
 
 		keep Needle,
 		keep Paintbrush,
+		keep JZV_Sketchbook,
 
 		Result:JZV_Deco_Flag_Raiders001,
 		Time:800.0,
 		Category:Tailoring,
-		NeedToBeLearn:true,
 		SkillRequired:Tailoring=10,
 		OnGiveXP:Recipe.OnGiveXP.Tailoring5,
 		CanBeDoneFromFloor:true,
-    }
-
-	item JZV_Blueprint_Deco_Flags
-    {
-        DisplayCategory     = SkillBook,
-        Weight	            = 0.1,
-        Type	            = Literature,
-        DisplayName	        = Anleitung Jazzy Vogue - Flaggen (Benötigt Schneidern 10),
-        Icon	            = JZV_MagazineJazzy,
-        TeachedRecipes      = Herstellen Jazzy Vogue - Flagge des Homo Superior Orden No. 1;Herstellen Jazzy Vogue - Flagge von Jazzy No. 1;Herstellen Jazzy Vogue - Flagge der Raider No. 1,
-        ReplaceOnUse        = SheetPaper2,
-        StaticModel         = Magazine,
-        WorldStaticModel    = MagazineGround,
     }
 }

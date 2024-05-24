@@ -29,26 +29,14 @@ module JazzyVogue
 
 		keep Needle,
 		keep Paintbrush,
+        keep JZV_Sketchbook,
 
 		Result:JZV_SuitJacket_Funky001,
 		Time:450.0,
 		Category:Tailoring,
-		NeedToBeLearn:true,
 		SkillRequired:Tailoring=10,
 		OnGiveXP:Recipe.OnGiveXP.Tailoring5,
 		CanBeDoneFromFloor:true,
     }
 
-	item JZV_Blueprint_SuitJacket_Funky001
-    {
-        DisplayCategory     = SkillBook,
-        Weight	            = 0.1,
-        Type	            = Literature,
-        DisplayName	        = Anleitung Jazzy Vogue - Suit Jacket Funky No. 1 (Benötigt Schneidern 10),
-        Icon	            = JZV_MagazineJazzy,
-        TeachedRecipes      = Herstellen Jazzy Vogue - Suit Jacket Funky No. 1,
-        ReplaceOnUse        = SheetPaper2,
-        StaticModel         = Magazine,
-        WorldStaticModel    = MagazineGround,
-    }
 }

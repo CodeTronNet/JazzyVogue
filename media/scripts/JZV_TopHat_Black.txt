@@ -23,26 +23,13 @@ module JazzyVogue
 
 		keep Needle,
 		keep Paintbrush,
+        keep JZV_Sketchbook,
 
 		Result:JZV_TopHat_Black,
 		Time:450.0,
 		Category:Tailoring,
-		NeedToBeLearn:true,
 		SkillRequired:Tailoring=10,
 		OnGiveXP:Recipe.OnGiveXP.Tailoring5,
 		CanBeDoneFromFloor:true,
-    }
-
-	item JZV_Blueprint_TopHat_Black
-    {
-        DisplayCategory     = SkillBook,
-        Weight	            = 0.1,
-        Type	            = Literature,
-        DisplayName	        = Anleitung Jazzy Vogue - Top Hat (Black) (Benötigt Schneidern 10),
-        Icon	            = JZV_MagazineJazzy,
-        TeachedRecipes      = Herstellen Jazzy Vogue - Top Hat (Black),
-        ReplaceOnUse        = SheetPaper2,
-        StaticModel         = Magazine,
-        WorldStaticModel    = MagazineGround,
     }
 }
