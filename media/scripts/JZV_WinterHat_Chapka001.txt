@@ -1,0 +1,37 @@
+module JazzyVogue
+{
+    item JZV_WinterHat_Chapka001
+	{
+		DisplayCategory = Accessory,
+		Type				= Clothing,
+		DisplayName			= Jazzy Vogue - Chapka (Black / Red Star),
+		ClothingItem		= JZV_WinterHat_Chapka001,
+		BodyLocation 		= Hat,
+		Icon				= JZV_WinterHat_Chapka001,
+		CanHaveHoles = false,
+		ChanceToFall = 40,
+		BloodLocation = Head,
+		Insulation = 1.0,
+		WindResistance = 1.0,
+		WaterResistance = 0.5,
+		Weight = 0.5,
+		FabricType = Cotton,
+	}
+
+	recipe Herstellen Jazzy Vogue - Cchapka (Black / Red Star)
+	{
+		DenimStrips=8,
+		Thread=3,
+		Yarn=6,
+		keep KnittingNeedles,
+		keep Needle,
+		keep [Recipe.GetItemTypes.Scissors]/[Recipe.GetItemTypes.SharpKnife],
+		keep JZV_Sketchbook,
+		
+		Result:JZV_WinterHat_Chapka001,
+		Time:400.0,
+		SkillRequired:Tailoring=10,
+		Category:Tailoring,
+		OnGiveXP:Recipe.OnGiveXP.TailoringHigh,
+	}
+}

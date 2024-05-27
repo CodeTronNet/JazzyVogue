@@ -104,5 +104,9 @@
 		<path>media/clothing/clothingItems/JZV_ArmyPack_Grey_RHand.xml</path>
 		<guid>75a8d1cd-ac42-41bb-aa36-ac303a2fc548</guid>
 	</files>
+	<files>
+		<path>media/clothing/clothingItems/JZV_WinterHat_Chapka001.xml</path>
+		<guid>390bf148-5f2f-4c70-87e3-bc1abc71c23c</guid>
+	</files>
 </fileGuidTable>
 
