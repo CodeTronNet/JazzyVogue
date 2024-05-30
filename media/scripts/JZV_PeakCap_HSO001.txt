@@ -1,0 +1,37 @@
+module JazzyVogue
+{
+    item JZV_PeakCap_HSO001
+    {
+        DisplayCategory = Accessory,
+        Type = Clothing,
+        DisplayName = Jazzy Vogue - Peaked Cap HSO No. 1,
+        ClothingItem = JZV_PeakCap_HSO001,
+        BodyLocation = Hat,
+        Icon = HatBeretArmy,
+        CanHaveHoles = false,
+        ChanceToFall = 60,
+        BloodLocation = Head,
+        Insulation = 0.15,
+        WindResistance = 0.1,
+        Weight = 0.3,
+    }
+
+    recipe Herstellen Jazzy Vogue - Peaked Cap HSO No. 1
+    {
+		RippedSheets=10,
+        LeatherStrips=5,
+		Thread;2,
+		PaintRed;1,
+
+		keep Needle,
+		keep Paintbrush,
+        keep JZV_Sketchbook,
+
+		Result:JZV_PeakCap_HSO001,
+		Time:450.0,
+		Category:Tailoring,
+		SkillRequired:Tailoring=10,
+		OnGiveXP:Recipe.OnGiveXP.Tailoring5,
+		CanBeDoneFromFloor:true,
+    }
+}

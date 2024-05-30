@@ -108,5 +108,9 @@
 		<path>media/clothing/clothingItems/JZV_WinterHat_Chapka001.xml</path>
 		<guid>390bf148-5f2f-4c70-87e3-bc1abc71c23c</guid>
 	</files>
+	<files>
+		<path>media/clothing/clothingItems/JZV_PeakCap_HSO001.xml</path>
+		<guid>262856c6-f026-4540-800c-9f8eecfea726</guid>
+	</files>
 </fileGuidTable>
 
