@@ -18,7 +18,7 @@ module JazzyVogue
 		FabricType = Cotton,
 	}
 
-	recipe Herstellen Jazzy Vogue - Cchapka (Black / Red Star)
+	recipe Herstellen Jazzy Vogue - Chapka (Black / Red Star)
 	{
 		DenimStrips=8,
 		Thread=3,
