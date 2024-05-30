@@ -1,0 +1,40 @@
+module JazzyVogue
+{
+    item JZV_SlimSuitJacket_Black
+    {
+        DisplayCategory = Clothing,
+        Type = Clothing,
+        DisplayName = Jazzy Vogue - Slim Suit Jacket (Black),
+        ClothingItem = JZV_SlimSuitJacket_Black,
+        BodyLocation = JacketSuit,
+        BloodLocation = Jacket,
+        Icon = JacketSuitBlack,
+        RunSpeedModifier = 0.95,
+        CombatSpeedModifier = 0.95,
+        ScratchDefense = 20,
+        NeckProtectionModifier = 0.5,
+        Insulation = 0.55,
+        WindResistance = 0.45,
+        FabricType = Cotton,
+        Weight = 2,
+        WorldStaticModel = SuitJacket_Ground,
+    }
+
+    recipe Herstellen Jazzy Vogue - Slim Suit Jacket (Black)
+    {
+		RippedSheets=10,
+		Thread;2,
+		PaintBlack;3,
+
+		keep Needle,
+		keep Paintbrush,
+        keep JZV_Sketchbook,
+
+		Result:JZV_SlimSuitJacket_Black,
+		Time:450.0,
+		Category:Tailoring,
+		SkillRequired:Tailoring=10,
+		OnGiveXP:Recipe.OnGiveXP.Tailoring5,
+		CanBeDoneFromFloor:true,
+    }
+}
