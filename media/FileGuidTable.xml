@@ -116,5 +116,9 @@
 		<path>media/clothing/clothingItems/JZV_SlimSuitJacket_Black.xml</path>
 		<guid>7fec790b-06c2-4ad2-83ed-4c8064f4c65d</guid>
 	</files>
+	<files>
+		<path>media/clothing/clothingItems/JZV_LoonPants_Black.xml</path>
+		<guid>57cd8739-1c6b-41ff-86bf-e76b2c0480d8</guid>
+	</files>
 </fileGuidTable>
 

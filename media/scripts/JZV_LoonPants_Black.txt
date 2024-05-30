@@ -1,0 +1,36 @@
+module JazzyVogue
+{
+    item JZV_LoonPants_Black
+    {
+        DisplayCategory = Clothing,
+        Type = Clothing,
+        DisplayName = Jazzy Vogue - Loon Pants (Black),
+        ClothingItem = JZV_LoonPants_Black,
+        BodyLocation = Pants,
+        Icon = TrousersSuitBlack,
+        BloodLocation = Trousers,
+        ScratchDefense = 10,
+        Insulation = 0.4,
+        WindResistance = 0.2,
+        FabricType = Cotton,
+        WorldStaticModel = Trousers_Ground,
+    }
+
+    recipe Herstellen Jazzy Vogue - Loon Pants (Black)
+    {
+		RippedSheets=10,
+		Thread;2,
+		PaintBlack;3,
+
+		keep Needle,
+		keep Paintbrush,
+        keep JZV_Sketchbook,
+
+		Result:JZV_LoonPants_Black,
+		Time:450.0,
+		Category:Tailoring,
+		SkillRequired:Tailoring=10,
+		OnGiveXP:Recipe.OnGiveXP.Tailoring5,
+		CanBeDoneFromFloor:true,
+    }
+}
