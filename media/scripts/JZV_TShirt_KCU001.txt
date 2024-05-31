@@ -28,6 +28,7 @@ module JazzyVogue
 		PaintWhite;1,
         PaintBlue;1,
 		PaintGreen;1,
+		PaintRed;1,
 
 		keep Needle,
 		keep Paintbrush,
