@@ -120,5 +120,9 @@
 		<path>media/clothing/clothingItems/JZV_LoonPants_Black.xml</path>
 		<guid>57cd8739-1c6b-41ff-86bf-e76b2c0480d8</guid>
 	</files>
+		<files>
+		<path>media/clothing/clothingItems/JZV_Dress_Modern001.xml</path>
+		<guid>6c57b5b1-d538-4c7f-a1d6-7845440af166</guid>
+	</files>
 </fileGuidTable>
 
