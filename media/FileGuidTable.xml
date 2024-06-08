@@ -132,5 +132,9 @@
 		<path>media/clothing/clothingItems/JZV_SlimSuitJacket_Pink.xml</path>
 		<guid>69d98344-2fca-4e8d-aa53-e0d36b617bbb</guid>
 	</files>
+	<files>
+		<path>media/clothing/clothingItems/JZV_Dress_Knit001.xml</path>
+		<guid>feb3fd07-4168-45f4-9bc0-8ab06570cac1</guid>
+	</files>
 </fileGuidTable>
 
