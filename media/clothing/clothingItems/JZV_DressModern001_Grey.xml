@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<clothingItem>
+	<m_MaleModel></m_MaleModel>
+	<m_FemaleModel></m_FemaleModel>
+	<m_GUID>6e834292-7df9-45e7-ba7d-c392d16a30ef</m_GUID>
+	<m_Static>false</m_Static>
+	<m_AllowRandomHue>false</m_AllowRandomHue>
+	<m_AllowRandomTint>false</m_AllowRandomTint>
+	<m_AttachBone></m_AttachBone>
+	<m_BaseTextures>clothes\JazzyVogue\JZV_DressModern001\JZV_DressModern001_Grey</m_BaseTextures>
+</clothingItem>

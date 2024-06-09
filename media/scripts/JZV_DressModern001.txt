@@ -1,0 +1,274 @@
+module JazzyVogue
+{
+    item JZV_DressModern001_Black
+    {
+        DisplayCategory = Clothing,
+        Type = Clothing,
+        DisplayName = Jazzy Vogue - Modern Dress No. 1 (Black),
+        ClothingItem = JZV_DressModern001_Black,
+        BodyLocation = Dress,
+        BloodLocation = Trousers;Shirt,
+        Icon = JZV_DressGeneric_Black,
+        RunSpeedModifier = 0.93,
+        Insulation = 0.20,
+        WindResistance = 0.15,
+        FabricType = Cotton,
+        WorldStaticModel = Dress_Mid_Ground,
+    }
+
+    item JZV_DressModern001_Brown
+    {
+        DisplayCategory = Clothing,
+        Type = Clothing,
+        DisplayName = Jazzy Vogue - Modern Dress No. 1 (Brown),
+        ClothingItem = JZV_DressModern001_Brown,
+        BodyLocation = Dress,
+        BloodLocation = Trousers;Shirt,
+        Icon = JZV_DressGeneric_Brown,
+        RunSpeedModifier = 0.93,
+        Insulation = 0.20,
+        WindResistance = 0.15,
+        FabricType = Cotton,
+        WorldStaticModel = Dress_Mid_Ground,
+    }
+
+    item JZV_DressModern001_Green
+    {
+        DisplayCategory = Clothing,
+        Type = Clothing,
+        DisplayName = Jazzy Vogue - Modern Dress No. 1 (Green),
+        ClothingItem = JZV_DressModern001_Green,
+        BodyLocation = Dress,
+        BloodLocation = Trousers;Shirt,
+        Icon = JZV_DressGeneric_Green,
+        RunSpeedModifier = 0.93,
+        Insulation = 0.20,
+        WindResistance = 0.15,
+        FabricType = Cotton,
+        WorldStaticModel = Dress_Mid_Ground,
+    }
+
+    item JZV_DressModern001_Grey
+    {
+        DisplayCategory = Clothing,
+        Type = Clothing,
+        DisplayName = Jazzy Vogue - Modern Dress No. 1 (Grey),
+        ClothingItem = JZV_DressModern001_Grey,
+        BodyLocation = Dress,
+        BloodLocation = Trousers;Shirt,
+        Icon = JZV_DressGeneric_Grey,
+        RunSpeedModifier = 0.93,
+        Insulation = 0.20,
+        WindResistance = 0.15,
+        FabricType = Cotton,
+        WorldStaticModel = Dress_Mid_Ground,
+    }
+
+    item JZV_DressModern001_Indigo
+    {
+        DisplayCategory = Clothing,
+        Type = Clothing,
+        DisplayName = Jazzy Vogue - Modern Dress No. 1 (Indigo),
+        ClothingItem = JZV_DressModern001_Indigo,
+        BodyLocation = Dress,
+        BloodLocation = Trousers;Shirt,
+        Icon = JZV_DressGeneric_Indigo,
+        RunSpeedModifier = 0.93,
+        Insulation = 0.20,
+        WindResistance = 0.15,
+        FabricType = Cotton,
+        WorldStaticModel = Dress_Mid_Ground,
+    }
+
+    item JZV_DressModern001_Midori
+    {
+        DisplayCategory = Clothing,
+        Type = Clothing,
+        DisplayName = Jazzy Vogue - Modern Dress No. 1 (Midori),
+        ClothingItem = JZV_DressModern001_Midori,
+        BodyLocation = Dress,
+        BloodLocation = Trousers;Shirt,
+        Icon = JZV_DressGeneric_Midori,
+        RunSpeedModifier = 0.93,
+        Insulation = 0.20,
+        WindResistance = 0.15,
+        FabricType = Cotton,
+        WorldStaticModel = Dress_Mid_Ground,
+    }
+
+    item JZV_DressModern001_Nautilus
+    {
+        DisplayCategory = Clothing,
+        Type = Clothing,
+        DisplayName = Jazzy Vogue - Modern Dress No. 1 (Nautilus),
+        ClothingItem = JZV_DressModern001_Nautilus,
+        BodyLocation = Dress,
+        BloodLocation = Trousers;Shirt,
+        Icon = JZV_DressGeneric_Nautilus,
+        RunSpeedModifier = 0.93,
+        Insulation = 0.20,
+        WindResistance = 0.15,
+        FabricType = Cotton,
+        WorldStaticModel = Dress_Mid_Ground,
+    }
+
+    item JZV_DressModern001_Olive
+    {
+        DisplayCategory = Clothing,
+        Type = Clothing,
+        DisplayName = Jazzy Vogue - Modern Dress No. 1 (Olive),
+        ClothingItem = JZV_DressModern001_Olive,
+        BodyLocation = Dress,
+        BloodLocation = Trousers;Shirt,
+        Icon = JZV_DressGeneric_Olive,
+        RunSpeedModifier = 0.93,
+        Insulation = 0.20,
+        WindResistance = 0.15,
+        FabricType = Cotton,
+        WorldStaticModel = Dress_Mid_Ground,
+    }
+
+    item JZV_DressModern001_Orange
+    {
+        DisplayCategory = Clothing,
+        Type = Clothing,
+        DisplayName = Jazzy Vogue - Modern Dress No. 1 (Orange),
+        ClothingItem = JZV_DressModern001_Orange,
+        BodyLocation = Dress,
+        BloodLocation = Trousers;Shirt,
+        Icon = JZV_DressGeneric_Orange,
+        RunSpeedModifier = 0.93,
+        Insulation = 0.20,
+        WindResistance = 0.15,
+        FabricType = Cotton,
+        WorldStaticModel = Dress_Mid_Ground,
+    }
+
+    item JZV_DressModern001_Pear
+    {
+        DisplayCategory = Clothing,
+        Type = Clothing,
+        DisplayName = Jazzy Vogue - Modern Dress No. 1 (Pear),
+        ClothingItem = JZV_DressModern001_Pear,
+        BodyLocation = Dress,
+        BloodLocation = Trousers;Shirt,
+        Icon = JZV_DressGeneric_Pear,
+        RunSpeedModifier = 0.93,
+        Insulation = 0.20,
+        WindResistance = 0.15,
+        FabricType = Cotton,
+        WorldStaticModel = Dress_Mid_Ground,
+    }
+
+    item JZV_DressModern001_Pine
+    {
+        DisplayCategory = Clothing,
+        Type = Clothing,
+        DisplayName = Jazzy Vogue - Modern Dress No. 1 (Pine),
+        ClothingItem = JZV_DressModern001_Pine,
+        BodyLocation = Dress,
+        BloodLocation = Trousers;Shirt,
+        Icon = JZV_DressGeneric_Pine,
+        RunSpeedModifier = 0.93,
+        Insulation = 0.20,
+        WindResistance = 0.15,
+        FabricType = Cotton,
+        WorldStaticModel = Dress_Mid_Ground,
+    }
+
+    item JZV_DressModern001_Plum
+    {
+        DisplayCategory = Clothing,
+        Type = Clothing,
+        DisplayName = Jazzy Vogue - Modern Dress No. 1 (Plum),
+        ClothingItem = JZV_DressModern001_Plum,
+        BodyLocation = Dress,
+        BloodLocation = Trousers;Shirt,
+        Icon = JZV_DressGeneric_Plum,
+        RunSpeedModifier = 0.93,
+        Insulation = 0.20,
+        WindResistance = 0.15,
+        FabricType = Cotton,
+        WorldStaticModel = Dress_Mid_Ground,
+    }
+
+    item JZV_DressModern001_Purple
+    {
+        DisplayCategory = Clothing,
+        Type = Clothing,
+        DisplayName = Jazzy Vogue - Modern Dress No. 1 (Purple),
+        ClothingItem = JZV_DressModern001_Purple,
+        BodyLocation = Dress,
+        BloodLocation = Trousers;Shirt,
+        Icon = JZV_DressGeneric_Purple,
+        RunSpeedModifier = 0.93,
+        Insulation = 0.20,
+        WindResistance = 0.15,
+        FabricType = Cotton,
+        WorldStaticModel = Dress_Mid_Ground,
+    }
+
+    item JZV_DressModern001_Red
+    {
+        DisplayCategory = Clothing,
+        Type = Clothing,
+        DisplayName = Jazzy Vogue - Modern Dress No. 1 (Red),
+        ClothingItem = JZV_DressModern001_Red,
+        BodyLocation = Dress,
+        BloodLocation = Trousers;Shirt,
+        Icon = JZV_DressGeneric_Red,
+        RunSpeedModifier = 0.93,
+        Insulation = 0.20,
+        WindResistance = 0.15,
+        FabricType = Cotton,
+        WorldStaticModel = Dress_Mid_Ground,
+    }
+
+    item JZV_DressModern001_Teal
+    {
+        DisplayCategory = Clothing,
+        Type = Clothing,
+        DisplayName = Jazzy Vogue - Modern Dress No. 1 (Teal),
+        ClothingItem = JZV_DressModern001_Teal,
+        BodyLocation = Dress,
+        BloodLocation = Trousers;Shirt,
+        Icon = JZV_DressGeneric_Teal,
+        RunSpeedModifier = 0.93,
+        Insulation = 0.20,
+        WindResistance = 0.15,
+        FabricType = Cotton,
+        WorldStaticModel = Dress_Mid_Ground,
+    }
+
+    item JZV_DressModern001_Turquoise
+    {
+        DisplayCategory = Clothing,
+        Type = Clothing,
+        DisplayName = Jazzy Vogue - Modern Dress No. 1 (Turquoise),
+        ClothingItem = JZV_DressModern001_Turquoise,
+        BodyLocation = Dress,
+        BloodLocation = Trousers;Shirt,
+        Icon = JZV_DressGeneric_Turquoise,
+        RunSpeedModifier = 0.93,
+        Insulation = 0.20,
+        WindResistance = 0.15,
+        FabricType = Cotton,
+        WorldStaticModel = Dress_Mid_Ground,
+    }
+
+    item JZV_DressModern001_White
+    {
+        DisplayCategory = Clothing,
+        Type = Clothing,
+        DisplayName = Jazzy Vogue - Modern Dress No. 1 (White),
+        ClothingItem = JZV_DressModern001_White,
+        BodyLocation = Dress,
+        BloodLocation = Trousers;Shirt,
+        Icon = JZV_DressGeneric_White,
+        RunSpeedModifier = 0.93,
+        Insulation = 0.20,
+        WindResistance = 0.15,
+        FabricType = Cotton,
+        WorldStaticModel = Dress_Mid_Ground,
+    }
+}

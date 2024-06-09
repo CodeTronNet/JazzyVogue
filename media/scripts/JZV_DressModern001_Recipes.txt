@@ -1,0 +1,342 @@
+module JazzyVogue
+{
+    recipe Herstellen Jazzy Vogue - Modern Dress No. 1 (Black)
+    {
+		RippedSheets=10,
+		Thread;4,
+        Sheet=1,
+        PaintBlack;3,
+
+        keep KnittingNeedles,
+		keep Needle,
+		keep Paintbrush,
+        keep JZV_Sketchbook,
+
+		Result:JZV_DressModern001_Black,
+		Time:600.0,
+		Category:Tailoring,
+		SkillRequired:Tailoring=10,
+		OnGiveXP:Recipe.OnGiveXP.Tailoring5,
+		CanBeDoneFromFloor:true,
+    }
+
+    recipe Herstellen Jazzy Vogue - Modern Dress No. 1 (Brown)
+    {
+		RippedSheets=10,
+		Thread;4,
+        Sheet=1,
+        PaintBrown;3,
+
+        keep KnittingNeedles,
+		keep Needle,
+		keep Paintbrush,
+        keep JZV_Sketchbook,
+
+		Result:JZV_DressModern001_Brown,
+		Time:600.0,
+		Category:Tailoring,
+		SkillRequired:Tailoring=10,
+		OnGiveXP:Recipe.OnGiveXP.Tailoring5,
+		CanBeDoneFromFloor:true,
+    }
+
+    recipe Herstellen Jazzy Vogue - Modern Dress No. 1 (Green)
+    {
+		RippedSheets=10,
+		Thread;4,
+        Sheet=1,
+        PaintGreen;3,
+
+        keep KnittingNeedles,
+		keep Needle,
+		keep Paintbrush,
+        keep JZV_Sketchbook,
+
+		Result:JZV_DressModern001_Green,
+		Time:600.0,
+		Category:Tailoring,
+		SkillRequired:Tailoring=10,
+		OnGiveXP:Recipe.OnGiveXP.Tailoring5,
+		CanBeDoneFromFloor:true,
+    }
+
+    recipe Herstellen Jazzy Vogue - Modern Dress No. 1 (Grey)
+    {
+		RippedSheets=10,
+		Thread;4,
+        Sheet=1,
+        PaintGrey;3,
+
+        keep KnittingNeedles,
+		keep Needle,
+		keep Paintbrush,
+        keep JZV_Sketchbook,
+
+		Result:JZV_DressModern001_Grey,
+		Time:600.0,
+		Category:Tailoring,
+		SkillRequired:Tailoring=10,
+		OnGiveXP:Recipe.OnGiveXP.Tailoring5,
+		CanBeDoneFromFloor:true,
+    }
+
+    recipe Herstellen Jazzy Vogue - Modern Dress No. 1 (Indigo)
+    {
+		RippedSheets=10,
+		Thread;4,
+        Sheet=1,
+        PaintPurple;3,
+
+        keep KnittingNeedles,
+		keep Needle,
+		keep Paintbrush,
+        keep JZV_Sketchbook,
+
+		Result:JZV_DressModern001_Indigo,
+		Time:600.0,
+		Category:Tailoring,
+		SkillRequired:Tailoring=10,
+		OnGiveXP:Recipe.OnGiveXP.Tailoring5,
+		CanBeDoneFromFloor:true,
+    }
+
+    recipe Herstellen Jazzy Vogue - Modern Dress No. 1 (Midori)
+    {
+		RippedSheets=10,
+		Thread;4,
+        Sheet=1,
+        PaintTurquoise;3,
+
+        keep KnittingNeedles,
+		keep Needle,
+		keep Paintbrush,
+        keep JZV_Sketchbook,
+
+		Result:JZV_DressModern001_Midori,
+		Time:600.0,
+		Category:Tailoring,
+		SkillRequired:Tailoring=10,
+		OnGiveXP:Recipe.OnGiveXP.Tailoring5,
+		CanBeDoneFromFloor:true,
+    }
+
+    recipe Herstellen Jazzy Vogue - Modern Dress No. 1 (Nautilus)
+    {
+		RippedSheets=10,
+		Thread;4,
+        Sheet=1,
+        PaintBlue;3,
+
+        keep KnittingNeedles,
+		keep Needle,
+		keep Paintbrush,
+        keep JZV_Sketchbook,
+
+		Result:JZV_DressModern001_Nautilus,
+		Time:600.0,
+		Category:Tailoring,
+		SkillRequired:Tailoring=10,
+		OnGiveXP:Recipe.OnGiveXP.Tailoring5,
+		CanBeDoneFromFloor:true,
+    }
+
+    recipe Herstellen Jazzy Vogue - Modern Dress No. 1 (Olive)
+    {
+		RippedSheets=10,
+		Thread;4,
+        Sheet=1,
+        PaintGreen;3,
+
+        keep KnittingNeedles,
+		keep Needle,
+		keep Paintbrush,
+        keep JZV_Sketchbook,
+
+		Result:JZV_DressModern001_Olive,
+		Time:600.0,
+		Category:Tailoring,
+		SkillRequired:Tailoring=10,
+		OnGiveXP:Recipe.OnGiveXP.Tailoring5,
+		CanBeDoneFromFloor:true,
+    }
+
+    recipe Herstellen Jazzy Vogue - Modern Dress No. 1 (Orange)
+    {
+		RippedSheets=10,
+		Thread;4,
+        Sheet=1,
+        PaintOrange;3,
+
+        keep KnittingNeedles,
+		keep Needle,
+		keep Paintbrush,
+        keep JZV_Sketchbook,
+
+		Result:JZV_DressModern001_Orange,
+		Time:600.0,
+		Category:Tailoring,
+		SkillRequired:Tailoring=10,
+		OnGiveXP:Recipe.OnGiveXP.Tailoring5,
+		CanBeDoneFromFloor:true,
+    }
+
+    recipe Herstellen Jazzy Vogue - Modern Dress No. 1 (Pear)
+    {
+		RippedSheets=10,
+		Thread;4,
+        Sheet=1,
+        PaintGreen;3,
+
+        keep KnittingNeedles,
+		keep Needle,
+		keep Paintbrush,
+        keep JZV_Sketchbook,
+
+		Result:JZV_DressModern001_Pear,
+		Time:600.0,
+		Category:Tailoring,
+		SkillRequired:Tailoring=10,
+		OnGiveXP:Recipe.OnGiveXP.Tailoring5,
+		CanBeDoneFromFloor:true,
+    }
+
+    recipe Herstellen Jazzy Vogue - Modern Dress No. 1 (Pine)
+    {
+		RippedSheets=10,
+		Thread;4,
+        Sheet=1,
+        PaintGreen;3,
+
+        keep KnittingNeedles,
+		keep Needle,
+		keep Paintbrush,
+        keep JZV_Sketchbook,
+
+		Result:JZV_DressModern001_Pine,
+		Time:600.0,
+		Category:Tailoring,
+		SkillRequired:Tailoring=10,
+		OnGiveXP:Recipe.OnGiveXP.Tailoring5,
+		CanBeDoneFromFloor:true,
+    }
+
+    recipe Herstellen Jazzy Vogue - Modern Dress No. 1 (Plum)
+    {
+		RippedSheets=10,
+		Thread;4,
+        Sheet=1,
+        PaintRed;3,
+
+        keep KnittingNeedles,
+		keep Needle,
+		keep Paintbrush,
+        keep JZV_Sketchbook,
+
+		Result:JZV_DressModern001_Plum,
+		Time:600.0,
+		Category:Tailoring,
+		SkillRequired:Tailoring=10,
+		OnGiveXP:Recipe.OnGiveXP.Tailoring5,
+		CanBeDoneFromFloor:true,
+    }
+
+    recipe Herstellen Jazzy Vogue - Modern Dress No. 1 (Purple)
+    {
+		RippedSheets=10,
+		Thread;4,
+        Sheet=1,
+        PaintPurple;3,
+
+        keep KnittingNeedles,
+		keep Needle,
+		keep Paintbrush,
+        keep JZV_Sketchbook,
+
+		Result:JZV_DressModern001_Purple,
+		Time:600.0,
+		Category:Tailoring,
+		SkillRequired:Tailoring=10,
+		OnGiveXP:Recipe.OnGiveXP.Tailoring5,
+		CanBeDoneFromFloor:true,
+    }
+
+    recipe Herstellen Jazzy Vogue - Modern Dress No. 1 (Red)
+    {
+		RippedSheets=10,
+		Thread;4,
+        Sheet=1,
+        PaintRed;3,
+
+        keep KnittingNeedles,
+		keep Needle,
+		keep Paintbrush,
+        keep JZV_Sketchbook,
+
+		Result:JZV_DressModern001_Red,
+		Time:600.0,
+		Category:Tailoring,
+		SkillRequired:Tailoring=10,
+		OnGiveXP:Recipe.OnGiveXP.Tailoring5,
+		CanBeDoneFromFloor:true,
+    }
+
+    recipe Herstellen Jazzy Vogue - Modern Dress No. 1 (Teal)
+    {
+		RippedSheets=10,
+		Thread;4,
+        Sheet=1,
+        PaintBlue;3,
+
+        keep KnittingNeedles,
+		keep Needle,
+		keep Paintbrush,
+        keep JZV_Sketchbook,
+
+		Result:JZV_DressModern001_Teal,
+		Time:600.0,
+		Category:Tailoring,
+		SkillRequired:Tailoring=10,
+		OnGiveXP:Recipe.OnGiveXP.Tailoring5,
+		CanBeDoneFromFloor:true,
+    }
+
+    recipe Herstellen Jazzy Vogue - Modern Dress No. 1 (Turquoise)
+    {
+		RippedSheets=10,
+		Thread;4,
+        Sheet=1,
+        PaintTurquoise;3,
+
+        keep KnittingNeedles,
+		keep Needle,
+		keep Paintbrush,
+        keep JZV_Sketchbook,
+
+		Result:JZV_DressModern001_Turquoise,
+		Time:600.0,
+		Category:Tailoring,
+		SkillRequired:Tailoring=10,
+		OnGiveXP:Recipe.OnGiveXP.Tailoring5,
+		CanBeDoneFromFloor:true,
+    }
+
+    recipe Herstellen Jazzy Vogue - Modern Dress No. 1 (White)
+    {
+		RippedSheets=10,
+		Thread;4,
+        Sheet=1,
+        PaintWhite;3,
+
+        keep KnittingNeedles,
+		keep Needle,
+		keep Paintbrush,
+        keep JZV_Sketchbook,
+
+		Result:JZV_DressModern001_White,
+		Time:600.0,
+		Category:Tailoring,
+		SkillRequired:Tailoring=10,
+		OnGiveXP:Recipe.OnGiveXP.Tailoring5,
+		CanBeDoneFromFloor:true,
+    }
+}

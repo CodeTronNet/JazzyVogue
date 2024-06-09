@@ -206,5 +206,75 @@
 		<path>media/clothing/clothingItems/JZV_DressKnit001_White.xml</path>
 		<guid>50c70f9b-169f-4614-b6f1-7fd9d5213db9</guid>
 	</files>
+
+	<!-- JZV_DressModern001 -->
+	<files>
+		<path>media/clothing/clothingItems/JZV_DressModern001_Black.xml</path>
+		<guid>d2a4aa52-456b-4d27-bb01-d14fa7c2554e</guid>
+	</files>
+	<files>
+		<path>media/clothing/clothingItems/JZV_DressModern001_Brown.xml</path>
+		<guid>a09a3cdd-ec07-4afe-9abb-e7ec7c4218cb</guid>
+	</files>
+	<files>
+		<path>media/clothing/clothingItems/JZV_DressModern001_Green.xml</path>
+		<guid>2cdd5f15-a53d-4e26-a7e1-7a9446c95f10</guid>
+	</files>
+	<files>
+		<path>media/clothing/clothingItems/JZV_DressModern001_Grey.xml</path>
+		<guid>6e834292-7df9-45e7-ba7d-c392d16a30ef</guid>
+	</files>
+	<files>
+		<path>media/clothing/clothingItems/JZV_DressModern001_Indigo.xml</path>
+		<guid>596a7022-42ed-4c77-833d-6cb0fc606582</guid>
+	</files>
+	<files>
+		<path>media/clothing/clothingItems/JZV_DressModern001_Midori.xml</path>
+		<guid>3744a0a3-a138-4293-9987-4b51f854973f</guid>
+	</files>
+	<files>
+		<path>media/clothing/clothingItems/JZV_DressModern001_Nautilus.xml</path>
+		<guid>cb786eda-2787-4de2-bea0-ad751b1375d3</guid>
+	</files>
+	<files>
+		<path>media/clothing/clothingItems/JZV_DressModern001_Olive.xml</path>
+		<guid>7bc4d8d0-9494-4a89-8a76-3940399dad9c</guid>
+	</files>
+	<files>
+		<path>media/clothing/clothingItems/JZV_DressModern001_Orange.xml</path>
+		<guid>48723ea4-f412-4c08-943b-c4e6bee983b4</guid>
+	</files>
+	<files>
+		<path>media/clothing/clothingItems/JZV_DressModern001_Pear.xml</path>
+		<guid>d1f588ed-bf67-4edf-85b0-347e6004ec15</guid>
+	</files>
+	<files>
+		<path>media/clothing/clothingItems/JZV_DressModern001_Pine.xml</path>
+		<guid>b599d1a3-8f8f-409c-b5da-8b4c2f38afd2</guid>
+	</files>
+	<files>
+		<path>media/clothing/clothingItems/JZV_DressModern001_Plum.xml</path>
+		<guid>d9d6082b-195c-4c69-ad7f-70f417d6546a</guid>
+	</files>
+	<files>
+		<path>media/clothing/clothingItems/JZV_DressModern001_Purple.xml</path>
+		<guid>5cdc2db3-f565-421d-99e8-ab7aea7d0b53</guid>
+	</files>
+	<files>
+		<path>media/clothing/clothingItems/JZV_DressModern001_Red.xml</path>
+		<guid>5d9f54c8-46de-45ab-889a-f2cc085e7c1c</guid>
+	</files>
+	<files>
+		<path>media/clothing/clothingItems/JZV_DressModern001_Teal.xml</path>
+		<guid>9d50f6ce-46e1-4ba8-909c-1d114a928ae0</guid>
+	</files>
+	<files>
+		<path>media/clothing/clothingItems/JZV_DressModern001_Turquoise.xml</path>
+		<guid>19fd35b0-9439-4ddb-a83d-367e15a8cd28</guid>
+	</files>
+	<files>
+		<path>media/clothing/clothingItems/JZV_DressModern001_White.xml</path>
+		<guid>de8f318e-5349-44ef-aaa3-b3ada79f6962</guid>
+	</files>
 </fileGuidTable>
 
