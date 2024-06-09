@@ -136,5 +136,75 @@
 		<path>media/clothing/clothingItems/JZV_Dress_Knit001.xml</path>
 		<guid>feb3fd07-4168-45f4-9bc0-8ab06570cac1</guid>
 	</files>
+
+	<!-- JZV_DressKnit001 -->
+	<files>
+		<path>media/clothing/clothingItems/JZV_DressKnit001_Black.xml</path>
+		<guid>edf4a8c6-89aa-42d4-bfb6-e76b721de20e</guid>
+	</files>
+	<files>
+		<path>media/clothing/clothingItems/JZV_DressKnit001_Brown.xml</path>
+		<guid>88ad8a37-ac32-4eda-bbeb-cddce89f6514</guid>
+	</files>
+	<files>
+		<path>media/clothing/clothingItems/JZV_DressKnit001_Green.xml</path>
+		<guid>61dcd906-e401-441c-9625-8b4e333a7e58</guid>
+	</files>
+	<files>
+		<path>media/clothing/clothingItems/JZV_DressKnit001_Grey.xml</path>
+		<guid>5dc23f92-d6bc-44d8-9964-d5b5f717725f</guid>
+	</files>
+	<files>
+		<path>media/clothing/clothingItems/JZV_DressKnit001_Indigo.xml</path>
+		<guid>ce8e948d-0a92-4ab0-92b0-95f7f887ff96</guid>
+	</files>
+	<files>
+		<path>media/clothing/clothingItems/JZV_DressKnit001_Midori.xml</path>
+		<guid>e72db88f-44a4-41ce-adc6-23fbaa217319</guid>
+	</files>
+	<files>
+		<path>media/clothing/clothingItems/JZV_DressKnit001_Nautilus.xml</path>
+		<guid>ad93dc70-8dc7-48bd-823b-6ef4abbc44d6</guid>
+	</files>
+	<files>
+		<path>media/clothing/clothingItems/JZV_DressKnit001_Olive.xml</path>
+		<guid>61bd592c-93dc-4c98-9fae-982c45eff1b7</guid>
+	</files>
+	<files>
+		<path>media/clothing/clothingItems/JZV_DressKnit001_Orange.xml</path>
+		<guid>82b903fe-b27f-4fac-87ac-5b7df4f737e6</guid>
+	</files>
+	<files>
+		<path>media/clothing/clothingItems/JZV_DressKnit001_Pear.xml</path>
+		<guid>2e6c1d27-19e6-4b16-ade0-adc3f4fbdd6a</guid>
+	</files>
+	<files>
+		<path>media/clothing/clothingItems/JZV_DressKnit001_Pine.xml</path>
+		<guid>f294b818-c47f-4681-b317-b4618d818ee4</guid>
+	</files>
+	<files>
+		<path>media/clothing/clothingItems/JZV_DressKnit001_Plum.xml</path>
+		<guid>c9d304e9-5a1f-422d-b942-47ef3e1435f0</guid>
+	</files>
+	<files>
+		<path>media/clothing/clothingItems/JZV_DressKnit001_Purple.xml</path>
+		<guid>40883a07-3e2b-49c8-bbf5-f87d91c2d8d8</guid>
+	</files>
+	<files>
+		<path>media/clothing/clothingItems/JZV_DressKnit001_Red.xml</path>
+		<guid>e97d2476-1968-4cb9-99d8-a97d5a2f45ae</guid>
+	</files>
+	<files>
+		<path>media/clothing/clothingItems/JZV_DressKnit001_Teal.xml</path>
+		<guid>6aedd7b8-832f-48a6-b444-f20dc2a29352</guid>
+	</files>
+	<files>
+		<path>media/clothing/clothingItems/JZV_DressKnit001_Turquoise.xml</path>
+		<guid>0544db6f-d8ad-4d1d-b832-8dc5fceb51cc</guid>
+	</files>
+	<files>
+		<path>media/clothing/clothingItems/JZV_DressKnit001_White.xml</path>
+		<guid>50c70f9b-169f-4614-b6f1-7fd9d5213db9</guid>
+	</files>
 </fileGuidTable>
 
