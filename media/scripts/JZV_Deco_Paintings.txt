@@ -15,4 +15,36 @@ module JazzyVogue
 		WorldObjectSprite = JazzyVogue001_2,
 		DisplayName	= Bild des Homo Superior Orden No. 1,
 	}
+
+	item JZV_Deco_Painting_TronyaJames001
+	{
+		Weight = 0.2,	
+		Type = Moveable,
+		WorldObjectSprite = JazzyVogue001_12,
+		DisplayName	= Zeichnung von Tronya und James No. 1,
+	}
+
+	recipe Herstellen Jazzy Vogue - Zeichnung TJ No. 1
+    {
+		Sheet=1,
+		Thread;5,
+		Plank=4,
+		PaintBlue;1,
+		PaintWhite;1,
+		PaintBlack;1,
+		PaintRed;1,
+		PaintGreen;1,
+
+		keep [Recipe.GetItemTypes.Hammer],
+		keep Needle,
+		keep Paintbrush,
+		keep JZV_Sketchbook,
+
+		Result:JZV_Deco_Painting_TronyaJames001,
+		Time:800.0,
+		Category:Tailoring,
+		SkillRequired:Tailoring=10,
+		OnGiveXP:Recipe.OnGiveXP.Tailoring5,
+		CanBeDoneFromFloor:true,
+    }
 }
