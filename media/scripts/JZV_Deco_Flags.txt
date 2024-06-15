@@ -73,12 +73,11 @@ module JazzyVogue
 
 		keep Needle,
 		keep Paintbrush,
-		keep JZV_Sketchbook,
 
 		Result:JZV_Deco_Flag_Raiders001,
 		Time:800.0,
 		Category:Tailoring,
-		SkillRequired:Tailoring=10,
+		SkillRequired:Tailoring=4,
 		OnGiveXP:Recipe.OnGiveXP.Tailoring5,
 		CanBeDoneFromFloor:true,
     }
