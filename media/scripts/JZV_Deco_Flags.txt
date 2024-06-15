@@ -64,7 +64,7 @@ module JazzyVogue
 		DisplayName	= Flagge der Raiders No. 1,
 	}
 
-	recipe Herstellen Jazzy Vogue - Flagge der Raider No. 1
+	recipe Herstellen Flagge der Raiders No. 1
     {
 		Sheet=1,
 		Thread;5,
