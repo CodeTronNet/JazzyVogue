@@ -1,6 +1,6 @@
 module JazzyVogue
 {
-    recipe Herstellen Jazzy Vogue - Modern Dress No. 1 (Black)
+    recipe Herstellen Jazzy Vogue - Strapless A-Line Dress (Black)
     {
 		RippedSheets=10,
 		Thread;4,
@@ -11,7 +11,7 @@ module JazzyVogue
 		keep Paintbrush,
         keep JZV_Sketchbook,
 
-		Result:JZV_DressModern001_Black,
+		Result:JZV_DressALineStrapless_Black,
 		Time:600.0,
 		Category:Tailoring,
 		SkillRequired:Tailoring=10,
@@ -19,7 +19,7 @@ module JazzyVogue
 		CanBeDoneFromFloor:true,
     }
 
-    recipe Herstellen Jazzy Vogue - Modern Dress No. 1 (Brown)
+    recipe Herstellen Jazzy Vogue - Strapless A-Line Dress (Brown)
     {
 		RippedSheets=10,
 		Thread;4,
@@ -30,7 +30,7 @@ module JazzyVogue
 		keep Paintbrush,
         keep JZV_Sketchbook,
 
-		Result:JZV_DressModern001_Brown,
+		Result:JZV_DressALineStrapless_Brown,
 		Time:600.0,
 		Category:Tailoring,
 		SkillRequired:Tailoring=10,
@@ -38,7 +38,7 @@ module JazzyVogue
 		CanBeDoneFromFloor:true,
     }
 
-    recipe Herstellen Jazzy Vogue - Modern Dress No. 1 (Green)
+    recipe Herstellen Jazzy Vogue - Strapless A-Line Dress (Green)
     {
 		RippedSheets=10,
 		Thread;4,
@@ -49,7 +49,7 @@ module JazzyVogue
 		keep Paintbrush,
         keep JZV_Sketchbook,
 
-		Result:JZV_DressModern001_Green,
+		Result:JZV_DressALineStrapless_Green,
 		Time:600.0,
 		Category:Tailoring,
 		SkillRequired:Tailoring=10,
@@ -57,7 +57,7 @@ module JazzyVogue
 		CanBeDoneFromFloor:true,
     }
 
-    recipe Herstellen Jazzy Vogue - Modern Dress No. 1 (Grey)
+    recipe Herstellen Jazzy Vogue - Strapless A-Line Dress (Grey)
     {
 		RippedSheets=10,
 		Thread;4,
@@ -68,7 +68,7 @@ module JazzyVogue
 		keep Paintbrush,
         keep JZV_Sketchbook,
 
-		Result:JZV_DressModern001_Grey,
+		Result:JZV_DressALineStrapless_Grey,
 		Time:600.0,
 		Category:Tailoring,
 		SkillRequired:Tailoring=10,
@@ -76,7 +76,7 @@ module JazzyVogue
 		CanBeDoneFromFloor:true,
     }
 
-    recipe Herstellen Jazzy Vogue - Modern Dress No. 1 (Indigo)
+    recipe Herstellen Jazzy Vogue - Strapless A-Line Dress (Indigo)
     {
 		RippedSheets=10,
 		Thread;4,
@@ -87,7 +87,7 @@ module JazzyVogue
 		keep Paintbrush,
         keep JZV_Sketchbook,
 
-		Result:JZV_DressModern001_Indigo,
+		Result:JZV_DressALineStrapless_Indigo,
 		Time:600.0,
 		Category:Tailoring,
 		SkillRequired:Tailoring=10,
@@ -95,7 +95,7 @@ module JazzyVogue
 		CanBeDoneFromFloor:true,
     }
 
-    recipe Herstellen Jazzy Vogue - Modern Dress No. 1 (Midori)
+    recipe Herstellen Jazzy Vogue - Strapless A-Line Dress (Midori)
     {
 		RippedSheets=10,
 		Thread;4,
@@ -106,7 +106,7 @@ module JazzyVogue
 		keep Paintbrush,
         keep JZV_Sketchbook,
 
-		Result:JZV_DressModern001_Midori,
+		Result:JZV_DressALineStrapless_Midori,
 		Time:600.0,
 		Category:Tailoring,
 		SkillRequired:Tailoring=10,
@@ -114,7 +114,7 @@ module JazzyVogue
 		CanBeDoneFromFloor:true,
     }
 
-    recipe Herstellen Jazzy Vogue - Modern Dress No. 1 (Nautilus)
+    recipe Herstellen Jazzy Vogue - Strapless A-Line Dress (Nautilus)
     {
 		RippedSheets=10,
 		Thread;4,
@@ -125,7 +125,7 @@ module JazzyVogue
 		keep Paintbrush,
         keep JZV_Sketchbook,
 
-		Result:JZV_DressModern001_Nautilus,
+		Result:JZV_DressALineStrapless_Nautilus,
 		Time:600.0,
 		Category:Tailoring,
 		SkillRequired:Tailoring=10,
@@ -133,7 +133,7 @@ module JazzyVogue
 		CanBeDoneFromFloor:true,
     }
 
-    recipe Herstellen Jazzy Vogue - Modern Dress No. 1 (Olive)
+    recipe Herstellen Jazzy Vogue - Strapless A-Line Dress (Olive)
     {
 		RippedSheets=10,
 		Thread;4,
@@ -144,7 +144,7 @@ module JazzyVogue
 		keep Paintbrush,
         keep JZV_Sketchbook,
 
-		Result:JZV_DressModern001_Olive,
+		Result:JZV_DressALineStrapless_Olive,
 		Time:600.0,
 		Category:Tailoring,
 		SkillRequired:Tailoring=10,
@@ -152,7 +152,7 @@ module JazzyVogue
 		CanBeDoneFromFloor:true,
     }
 
-    recipe Herstellen Jazzy Vogue - Modern Dress No. 1 (Orange)
+    recipe Herstellen Jazzy Vogue - Strapless A-Line Dress (Orange)
     {
 		RippedSheets=10,
 		Thread;4,
@@ -163,7 +163,7 @@ module JazzyVogue
 		keep Paintbrush,
         keep JZV_Sketchbook,
 
-		Result:JZV_DressModern001_Orange,
+		Result:JZV_DressALineStrapless_Orange,
 		Time:600.0,
 		Category:Tailoring,
 		SkillRequired:Tailoring=10,
@@ -171,7 +171,7 @@ module JazzyVogue
 		CanBeDoneFromFloor:true,
     }
 
-    recipe Herstellen Jazzy Vogue - Modern Dress No. 1 (Pear)
+    recipe Herstellen Jazzy Vogue - Strapless A-Line Dress (Pear)
     {
 		RippedSheets=10,
 		Thread;4,
@@ -182,7 +182,7 @@ module JazzyVogue
 		keep Paintbrush,
         keep JZV_Sketchbook,
 
-		Result:JZV_DressModern001_Pear,
+		Result:JZV_DressALineStrapless_Pear,
 		Time:600.0,
 		Category:Tailoring,
 		SkillRequired:Tailoring=10,
@@ -190,7 +190,7 @@ module JazzyVogue
 		CanBeDoneFromFloor:true,
     }
 
-    recipe Herstellen Jazzy Vogue - Modern Dress No. 1 (Pine)
+    recipe Herstellen Jazzy Vogue - Strapless A-Line Dress (Pine)
     {
 		RippedSheets=10,
 		Thread;4,
@@ -201,7 +201,7 @@ module JazzyVogue
 		keep Paintbrush,
         keep JZV_Sketchbook,
 
-		Result:JZV_DressModern001_Pine,
+		Result:JZV_DressALineStrapless_Pine,
 		Time:600.0,
 		Category:Tailoring,
 		SkillRequired:Tailoring=10,
@@ -209,7 +209,7 @@ module JazzyVogue
 		CanBeDoneFromFloor:true,
     }
 
-    recipe Herstellen Jazzy Vogue - Modern Dress No. 1 (Plum)
+    recipe Herstellen Jazzy Vogue - Strapless A-Line Dress (Plum)
     {
 		RippedSheets=10,
 		Thread;4,
@@ -220,7 +220,7 @@ module JazzyVogue
 		keep Paintbrush,
         keep JZV_Sketchbook,
 
-		Result:JZV_DressModern001_Plum,
+		Result:JZV_DressALineStrapless_Plum,
 		Time:600.0,
 		Category:Tailoring,
 		SkillRequired:Tailoring=10,
@@ -228,7 +228,7 @@ module JazzyVogue
 		CanBeDoneFromFloor:true,
     }
 
-    recipe Herstellen Jazzy Vogue - Modern Dress No. 1 (Purple)
+    recipe Herstellen Jazzy Vogue - Strapless A-Line Dress (Purple)
     {
 		RippedSheets=10,
 		Thread;4,
@@ -239,7 +239,7 @@ module JazzyVogue
 		keep Paintbrush,
         keep JZV_Sketchbook,
 
-		Result:JZV_DressModern001_Purple,
+		Result:JZV_DressALineStrapless_Purple,
 		Time:600.0,
 		Category:Tailoring,
 		SkillRequired:Tailoring=10,
@@ -247,7 +247,7 @@ module JazzyVogue
 		CanBeDoneFromFloor:true,
     }
 
-    recipe Herstellen Jazzy Vogue - Modern Dress No. 1 (Red)
+    recipe Herstellen Jazzy Vogue - Strapless A-Line Dress (Red)
     {
 		RippedSheets=10,
 		Thread;4,
@@ -258,7 +258,7 @@ module JazzyVogue
 		keep Paintbrush,
         keep JZV_Sketchbook,
 
-		Result:JZV_DressModern001_Red,
+		Result:JZV_DressALineStrapless_Red,
 		Time:600.0,
 		Category:Tailoring,
 		SkillRequired:Tailoring=10,
@@ -266,7 +266,7 @@ module JazzyVogue
 		CanBeDoneFromFloor:true,
     }
 
-    recipe Herstellen Jazzy Vogue - Modern Dress No. 1 (Teal)
+    recipe Herstellen Jazzy Vogue - Strapless A-Line Dress (Teal)
     {
 		RippedSheets=10,
 		Thread;4,
@@ -277,7 +277,7 @@ module JazzyVogue
 		keep Paintbrush,
         keep JZV_Sketchbook,
 
-		Result:JZV_DressModern001_Teal,
+		Result:JZV_DressALineStrapless_Teal,
 		Time:600.0,
 		Category:Tailoring,
 		SkillRequired:Tailoring=10,
@@ -285,7 +285,7 @@ module JazzyVogue
 		CanBeDoneFromFloor:true,
     }
 
-    recipe Herstellen Jazzy Vogue - Modern Dress No. 1 (Turquoise)
+    recipe Herstellen Jazzy Vogue - Strapless A-Line Dress (Turquoise)
     {
 		RippedSheets=10,
 		Thread;4,
@@ -296,7 +296,7 @@ module JazzyVogue
 		keep Paintbrush,
         keep JZV_Sketchbook,
 
-		Result:JZV_DressModern001_Turquoise,
+		Result:JZV_DressALineStrapless_Turquoise,
 		Time:600.0,
 		Category:Tailoring,
 		SkillRequired:Tailoring=10,
@@ -304,7 +304,7 @@ module JazzyVogue
 		CanBeDoneFromFloor:true,
     }
 
-    recipe Herstellen Jazzy Vogue - Modern Dress No. 1 (White)
+    recipe Herstellen Jazzy Vogue - Strapless A-Line Dress (White)
     {
 		RippedSheets=10,
 		Thread;4,
@@ -315,7 +315,7 @@ module JazzyVogue
 		keep Paintbrush,
         keep JZV_Sketchbook,
 
-		Result:JZV_DressModern001_White,
+		Result:JZV_DressALineStrapless_White,
 		Time:600.0,
 		Category:Tailoring,
 		SkillRequired:Tailoring=10,

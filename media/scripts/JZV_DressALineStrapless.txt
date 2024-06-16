@@ -1,0 +1,274 @@
+module JazzyVogue
+{
+    item JZV_DressALineStrapless_Black
+    {
+        DisplayCategory = Clothing,
+        Type = Clothing,
+        DisplayName = Jazzy Vogue - Strapless A-Line Dress (Black),
+        ClothingItem = JZV_DressALineStrapless_Black,
+        BodyLocation = Dress,
+        BloodLocation = Trousers;Shirt,
+        Icon = JZV_DressGeneric_Black,
+        RunSpeedModifier = 0.9,
+        Insulation = 0.65,
+        WindResistance = 0.45,
+        FabricType = Cotton,
+        WorldStaticModel = Dress_Mid_Ground,
+    }
+
+    item JZV_DressALineStrapless_Brown
+    {
+        DisplayCategory = Clothing,
+        Type = Clothing,
+        DisplayName = Jazzy Vogue - Strapless A-Line Dress (Brown),
+        ClothingItem = JZV_DressALineStrapless_Brown,
+        BodyLocation = Dress,
+        BloodLocation = Trousers;Shirt,
+        Icon = JZV_DressGeneric_Brown,
+        RunSpeedModifier = 0.9,
+        Insulation = 0.65,
+        WindResistance = 0.45,
+        FabricType = Cotton,
+        WorldStaticModel = Dress_Mid_Ground,
+    }
+
+    item JZV_DressALineStrapless_Green
+    {
+        DisplayCategory = Clothing,
+        Type = Clothing,
+        DisplayName = Jazzy Vogue - Strapless A-Line Dress (Green),
+        ClothingItem = JZV_DressALineStrapless_Green,
+        BodyLocation = Dress,
+        BloodLocation = Trousers;Shirt,
+        Icon = JZV_DressGeneric_Green,
+        RunSpeedModifier = 0.9,
+        Insulation = 0.65,
+        WindResistance = 0.45,
+        FabricType = Cotton,
+        WorldStaticModel = Dress_Mid_Ground,
+    }
+
+    item JZV_DressALineStrapless_Grey
+    {
+        DisplayCategory = Clothing,
+        Type = Clothing,
+        DisplayName = Jazzy Vogue - Strapless A-Line Dress (Grey),
+        ClothingItem = JZV_DressALineStrapless_Grey,
+        BodyLocation = Dress,
+        BloodLocation = Trousers;Shirt,
+        Icon = JZV_DressGeneric_Grey,
+        RunSpeedModifier = 0.9,
+        Insulation = 0.65,
+        WindResistance = 0.45,
+        FabricType = Cotton,
+        WorldStaticModel = Dress_Mid_Ground,
+    }
+
+    item JZV_DressALineStrapless_Indigo
+    {
+        DisplayCategory = Clothing,
+        Type = Clothing,
+        DisplayName = Jazzy Vogue - Strapless A-Line Dress (Indigo),
+        ClothingItem = JZV_DressALineStrapless_Indigo,
+        BodyLocation = Dress,
+        BloodLocation = Trousers;Shirt,
+        Icon = JZV_DressGeneric_Indigo,
+        RunSpeedModifier = 0.9,
+        Insulation = 0.65,
+        WindResistance = 0.45,
+        FabricType = Cotton,
+        WorldStaticModel = Dress_Mid_Ground,
+    }
+
+    item JZV_DressALineStrapless_Midori
+    {
+        DisplayCategory = Clothing,
+        Type = Clothing,
+        DisplayName = Jazzy Vogue - Strapless A-Line Dress (Midori),
+        ClothingItem = JZV_DressALineStrapless_Midori,
+        BodyLocation = Dress,
+        BloodLocation = Trousers;Shirt,
+        Icon = JZV_DressGeneric_Midori,
+        RunSpeedModifier = 0.9,
+        Insulation = 0.65,
+        WindResistance = 0.45,
+        FabricType = Cotton,
+        WorldStaticModel = Dress_Mid_Ground,
+    }
+
+    item JZV_DressALineStrapless_Nautilus
+    {
+        DisplayCategory = Clothing,
+        Type = Clothing,
+        DisplayName = Jazzy Vogue - Strapless A-Line Dress (Nautilus),
+        ClothingItem = JZV_DressALineStrapless_Nautilus,
+        BodyLocation = Dress,
+        BloodLocation = Trousers;Shirt,
+        Icon = JZV_DressGeneric_Nautilus,
+        RunSpeedModifier = 0.9,
+        Insulation = 0.65,
+        WindResistance = 0.45,
+        FabricType = Cotton,
+        WorldStaticModel = Dress_Mid_Ground,
+    }
+
+    item JZV_DressALineStrapless_Olive
+    {
+        DisplayCategory = Clothing,
+        Type = Clothing,
+        DisplayName = Jazzy Vogue - Strapless A-Line Dress (Olive),
+        ClothingItem = JZV_DressALineStrapless_Olive,
+        BodyLocation = Dress,
+        BloodLocation = Trousers;Shirt,
+        Icon = JZV_DressGeneric_Olive,
+        RunSpeedModifier = 0.9,
+        Insulation = 0.65,
+        WindResistance = 0.45,
+        FabricType = Cotton,
+        WorldStaticModel = Dress_Mid_Ground,
+    }
+
+    item JZV_DressALineStrapless_Orange
+    {
+        DisplayCategory = Clothing,
+        Type = Clothing,
+        DisplayName = Jazzy Vogue - Strapless A-Line Dress (Orange),
+        ClothingItem = JZV_DressALineStrapless_Orange,
+        BodyLocation = Dress,
+        BloodLocation = Trousers;Shirt,
+        Icon = JZV_DressGeneric_Orange,
+        RunSpeedModifier = 0.9,
+        Insulation = 0.65,
+        WindResistance = 0.45,
+        FabricType = Cotton,
+        WorldStaticModel = Dress_Mid_Ground,
+    }
+
+    item JZV_DressALineStrapless_Pear
+    {
+        DisplayCategory = Clothing,
+        Type = Clothing,
+        DisplayName = Jazzy Vogue - Strapless A-Line Dress (Pear),
+        ClothingItem = JZV_DressALineStrapless_Pear,
+        BodyLocation = Dress,
+        BloodLocation = Trousers;Shirt,
+        Icon = JZV_DressGeneric_Pear,
+        RunSpeedModifier = 0.9,
+        Insulation = 0.65,
+        WindResistance = 0.45,
+        FabricType = Cotton,
+        WorldStaticModel = Dress_Mid_Ground,
+    }
+
+    item JZV_DressALineStrapless_Pine
+    {
+        DisplayCategory = Clothing,
+        Type = Clothing,
+        DisplayName = Jazzy Vogue - Strapless A-Line Dress (Pine),
+        ClothingItem = JZV_DressALineStrapless_Pine,
+        BodyLocation = Dress,
+        BloodLocation = Trousers;Shirt,
+        Icon = JZV_DressGeneric_Pine,
+        RunSpeedModifier = 0.9,
+        Insulation = 0.65,
+        WindResistance = 0.45,
+        FabricType = Cotton,
+        WorldStaticModel = Dress_Mid_Ground,
+    }
+
+    item JZV_DressALineStrapless_Plum
+    {
+        DisplayCategory = Clothing,
+        Type = Clothing,
+        DisplayName = Jazzy Vogue - Strapless A-Line Dress (Plum),
+        ClothingItem = JZV_DressALineStrapless_Plum,
+        BodyLocation = Dress,
+        BloodLocation = Trousers;Shirt,
+        Icon = JZV_DressGeneric_Plum,
+        RunSpeedModifier = 0.9,
+        Insulation = 0.65,
+        WindResistance = 0.45,
+        FabricType = Cotton,
+        WorldStaticModel = Dress_Mid_Ground,
+    }
+
+    item JZV_DressALineStrapless_Purple
+    {
+        DisplayCategory = Clothing,
+        Type = Clothing,
+        DisplayName = Jazzy Vogue - Strapless A-Line Dress (Purple),
+        ClothingItem = JZV_DressALineStrapless_Purple,
+        BodyLocation = Dress,
+        BloodLocation = Trousers;Shirt,
+        Icon = JZV_DressGeneric_Purple,
+        RunSpeedModifier = 0.9,
+        Insulation = 0.65,
+        WindResistance = 0.45,
+        FabricType = Cotton,
+        WorldStaticModel = Dress_Mid_Ground,
+    }
+
+    item JZV_DressALineStrapless_Red
+    {
+        DisplayCategory = Clothing,
+        Type = Clothing,
+        DisplayName = Jazzy Vogue - Strapless A-Line Dress (Red),
+        ClothingItem = JZV_DressALineStrapless_Red,
+        BodyLocation = Dress,
+        BloodLocation = Trousers;Shirt,
+        Icon = JZV_DressGeneric_Red,
+        RunSpeedModifier = 0.9,
+        Insulation = 0.65,
+        WindResistance = 0.45,
+        FabricType = Cotton,
+        WorldStaticModel = Dress_Mid_Ground,
+    }
+
+    item JZV_DressALineStrapless_Teal
+    {
+        DisplayCategory = Clothing,
+        Type = Clothing,
+        DisplayName = Jazzy Vogue - Strapless A-Line Dress (Teal),
+        ClothingItem = JZV_DressALineStrapless_Teal,
+        BodyLocation = Dress,
+        BloodLocation = Trousers;Shirt,
+        Icon = JZV_DressGeneric_Teal,
+        RunSpeedModifier = 0.9,
+        Insulation = 0.65,
+        WindResistance = 0.45,
+        FabricType = Cotton,
+        WorldStaticModel = Dress_Mid_Ground,
+    }
+
+    item JZV_DressALineStrapless_Turquoise
+    {
+        DisplayCategory = Clothing,
+        Type = Clothing,
+        DisplayName = Jazzy Vogue - Strapless A-Line Dress (Turquoise),
+        ClothingItem = JZV_DressALineStrapless_Turquoise,
+        BodyLocation = Dress,
+        BloodLocation = Trousers;Shirt,
+        Icon = JZV_DressGeneric_Turquoise,
+        RunSpeedModifier = 0.9,
+        Insulation = 0.65,
+        WindResistance = 0.45,
+        FabricType = Cotton,
+        WorldStaticModel = Dress_Mid_Ground,
+    }
+
+    item JZV_DressALineStrapless_White
+    {
+        DisplayCategory = Clothing,
+        Type = Clothing,
+        DisplayName = Jazzy Vogue - Strapless A-Line Dress (White),
+        ClothingItem = JZV_DressALineStrapless_White,
+        BodyLocation = Dress,
+        BloodLocation = Trousers;Shirt,
+        Icon = JZV_DressGeneric_White,
+        RunSpeedModifier = 0.9,
+        Insulation = 0.65,
+        WindResistance = 0.45,
+        FabricType = Cotton,
+        WorldStaticModel = Dress_Mid_Ground,
+    }
+}

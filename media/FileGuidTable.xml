@@ -386,5 +386,76 @@
 		<path>media/clothing/clothingItems/JZV_TShirt_LetterQuestionmark.xml</path>
 		<guid>ab87643b-df5e-42f2-affd-97eb4df324f5</guid>
 	</files>
+
+	<!-- JZV_DressALineShoulderless -->
+	<files>
+		<path>media/clothing/clothingItems/JZV_DressALineStrapless_Black.xml</path>
+		<guid>cfc52da2-cb38-4955-8531-2ae9163fe85f</guid>
+	</files>
+	<files>
+		<path>media/clothing/clothingItems/JZV_DressALineStrapless_Brown.xml</path>
+		<guid>cc08a971-72be-4c96-85a4-2ab488510708</guid>
+	</files>
+	<files>
+		<path>media/clothing/clothingItems/JZV_DressALineStrapless_Green.xml</path>
+		<guid>a274571e-4ada-42b6-875b-e6a88df8770e</guid>
+	</files>
+	<files>
+		<path>media/clothing/clothingItems/JZV_DressALineStrapless_Grey.xml</path>
+		<guid>dc0a58fe-f6f7-425a-994a-d254267b751c</guid>
+	</files>
+	<files>
+		<path>media/clothing/clothingItems/JZV_DressALineStrapless_Indigo.xml</path>
+		<guid>4a49a7ce-b8ea-47b5-81e9-b0c9a333ce22</guid>
+	</files>
+	<files>
+		<path>media/clothing/clothingItems/JZV_DressALineStrapless_Midori.xml</path>
+		<guid>b76cd50d-46f1-4d24-bd46-682191f4fbb9</guid>
+	</files>
+	<files>
+		<path>media/clothing/clothingItems/JZV_DressALineStrapless_Nautilus.xml</path>
+		<guid>682ea1b4-a714-466e-9b55-4d7bd03f0e6f</guid>
+	</files>
+	<files>
+		<path>media/clothing/clothingItems/JZV_DressALineStrapless_Olive.xml</path>
+		<guid>857717a2-df6b-475f-a67b-83d16aca9cd4</guid>
+	</files>
+	<files>
+		<path>media/clothing/clothingItems/JZV_DressALineStrapless_Orange.xml</path>
+		<guid>78571c8a-2da8-4c3f-9a15-5beec4f3a2c5</guid>
+	</files>
+	<files>
+		<path>media/clothing/clothingItems/JZV_DressALineStrapless_Pear.xml</path>
+		<guid>db97393e-1bcb-4421-8619-6bee67bf2bb8</guid>
+	</files>
+	<files>
+		<path>media/clothing/clothingItems/JZV_DressALineStrapless_Pine.xml</path>
+		<guid>981b1662-2103-429c-8be0-a7085d2edcdb</guid>
+	</files>
+	<files>
+		<path>media/clothing/clothingItems/JZV_DressALineStrapless_Plum.xml</path>
+		<guid>78f2f68f-a281-49ad-97b1-ac169bb2a303</guid>
+	</files>
+	<files>
+		<path>media/clothing/clothingItems/JZV_DressALineStrapless_Purple.xml</path>
+		<guid>e995893c-8b7c-42df-a872-0ab7fd49bf2d</guid>
+	</files>
+	<files>
+		<path>media/clothing/clothingItems/JZV_DressALineStrapless_Red.xml</path>
+		<guid>f33aacc4-03b5-431a-881f-8578d8cd9344</guid>
+	</files>
+	<files>
+		<path>media/clothing/clothingItems/JZV_DressALineStrapless_Teal.xml</path>
+		<guid>56d5fc63-232f-4eae-9728-2db52927f521</guid>
+	</files>
+	<files>
+		<path>media/clothing/clothingItems/JZV_DressALineStrapless_Turquoise.xml</path>
+		<guid>6ccafcc2-9cee-47c4-8d78-75fa1add0347</guid>
+	</files>
+	<files>
+		<path>media/clothing/clothingItems/JZV_DressALineStrapless_White.xml</path>
+		<guid>ae00ed1c-f0bb-4166-a9ee-515bedd4bcbd</guid>
+	</files>
+
 </fileGuidTable>
 

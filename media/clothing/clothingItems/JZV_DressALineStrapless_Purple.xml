@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<clothingItem>
+	<m_MaleModel>skinned\clothes\bob_weddingdress</m_MaleModel>
+	<m_FemaleModel>skinned\clothes\kate_weddingdress</m_FemaleModel>
+	<m_GUID>e995893c-8b7c-42df-a872-0ab7fd49bf2d</m_GUID>
+	<m_Static>false</m_Static>
+	<m_AllowRandomHue>false</m_AllowRandomHue>
+	<m_AllowRandomTint>false</m_AllowRandomTint>
+	<m_AttachBone></m_AttachBone>
+	<textureChoices>clothes\JazzyVogue\JZV_DressALineStrapless\JZV_DressALineStrapless_Purple</textureChoices>
+</clothingItem>
