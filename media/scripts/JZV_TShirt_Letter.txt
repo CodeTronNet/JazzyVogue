@@ -1,0 +1,871 @@
+module JazzyVogue
+{
+	imports
+    {
+        Base
+    }
+
+    item JZV_TShirt_LetterA
+	{
+		DisplayCategory 	= Clothing,
+		Type				= Clothing,
+		DisplayName			= T-Shirt - A,
+		ClothingItem		= JZV_TShirt_LetterA,
+		BodyLocation		= Tshirt,
+		Icon				= JZV_TShirt_Letter,
+		BloodLocation		= Shirt,
+        Insulation			= 0.2,
+        WindResistance		= 0.2,
+        FabricType			= Cotton,
+        WorldStaticModel	= TShirt_Ground,
+	}
+
+    item JZV_TShirt_LetterB
+	{
+		DisplayCategory 	= Clothing,
+		Type				= Clothing,
+		DisplayName			= T-Shirt - B,
+		ClothingItem		= JZV_TShirt_LetterB,
+		BodyLocation		= Tshirt,
+		Icon				= JZV_TShirt_Letter,
+		BloodLocation		= Shirt,
+        Insulation			= 0.2,
+        WindResistance		= 0.2,
+        FabricType			= Cotton,
+        WorldStaticModel	= TShirt_Ground,
+	}
+
+    item JZV_TShirt_LetterC
+	{
+		DisplayCategory 	= Clothing,
+		Type				= Clothing,
+		DisplayName			= T-Shirt - C,
+		ClothingItem		= JZV_TShirt_LetterC,
+		BodyLocation		= Tshirt,
+		Icon				= JZV_TShirt_Letter,
+		BloodLocation		= Shirt,
+        Insulation			= 0.2,
+        WindResistance		= 0.2,
+        FabricType			= Cotton,
+        WorldStaticModel	= TShirt_Ground,
+	}
+
+    item JZV_TShirt_LetterD
+	{
+		DisplayCategory 	= Clothing,
+		Type				= Clothing,
+		DisplayName			= T-Shirt - D,
+		ClothingItem		= JZV_TShirt_LetterD,
+		BodyLocation		= Tshirt,
+		Icon				= JZV_TShirt_Letter,
+		BloodLocation		= Shirt,
+        Insulation			= 0.2,
+        WindResistance		= 0.2,
+        FabricType			= Cotton,
+        WorldStaticModel	= TShirt_Ground,
+	}
+
+    item JZV_TShirt_LetterE
+	{
+		DisplayCategory 	= Clothing,
+		Type				= Clothing,
+		DisplayName			= T-Shirt - E,
+		ClothingItem		= JZV_TShirt_LetterE,
+		BodyLocation		= Tshirt,
+		Icon				= JZV_TShirt_Letter,
+		BloodLocation		= Shirt,
+        Insulation			= 0.2,
+        WindResistance		= 0.2,
+        FabricType			= Cotton,
+        WorldStaticModel	= TShirt_Ground,
+	}
+
+    item JZV_TShirt_LetterF
+	{
+		DisplayCategory 	= Clothing,
+		Type				= Clothing,
+		DisplayName			= T-Shirt - F,
+		ClothingItem		= JZV_TShirt_LetterF,
+		BodyLocation		= Tshirt,
+		Icon				= JZV_TShirt_Letter,
+		BloodLocation		= Shirt,
+        Insulation			= 0.2,
+        WindResistance		= 0.2,
+        FabricType			= Cotton,
+        WorldStaticModel	= TShirt_Ground,
+	}
+
+    item JZV_TShirt_LetterG
+	{
+		DisplayCategory 	= Clothing,
+		Type				= Clothing,
+		DisplayName			= T-Shirt - G,
+		ClothingItem		= JZV_TShirt_LetterG,
+		BodyLocation		= Tshirt,
+		Icon				= JZV_TShirt_Letter,
+		BloodLocation		= Shirt,
+        Insulation			= 0.2,
+        WindResistance		= 0.2,
+        FabricType			= Cotton,
+        WorldStaticModel	= TShirt_Ground,
+	}
+
+    item JZV_TShirt_LetterH
+	{
+		DisplayCategory 	= Clothing,
+		Type				= Clothing,
+		DisplayName			= T-Shirt - H,
+		ClothingItem		= JZV_TShirt_LetterH,
+		BodyLocation		= Tshirt,
+		Icon				= JZV_TShirt_Letter,
+		BloodLocation		= Shirt,
+        Insulation			= 0.2,
+        WindResistance		= 0.2,
+        FabricType			= Cotton,
+        WorldStaticModel	= TShirt_Ground,
+	}
+
+    item JZV_TShirt_LetterI
+	{
+		DisplayCategory 	= Clothing,
+		Type				= Clothing,
+		DisplayName			= T-Shirt - I,
+		ClothingItem		= JZV_TShirt_LetterI,
+		BodyLocation		= Tshirt,
+		Icon				= JZV_TShirt_Letter,
+		BloodLocation		= Shirt,
+        Insulation			= 0.2,
+        WindResistance		= 0.2,
+        FabricType			= Cotton,
+        WorldStaticModel	= TShirt_Ground,
+	}
+
+    item JZV_TShirt_LetterJ
+	{
+		DisplayCategory 	= Clothing,
+		Type				= Clothing,
+		DisplayName			= T-Shirt - J,
+		ClothingItem		= JZV_TShirt_LetterJ,
+		BodyLocation		= Tshirt,
+		Icon				= JZV_TShirt_Letter,
+		BloodLocation		= Shirt,
+        Insulation			= 0.2,
+        WindResistance		= 0.2,
+        FabricType			= Cotton,
+        WorldStaticModel	= TShirt_Ground,
+	}
+
+    item JZV_TShirt_LetterK
+	{
+		DisplayCategory 	= Clothing,
+		Type				= Clothing,
+		DisplayName			= T-Shirt - K,
+		ClothingItem		= JZV_TShirt_LetterK,
+		BodyLocation		= Tshirt,
+		Icon				= JZV_TShirt_Letter,
+		BloodLocation		= Shirt,
+        Insulation			= 0.2,
+        WindResistance		= 0.2,
+        FabricType			= Cotton,
+        WorldStaticModel	= TShirt_Ground,
+	}
+
+    item JZV_TShirt_LetterL
+	{
+		DisplayCategory 	= Clothing,
+		Type				= Clothing,
+		DisplayName			= T-Shirt - L,
+		ClothingItem		= JZV_TShirt_LetterL,
+		BodyLocation		= Tshirt,
+		Icon				= JZV_TShirt_Letter,
+		BloodLocation		= Shirt,
+        Insulation			= 0.2,
+        WindResistance		= 0.2,
+        FabricType			= Cotton,
+        WorldStaticModel	= TShirt_Ground,
+	}
+
+    item JZV_TShirt_LetterM
+	{
+		DisplayCategory 	= Clothing,
+		Type				= Clothing,
+		DisplayName			= T-Shirt - M,
+		ClothingItem		= JZV_TShirt_LetterM,
+		BodyLocation		= Tshirt,
+		Icon				= JZV_TShirt_Letter,
+		BloodLocation		= Shirt,
+        Insulation			= 0.2,
+        WindResistance		= 0.2,
+        FabricType			= Cotton,
+        WorldStaticModel	= TShirt_Ground,
+	}
+
+    item JZV_TShirt_LetterN
+	{
+		DisplayCategory 	= Clothing,
+		Type				= Clothing,
+		DisplayName			= T-Shirt - N,
+		ClothingItem		= JZV_TShirt_LetterN,
+		BodyLocation		= Tshirt,
+		Icon				= JZV_TShirt_Letter,
+		BloodLocation		= Shirt,
+        Insulation			= 0.2,
+        WindResistance		= 0.2,
+        FabricType			= Cotton,
+        WorldStaticModel	= TShirt_Ground,
+	}
+
+    item JZV_TShirt_LetterO
+	{
+		DisplayCategory 	= Clothing,
+		Type				= Clothing,
+		DisplayName			= T-Shirt - O,
+		ClothingItem		= JZV_TShirt_LetterO,
+		BodyLocation		= Tshirt,
+		Icon				= JZV_TShirt_Letter,
+		BloodLocation		= Shirt,
+        Insulation			= 0.2,
+        WindResistance		= 0.2,
+        FabricType			= Cotton,
+        WorldStaticModel	= TShirt_Ground,
+	}
+
+    item JZV_TShirt_LetterP
+	{
+		DisplayCategory 	= Clothing,
+		Type				= Clothing,
+		DisplayName			= T-Shirt - P,
+		ClothingItem		= JZV_TShirt_LetterP,
+		BodyLocation		= Tshirt,
+		Icon				= JZV_TShirt_Letter,
+		BloodLocation		= Shirt,
+        Insulation			= 0.2,
+        WindResistance		= 0.2,
+        FabricType			= Cotton,
+        WorldStaticModel	= TShirt_Ground,
+	}
+
+    item JZV_TShirt_LetterQ
+	{
+		DisplayCategory 	= Clothing,
+		Type				= Clothing,
+		DisplayName			= T-Shirt - Q,
+		ClothingItem		= JZV_TShirt_LetterQ,
+		BodyLocation		= Tshirt,
+		Icon				= JZV_TShirt_Letter,
+		BloodLocation		= Shirt,
+        Insulation			= 0.2,
+        WindResistance		= 0.2,
+        FabricType			= Cotton,
+        WorldStaticModel	= TShirt_Ground,
+	}
+
+    item JZV_TShirt_LetterR
+	{
+		DisplayCategory 	= Clothing,
+		Type				= Clothing,
+		DisplayName			= T-Shirt - R,
+		ClothingItem		= JZV_TShirt_LetterR,
+		BodyLocation		= Tshirt,
+		Icon				= JZV_TShirt_Letter,
+		BloodLocation		= Shirt,
+        Insulation			= 0.2,
+        WindResistance		= 0.2,
+        FabricType			= Cotton,
+        WorldStaticModel	= TShirt_Ground,
+	}
+
+    item JZV_TShirt_LetterS
+	{
+		DisplayCategory 	= Clothing,
+		Type				= Clothing,
+		DisplayName			= T-Shirt - S,
+		ClothingItem		= JZV_TShirt_LetterS,
+		BodyLocation		= Tshirt,
+		Icon				= JZV_TShirt_Letter,
+		BloodLocation		= Shirt,
+        Insulation			= 0.2,
+        WindResistance		= 0.2,
+        FabricType			= Cotton,
+        WorldStaticModel	= TShirt_Ground,
+	}
+
+    item JZV_TShirt_LetterT
+	{
+		DisplayCategory 	= Clothing,
+		Type				= Clothing,
+		DisplayName			= T-Shirt - T,
+		ClothingItem		= JZV_TShirt_LetterT,
+		BodyLocation		= Tshirt,
+		Icon				= JZV_TShirt_Letter,
+		BloodLocation		= Shirt,
+        Insulation			= 0.2,
+        WindResistance		= 0.2,
+        FabricType			= Cotton,
+        WorldStaticModel	= TShirt_Ground,
+	}
+
+    item JZV_TShirt_LetterU
+	{
+		DisplayCategory 	= Clothing,
+		Type				= Clothing,
+		DisplayName			= T-Shirt - U,
+		ClothingItem		= JZV_TShirt_LetterU,
+		BodyLocation		= Tshirt,
+		Icon				= JZV_TShirt_Letter,
+		BloodLocation		= Shirt,
+        Insulation			= 0.2,
+        WindResistance		= 0.2,
+        FabricType			= Cotton,
+        WorldStaticModel	= TShirt_Ground,
+	}
+
+    item JZV_TShirt_LetterV
+	{
+		DisplayCategory 	= Clothing,
+		Type				= Clothing,
+		DisplayName			= T-Shirt - V,
+		ClothingItem		= JZV_TShirt_LetterV,
+		BodyLocation		= Tshirt,
+		Icon				= JZV_TShirt_Letter,
+		BloodLocation		= Shirt,
+        Insulation			= 0.2,
+        WindResistance		= 0.2,
+        FabricType			= Cotton,
+        WorldStaticModel	= TShirt_Ground,
+	}
+
+    item JZV_TShirt_LetterW
+	{
+		DisplayCategory 	= Clothing,
+		Type				= Clothing,
+		DisplayName			= T-Shirt - W,
+		ClothingItem		= JZV_TShirt_LetterW,
+		BodyLocation		= Tshirt,
+		Icon				= JZV_TShirt_Letter,
+		BloodLocation		= Shirt,
+        Insulation			= 0.2,
+        WindResistance		= 0.2,
+        FabricType			= Cotton,
+        WorldStaticModel	= TShirt_Ground,
+	}
+
+    item JZV_TShirt_LetterX
+	{
+		DisplayCategory 	= Clothing,
+		Type				= Clothing,
+		DisplayName			= T-Shirt - X,
+		ClothingItem		= JZV_TShirt_LetterX,
+		BodyLocation		= Tshirt,
+		Icon				= JZV_TShirt_Letter,
+		BloodLocation		= Shirt,
+        Insulation			= 0.2,
+        WindResistance		= 0.2,
+        FabricType			= Cotton,
+        WorldStaticModel	= TShirt_Ground,
+	}
+
+    item JZV_TShirt_LetterY
+	{
+		DisplayCategory 	= Clothing,
+		Type				= Clothing,
+		DisplayName			= T-Shirt - Y,
+		ClothingItem		= JZV_TShirt_LetterY,
+		BodyLocation		= Tshirt,
+		Icon				= JZV_TShirt_Letter,
+		BloodLocation		= Shirt,
+        Insulation			= 0.2,
+        WindResistance		= 0.2,
+        FabricType			= Cotton,
+        WorldStaticModel	= TShirt_Ground,
+	}
+
+    item JZV_TShirt_LetterZ
+	{
+		DisplayCategory 	= Clothing,
+		Type				= Clothing,
+		DisplayName			= T-Shirt - Z,
+		ClothingItem		= JZV_TShirt_LetterZ,
+		BodyLocation		= Tshirt,
+		Icon				= JZV_TShirt_Letter,
+		BloodLocation		= Shirt,
+        Insulation			= 0.2,
+        WindResistance		= 0.2,
+        FabricType			= Cotton,
+        WorldStaticModel	= TShirt_Ground,
+	}
+
+    item JZV_TShirt_LetterQuestionmark
+	{
+		DisplayCategory 	= Clothing,
+		Type				= Clothing,
+		DisplayName			= T-Shirt - Questionmark,
+		ClothingItem		= JZV_TShirt_LetterQuestionmark,
+		BodyLocation		= Tshirt,
+		Icon				= JZV_TShirt_Letter,
+		BloodLocation		= Shirt,
+        Insulation			= 0.2,
+        WindResistance		= 0.2,
+        FabricType			= Cotton,
+        WorldStaticModel	= TShirt_Ground,
+	}
+
+    recipe Herstellen T-Shirt - A
+    {
+		RippedSheets=8,
+		Thread;2,
+		PaintWhite;1,
+		
+		keep Needle,
+		keep Paintbrush,
+
+		Result:JZV_TShirt_LetterA,
+		Time:450.0,
+		Category:Tailoring,
+		SkillRequired:Tailoring=6,
+		OnGiveXP:Recipe.OnGiveXP.Tailoring5,
+		CanBeDoneFromFloor:true,
+    }
+
+    recipe Herstellen T-Shirt - B
+    {
+		RippedSheets=8,
+		Thread;2,
+		PaintWhite;1,
+		
+		keep Needle,
+		keep Paintbrush,
+
+		Result:JZV_TShirt_LetterB,
+		Time:450.0,
+		Category:Tailoring,
+		SkillRequired:Tailoring=6,
+		OnGiveXP:Recipe.OnGiveXP.Tailoring5,
+		CanBeDoneFromFloor:true,
+    }
+
+    recipe Herstellen T-Shirt - C
+    {
+		RippedSheets=8,
+		Thread;2,
+		PaintWhite;1,
+		
+		keep Needle,
+		keep Paintbrush,
+
+		Result:JZV_TShirt_LetterC,
+		Time:450.0,
+		Category:Tailoring,
+		SkillRequired:Tailoring=6,
+		OnGiveXP:Recipe.OnGiveXP.Tailoring5,
+		CanBeDoneFromFloor:true,
+    }
+
+    recipe Herstellen T-Shirt - D
+    {
+		RippedSheets=8,
+		Thread;2,
+		PaintWhite;1,
+		
+		keep Needle,
+		keep Paintbrush,
+
+		Result:JZV_TShirt_LetterD,
+		Time:450.0,
+		Category:Tailoring,
+		SkillRequired:Tailoring=6,
+		OnGiveXP:Recipe.OnGiveXP.Tailoring5,
+		CanBeDoneFromFloor:true,
+    }
+
+    recipe Herstellen T-Shirt - E
+    {
+		RippedSheets=8,
+		Thread;2,
+		PaintWhite;1,
+		
+		keep Needle,
+		keep Paintbrush,
+
+		Result:JZV_TShirt_LetterE,
+		Time:450.0,
+		Category:Tailoring,
+		SkillRequired:Tailoring=6,
+		OnGiveXP:Recipe.OnGiveXP.Tailoring5,
+		CanBeDoneFromFloor:true,
+    }
+
+    recipe Herstellen T-Shirt - F
+    {
+		RippedSheets=8,
+		Thread;2,
+		PaintWhite;1,
+		
+		keep Needle,
+		keep Paintbrush,
+
+		Result:JZV_TShirt_LetterF,
+		Time:450.0,
+		Category:Tailoring,
+		SkillRequired:Tailoring=6,
+		OnGiveXP:Recipe.OnGiveXP.Tailoring5,
+		CanBeDoneFromFloor:true,
+    }
+
+    recipe Herstellen T-Shirt - G
+    {
+		RippedSheets=8,
+		Thread;2,
+		PaintWhite;1,
+		
+		keep Needle,
+		keep Paintbrush,
+
+		Result:JZV_TShirt_LetterG,
+		Time:450.0,
+		Category:Tailoring,
+		SkillRequired:Tailoring=6,
+		OnGiveXP:Recipe.OnGiveXP.Tailoring5,
+		CanBeDoneFromFloor:true,
+    }
+
+    recipe Herstellen T-Shirt - H
+    {
+		RippedSheets=8,
+		Thread;2,
+		PaintWhite;1,
+		
+		keep Needle,
+		keep Paintbrush,
+
+		Result:JZV_TShirt_LetterH,
+		Time:450.0,
+		Category:Tailoring,
+		SkillRequired:Tailoring=6,
+		OnGiveXP:Recipe.OnGiveXP.Tailoring5,
+		CanBeDoneFromFloor:true,
+    }
+
+    recipe Herstellen T-Shirt - I
+    {
+		RippedSheets=8,
+		Thread;2,
+		PaintWhite;1,
+		
+		keep Needle,
+		keep Paintbrush,
+
+		Result:JZV_TShirt_LetterI,
+		Time:450.0,
+		Category:Tailoring,
+		SkillRequired:Tailoring=6,
+		OnGiveXP:Recipe.OnGiveXP.Tailoring5,
+		CanBeDoneFromFloor:true,
+    }
+
+    recipe Herstellen T-Shirt - J
+    {
+		RippedSheets=8,
+		Thread;2,
+		PaintWhite;1,
+		
+		keep Needle,
+		keep Paintbrush,
+
+		Result:JZV_TShirt_LetterJ,
+		Time:450.0,
+		Category:Tailoring,
+		SkillRequired:Tailoring=6,
+		OnGiveXP:Recipe.OnGiveXP.Tailoring5,
+		CanBeDoneFromFloor:true,
+    }
+
+    recipe Herstellen T-Shirt - K
+    {
+		RippedSheets=8,
+		Thread;2,
+		PaintWhite;1,
+		
+		keep Needle,
+		keep Paintbrush,
+
+		Result:JZV_TShirt_LetterK,
+		Time:450.0,
+		Category:Tailoring,
+		SkillRequired:Tailoring=6,
+		OnGiveXP:Recipe.OnGiveXP.Tailoring5,
+		CanBeDoneFromFloor:true,
+    }
+
+    recipe Herstellen T-Shirt - L
+    {
+		RippedSheets=8,
+		Thread;2,
+		PaintWhite;1,
+		
+		keep Needle,
+		keep Paintbrush,
+
+		Result:JZV_TShirt_LetterL,
+		Time:450.0,
+		Category:Tailoring,
+		SkillRequired:Tailoring=6,
+		OnGiveXP:Recipe.OnGiveXP.Tailoring5,
+		CanBeDoneFromFloor:true,
+    }
+
+    recipe Herstellen T-Shirt - M
+    {
+		RippedSheets=8,
+		Thread;2,
+		PaintWhite;1,
+		
+		keep Needle,
+		keep Paintbrush,
+
+		Result:JZV_TShirt_LetterM,
+		Time:450.0,
+		Category:Tailoring,
+		SkillRequired:Tailoring=6,
+		OnGiveXP:Recipe.OnGiveXP.Tailoring5,
+		CanBeDoneFromFloor:true,
+    }
+
+    recipe Herstellen T-Shirt - N
+    {
+		RippedSheets=8,
+		Thread;2,
+		PaintWhite;1,
+		
+		keep Needle,
+		keep Paintbrush,
+
+		Result:JZV_TShirt_LetterN,
+		Time:450.0,
+		Category:Tailoring,
+		SkillRequired:Tailoring=6,
+		OnGiveXP:Recipe.OnGiveXP.Tailoring5,
+		CanBeDoneFromFloor:true,
+    }
+
+    recipe Herstellen T-Shirt - O
+    {
+		RippedSheets=8,
+		Thread;2,
+		PaintWhite;1,
+		
+		keep Needle,
+		keep Paintbrush,
+
+		Result:JZV_TShirt_LetterO,
+		Time:450.0,
+		Category:Tailoring,
+		SkillRequired:Tailoring=6,
+		OnGiveXP:Recipe.OnGiveXP.Tailoring5,
+		CanBeDoneFromFloor:true,
+    }
+
+    recipe Herstellen T-Shirt - P
+    {
+		RippedSheets=8,
+		Thread;2,
+		PaintWhite;1,
+		
+		keep Needle,
+		keep Paintbrush,
+
+		Result:JZV_TShirt_LetterP,
+		Time:450.0,
+		Category:Tailoring,
+		SkillRequired:Tailoring=6,
+		OnGiveXP:Recipe.OnGiveXP.Tailoring5,
+		CanBeDoneFromFloor:true,
+    }
+
+    recipe Herstellen T-Shirt - Q
+    {
+		RippedSheets=8,
+		Thread;2,
+		PaintWhite;1,
+		
+		keep Needle,
+		keep Paintbrush,
+
+		Result:JZV_TShirt_LetterQ,
+		Time:450.0,
+		Category:Tailoring,
+		SkillRequired:Tailoring=6,
+		OnGiveXP:Recipe.OnGiveXP.Tailoring5,
+		CanBeDoneFromFloor:true,
+    }
+
+    recipe Herstellen T-Shirt - R
+    {
+		RippedSheets=8,
+		Thread;2,
+		PaintWhite;1,
+		
+		keep Needle,
+		keep Paintbrush,
+
+		Result:JZV_TShirt_LetterR,
+		Time:450.0,
+		Category:Tailoring,
+		SkillRequired:Tailoring=6,
+		OnGiveXP:Recipe.OnGiveXP.Tailoring5,
+		CanBeDoneFromFloor:true,
+    }
+
+    recipe Herstellen T-Shirt - S
+    {
+		RippedSheets=8,
+		Thread;2,
+		PaintWhite;1,
+		
+		keep Needle,
+		keep Paintbrush,
+
+		Result:JZV_TShirt_LetterS,
+		Time:450.0,
+		Category:Tailoring,
+		SkillRequired:Tailoring=6,
+		OnGiveXP:Recipe.OnGiveXP.Tailoring5,
+		CanBeDoneFromFloor:true,
+    }
+
+    recipe Herstellen T-Shirt - T
+    {
+		RippedSheets=8,
+		Thread;2,
+		PaintWhite;1,
+		
+		keep Needle,
+		keep Paintbrush,
+
+		Result:JZV_TShirt_LetterT,
+		Time:450.0,
+		Category:Tailoring,
+		SkillRequired:Tailoring=6,
+		OnGiveXP:Recipe.OnGiveXP.Tailoring5,
+		CanBeDoneFromFloor:true,
+    }
+
+    recipe Herstellen T-Shirt - U
+    {
+		RippedSheets=8,
+		Thread;2,
+		PaintWhite;1,
+		
+		keep Needle,
+		keep Paintbrush,
+
+		Result:JZV_TShirt_LetterU,
+		Time:450.0,
+		Category:Tailoring,
+		SkillRequired:Tailoring=6,
+		OnGiveXP:Recipe.OnGiveXP.Tailoring5,
+		CanBeDoneFromFloor:true,
+    }
+
+    recipe Herstellen T-Shirt - V
+    {
+		RippedSheets=8,
+		Thread;2,
+		PaintWhite;1,
+		
+		keep Needle,
+		keep Paintbrush,
+
+		Result:JZV_TShirt_LetterV,
+		Time:450.0,
+		Category:Tailoring,
+		SkillRequired:Tailoring=6,
+		OnGiveXP:Recipe.OnGiveXP.Tailoring5,
+		CanBeDoneFromFloor:true,
+    }
+
+    recipe Herstellen T-Shirt - W
+    {
+		RippedSheets=8,
+		Thread;2,
+		PaintWhite;1,
+		
+		keep Needle,
+		keep Paintbrush,
+
+		Result:JZV_TShirt_LetterW,
+		Time:450.0,
+		Category:Tailoring,
+		SkillRequired:Tailoring=6,
+		OnGiveXP:Recipe.OnGiveXP.Tailoring5,
+		CanBeDoneFromFloor:true,
+    }
+
+    recipe Herstellen T-Shirt - X
+    {
+		RippedSheets=8,
+		Thread;2,
+		PaintWhite;1,
+		
+		keep Needle,
+		keep Paintbrush,
+
+		Result:JZV_TShirt_LetterX,
+		Time:450.0,
+		Category:Tailoring,
+		SkillRequired:Tailoring=6,
+		OnGiveXP:Recipe.OnGiveXP.Tailoring5,
+		CanBeDoneFromFloor:true,
+    }
+
+    recipe Herstellen T-Shirt - Y
+    {
+		RippedSheets=8,
+		Thread;2,
+		PaintWhite;1,
+		
+		keep Needle,
+		keep Paintbrush,
+
+		Result:JZV_TShirt_LetterY,
+		Time:450.0,
+		Category:Tailoring,
+		SkillRequired:Tailoring=6,
+		OnGiveXP:Recipe.OnGiveXP.Tailoring5,
+		CanBeDoneFromFloor:true,
+    }
+
+    recipe Herstellen T-Shirt - Z
+    {
+		RippedSheets=8,
+		Thread;2,
+		PaintWhite;1,
+		
+		keep Needle,
+		keep Paintbrush,
+
+		Result:JZV_TShirt_LetterZ,
+		Time:450.0,
+		Category:Tailoring,
+		SkillRequired:Tailoring=6,
+		OnGiveXP:Recipe.OnGiveXP.Tailoring5,
+		CanBeDoneFromFloor:true,
+    }
+
+    recipe Herstellen T-Shirt - Questionmark
+    {
+		RippedSheets=8,
+		Thread;2,
+		PaintWhite;1,
+		
+		keep Needle,
+		keep Paintbrush,
+
+		Result:JZV_TShirt_LetterQuestionmark,
+		Time:450.0,
+		Category:Tailoring,
+		SkillRequired:Tailoring=6,
+		OnGiveXP:Recipe.OnGiveXP.Tailoring5,
+		CanBeDoneFromFloor:true,
+    }
+}

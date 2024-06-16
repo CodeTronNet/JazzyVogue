@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<clothingItem>
+	<m_MaleModel></m_MaleModel>
+	<m_FemaleModel></m_FemaleModel>
+	<m_GUID>e3782def-7431-45eb-b9e9-4b76d37ee314</m_GUID>
+	<m_Static>false</m_Static>
+	<m_AllowRandomTint>false</m_AllowRandomTint>
+    <m_AllowRandomHue>true</m_AllowRandomHue>
+	<m_AttachBone></m_AttachBone>
+	<m_BaseTextures>clothes\JazzyVogue\JZV_TShirt_Letter\JZV_TShirt_LetterH</m_BaseTextures>
+</clothingItem>
