@@ -457,5 +457,83 @@
 		<guid>ae00ed1c-f0bb-4166-a9ee-515bedd4bcbd</guid>
 	</files>
 
+	<!-- JZV_SuitJacketSlim -->
+	<files>
+		<path>media/clothing/clothingItems/JZV_SuitJacketSlim_Beige.xml</path>
+		<guid>89b45a80-b64a-4f14-8153-0ffe8b2374fd</guid>
+	</files>
+	<files>
+		<path>media/clothing/clothingItems/JZV_SuitJacketSlim_Black.xml</path>
+		<guid>cf33db61-9fc6-4668-aea2-cf11aced356b</guid>
+	</files>
+	<files>
+		<path>media/clothing/clothingItems/JZV_SuitJacketSlim_Blue.xml</path>
+		<guid>806b2994-92df-43e2-bfb3-f74838a14888</guid>
+	</files>
+	<files>
+		<path>media/clothing/clothingItems/JZV_SuitJacketSlim_Brown.xml</path>
+		<guid>66f792e1-5885-49e4-94e9-8ab98b059465</guid>
+	</files>
+	<files>
+		<path>media/clothing/clothingItems/JZV_SuitJacketSlim_Grey.xml</path>
+		<guid>4a74f9b4-ab53-4fbb-903e-52416ad24973</guid>
+	</files>
+	<files>
+		<path>media/clothing/clothingItems/JZV_SuitJacketSlim_White.xml</path>
+		<guid>d00b1194-dd52-4429-8c5d-7ea20c40811e</guid>
+	</files>
+
+	<!-- JZV_SuitJacket -->
+	<files>
+		<path>media/clothing/clothingItems/JZV_SuitJacket_Beige.xml</path>
+		<guid>ed0be608-aa33-4f7e-aa34-d8a131a275aa</guid>
+	</files>
+	<files>
+		<path>media/clothing/clothingItems/JZV_SuitJacket_Black.xml</path>
+		<guid>7b97d9b6-3ddc-456d-92d0-dfecc66ea1fb</guid>
+	</files>
+	<files>
+		<path>media/clothing/clothingItems/JZV_SuitJacket_Blue.xml</path>
+		<guid>ebb4e8ca-161d-40e0-a1b1-0c8d65dbe4b3</guid>
+	</files>
+	<files>
+		<path>media/clothing/clothingItems/JZV_SuitJacket_Brown.xml</path>
+		<guid>736df077-a4b8-4e0f-8a2d-9f2ff2273490</guid>
+	</files>
+	<files>
+		<path>media/clothing/clothingItems/JZV_SuitJacket_Grey.xml</path>
+		<guid>8caab0a3-988a-4e97-8cc9-e94d9da4c4f8</guid>
+	</files>
+	<files>
+		<path>media/clothing/clothingItems/JZV_SuitJacket_White.xml</path>
+		<guid>fee79926-d468-48d1-817c-cfc25a37cb59</guid>
+	</files>
+
+	<!-- JZV_SuitPants -->
+	<files>
+		<path>media/clothing/clothingItems/JZV_SuitPants_Beige.xml</path>
+		<guid>e82b33f8-bc76-4654-bffd-29101d04cc06</guid>
+	</files>
+	<files>
+		<path>media/clothing/clothingItems/JZV_SuitPants_Black.xml</path>
+		<guid>30ba7606-22e3-4d11-8a83-90efce14cdb2</guid>
+	</files>
+	<files>
+		<path>media/clothing/clothingItems/JZV_SuitPants_Blue.xml</path>
+		<guid>806946a2-8b90-4e1f-a67e-404cc21b8b31</guid>
+	</files>
+	<files>
+		<path>media/clothing/clothingItems/JZV_SuitPants_Brown.xml</path>
+		<guid>49cb2203-0688-430c-b8d1-1828869d4997</guid>
+	</files>
+	<files>
+		<path>media/clothing/clothingItems/JZV_SuitPants_Grey.xml</path>
+		<guid>4f7ba002-4a0e-4ea7-a110-1db859854b13</guid>
+	</files>
+	<files>
+		<path>media/clothing/clothingItems/JZV_SuitPants_White.xml</path>
+		<guid>f88adb83-4a74-4b17-a7d8-07829e918d5f</guid>
+	</files>
+
 </fileGuidTable>
 

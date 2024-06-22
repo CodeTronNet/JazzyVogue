@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<clothingItem>
+	<m_MaleModel>M_JZV_SlimSuitJacket</m_MaleModel>
+	<m_FemaleModel>F_JZV_SlimSuitJacket</m_FemaleModel>
+	<m_GUID>d00b1194-dd52-4429-8c5d-7ea20c40811e</m_GUID>
+	<m_Static>false</m_Static>
+	<m_AllowRandomHue>false</m_AllowRandomHue>
+	<m_AllowRandomTint>false</m_AllowRandomTint>
+	<m_AttachBone></m_AttachBone>
+	<m_Masks>14</m_Masks>
+	<m_Masks>3</m_Masks>
+	<m_Masks>5</m_Masks>
+	<m_MasksFolder>media/textures/Clothes/SuitJacket/Masks</m_MasksFolder>
+	<m_UnderlayMasksFolder>media/textures/Clothes/SuitJacket/Masks_Underlay</m_UnderlayMasksFolder>
+	<textureChoices>clothes\JazzyVogue\JZV_SuitJacketSlim\JZV_SuitJacketSlim_White</textureChoices>
+</clothingItem>

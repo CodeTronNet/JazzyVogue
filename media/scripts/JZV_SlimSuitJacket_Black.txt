@@ -19,22 +19,4 @@ module JazzyVogue
         Weight = 2,
         WorldStaticModel = SuitJacket_Ground,
     }
-
-    recipe Herstellen Jazzy Vogue - Slim Suit Jacket (Black)
-    {
-		RippedSheets=10,
-		Thread;2,
-		PaintBlack;3,
-
-		keep Needle,
-		keep Paintbrush,
-        keep JZV_Sketchbook,
-
-		Result:JZV_SlimSuitJacket_Black,
-		Time:450.0,
-		Category:Tailoring,
-		SkillRequired:Tailoring=10,
-		OnGiveXP:Recipe.OnGiveXP.Tailoring5,
-		CanBeDoneFromFloor:true,
-    }
 }

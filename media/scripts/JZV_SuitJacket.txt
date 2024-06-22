@@ -1,0 +1,122 @@
+module JazzyVogue
+{
+    item JZV_SuitJacket_Beige
+    {
+        DisplayCategory = Clothing,
+        Type = Clothing,
+        DisplayName = Jazzy Vogue - Classic Suit Jacket (Beige),
+        ClothingItem = JZV_SuitJacket_Beige,
+        BodyLocation = JacketSuit,
+        BloodLocation = Jacket,
+        Icon = JZV_SuitJacketGeneric_Beige,
+        RunSpeedModifier = 0.95,
+        CombatSpeedModifier = 0.95,
+        ScratchDefense = 20,
+        NeckProtectionModifier = 0.5,
+        Insulation = 0.55,
+        WindResistance = 0.45,
+        FabricType = Cotton,
+        Weight = 2,
+        WorldStaticModel = SuitJacket_Ground,
+    }
+
+    item JZV_SuitJacket_Black
+    {
+        DisplayCategory = Clothing,
+        Type = Clothing,
+        DisplayName = Jazzy Vogue - Classic Suit Jacket (Black),
+        ClothingItem = JZV_SuitJacket_Black,
+        BodyLocation = JacketSuit,
+        BloodLocation = Jacket,
+        Icon = JZV_SuitJacketGeneric_Black,
+        RunSpeedModifier = 0.95,
+        CombatSpeedModifier = 0.95,
+        ScratchDefense = 20,
+        NeckProtectionModifier = 0.5,
+        Insulation = 0.55,
+        WindResistance = 0.45,
+        FabricType = Cotton,
+        Weight = 2,
+        WorldStaticModel = SuitJacket_Ground,
+    }
+
+    item JZV_SuitJacket_Blue
+    {
+        DisplayCategory = Clothing,
+        Type = Clothing,
+        DisplayName = Jazzy Vogue - Classic Suit Jacket (Blue),
+        ClothingItem = JZV_SuitJacket_Blue,
+        BodyLocation = JacketSuit,
+        BloodLocation = Jacket,
+        Icon = JZV_SuitJacketGeneric_Blue,
+        RunSpeedModifier = 0.95,
+        CombatSpeedModifier = 0.95,
+        ScratchDefense = 20,
+        NeckProtectionModifier = 0.5,
+        Insulation = 0.55,
+        WindResistance = 0.45,
+        FabricType = Cotton,
+        Weight = 2,
+        WorldStaticModel = SuitJacket_Ground,
+    }
+
+    item JZV_SuitJacket_Brown
+    {
+        DisplayCategory = Clothing,
+        Type = Clothing,
+        DisplayName = Jazzy Vogue - Classic Suit Jacket (Brown),
+        ClothingItem = JZV_SuitJacket_Brown,
+        BodyLocation = JacketSuit,
+        BloodLocation = Jacket,
+        Icon = JZV_SuitJacketGeneric_Brown,
+        RunSpeedModifier = 0.95,
+        CombatSpeedModifier = 0.95,
+        ScratchDefense = 20,
+        NeckProtectionModifier = 0.5,
+        Insulation = 0.55,
+        WindResistance = 0.45,
+        FabricType = Cotton,
+        Weight = 2,
+        WorldStaticModel = SuitJacket_Ground,
+    }
+
+    item JZV_SuitJacket_Grey
+    {
+        DisplayCategory = Clothing,
+        Type = Clothing,
+        DisplayName = Jazzy Vogue - Classic Suit Jacket (Grey),
+        ClothingItem = JZV_SuitJacket_Grey,
+        BodyLocation = JacketSuit,
+        BloodLocation = Jacket,
+        Icon = JZV_SuitJacketGeneric_Grey,
+        RunSpeedModifier = 0.95,
+        CombatSpeedModifier = 0.95,
+        ScratchDefense = 20,
+        NeckProtectionModifier = 0.5,
+        Insulation = 0.55,
+        WindResistance = 0.45,
+        FabricType = Cotton,
+        Weight = 2,
+        WorldStaticModel = SuitJacket_Ground,
+    }
+
+    item JZV_SuitJacket_White
+    {
+        DisplayCategory = Clothing,
+        Type = Clothing,
+        DisplayName = Jazzy Vogue - Classic Suit Jacket (White),
+        ClothingItem = JZV_SuitJacket_White,
+        BodyLocation = JacketSuit,
+        BloodLocation = Jacket,
+        Icon = JZV_SuitJacketGeneric_White,
+        RunSpeedModifier = 0.95,
+        CombatSpeedModifier = 0.95,
+        ScratchDefense = 20,
+        NeckProtectionModifier = 0.5,
+        Insulation = 0.55,
+        WindResistance = 0.45,
+        FabricType = Cotton,
+        Weight = 2,
+        WorldStaticModel = SuitJacket_Ground,
+    }
+}

@@ -1,0 +1,98 @@
+module JazzyVogue
+{
+    item JZV_SuitPants_Beige
+    {
+        DisplayCategory = Clothing,
+        Type = Clothing,
+        DisplayName = Jazzy Vogue - Suit Pants (Beige),
+        ClothingItem = JZV_SuitPants_Beige,
+        BodyLocation = Pants,
+        Icon = JZV_SuitPantsGeneric_Beige,
+        BloodLocation = Trousers,
+        ScratchDefense = 10,
+        Insulation = 0.4,
+        WindResistance = 0.2,
+        FabricType = Cotton,
+        WorldStaticModel = Trousers_Ground,
+    }
+
+    item JZV_SuitPants_Black
+    {
+        DisplayCategory = Clothing,
+        Type = Clothing,
+        DisplayName = Jazzy Vogue - Suit Pants (Black),
+        ClothingItem = JZV_SuitPants_Black,
+        BodyLocation = Pants,
+        Icon = JZV_SuitPantsGeneric_Black,
+        BloodLocation = Trousers,
+        ScratchDefense = 10,
+        Insulation = 0.4,
+        WindResistance = 0.2,
+        FabricType = Cotton,
+        WorldStaticModel = Trousers_Ground,
+    }
+
+    item JZV_SuitPants_Blue
+    {
+        DisplayCategory = Clothing,
+        Type = Clothing,
+        DisplayName = Jazzy Vogue - Suit Pants (Blue),
+        ClothingItem = JZV_SuitPants_Blue,
+        BodyLocation = Pants,
+        Icon = JZV_SuitPantsGeneric_Blue,
+        BloodLocation = Trousers,
+        ScratchDefense = 10,
+        Insulation = 0.4,
+        WindResistance = 0.2,
+        FabricType = Cotton,
+        WorldStaticModel = Trousers_Ground,
+    }
+
+    item JZV_SuitPants_Brown
+    {
+        DisplayCategory = Clothing,
+        Type = Clothing,
+        DisplayName = Jazzy Vogue - Suit Pants (Brown),
+        ClothingItem = JZV_SuitPants_Brown,
+        BodyLocation = Pants,
+        Icon = JZV_SuitPantsGeneric_Brown,
+        BloodLocation = Trousers,
+        ScratchDefense = 10,
+        Insulation = 0.4,
+        WindResistance = 0.2,
+        FabricType = Cotton,
+        WorldStaticModel = Trousers_Ground,
+    }
+
+    item JZV_SuitPants_Grey
+    {
+        DisplayCategory = Clothing,
+        Type = Clothing,
+        DisplayName = Jazzy Vogue - Suit Pants (Grey),
+        ClothingItem = JZV_SuitPants_Grey,
+        BodyLocation = Pants,
+        Icon = JZV_SuitPantsGeneric_Grey,
+        BloodLocation = Trousers,
+        ScratchDefense = 10,
+        Insulation = 0.4,
+        WindResistance = 0.2,
+        FabricType = Cotton,
+        WorldStaticModel = Trousers_Ground,
+    }
+
+    item JZV_SuitPants_White
+    {
+        DisplayCategory = Clothing,
+        Type = Clothing,
+        DisplayName = Jazzy Vogue - Suit Pants (White),
+        ClothingItem = JZV_SuitPants_White,
+        BodyLocation = Pants,
+        Icon = JZV_SuitPantsGeneric_White,
+        BloodLocation = Trousers,
+        ScratchDefense = 10,
+        Insulation = 0.4,
+        WindResistance = 0.2,
+        FabricType = Cotton,
+        WorldStaticModel = Trousers_Ground,
+    }
+}

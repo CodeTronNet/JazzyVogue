@@ -1,0 +1,110 @@
+module JazzyVogue
+{
+    recipe Herstellen Jazzy Vogue - Suit Pants (Beige)
+    {
+		RippedSheets=10,
+		Thread;2,
+		PaintLightBrown;3,
+
+		keep Needle,
+		keep Paintbrush,
+        keep JZV_Sketchbook,
+
+		Result:JZV_SuitPants_Beige,
+		Time:450.0,
+		Category:Tailoring,
+		SkillRequired:Tailoring=10,
+		OnGiveXP:Recipe.OnGiveXP.Tailoring5,
+		CanBeDoneFromFloor:true,
+    }
+
+    recipe Herstellen Jazzy Vogue - Suit Pants (Black)
+    {
+		RippedSheets=10,
+		Thread;2,
+		PaintBlack;3,
+
+		keep Needle,
+		keep Paintbrush,
+        keep JZV_Sketchbook,
+
+		Result:JZV_SuitPants_Black,
+		Time:450.0,
+		Category:Tailoring,
+		SkillRequired:Tailoring=10,
+		OnGiveXP:Recipe.OnGiveXP.Tailoring5,
+		CanBeDoneFromFloor:true,
+    }
+
+    recipe Herstellen Jazzy Vogue - Suit Pants (Blue)
+    {
+		RippedSheets=10,
+		Thread;2,
+		PaintBlue;3,
+
+		keep Needle,
+		keep Paintbrush,
+        keep JZV_Sketchbook,
+
+		Result:JZV_SuitPants_Blue,
+		Time:450.0,
+		Category:Tailoring,
+		SkillRequired:Tailoring=10,
+		OnGiveXP:Recipe.OnGiveXP.Tailoring5,
+		CanBeDoneFromFloor:true,
+    }
+
+    recipe Herstellen Jazzy Vogue - Suit Pants (Brown)
+    {
+		RippedSheets=10,
+		Thread;2,
+		PaintBrown;3,
+
+		keep Needle,
+		keep Paintbrush,
+        keep JZV_Sketchbook,
+
+		Result:JZV_SuitPants_Brown,
+		Time:450.0,
+		Category:Tailoring,
+		SkillRequired:Tailoring=10,
+		OnGiveXP:Recipe.OnGiveXP.Tailoring5,
+		CanBeDoneFromFloor:true,
+    }
+
+    recipe Herstellen Jazzy Vogue - Suit Pants (Grey)
+    {
+		RippedSheets=10,
+		Thread;2,
+		PaintGrey;3,
+
+		keep Needle,
+		keep Paintbrush,
+        keep JZV_Sketchbook,
+
+		Result:JZV_SuitPants_Grey,
+		Time:450.0,
+		Category:Tailoring,
+		SkillRequired:Tailoring=10,
+		OnGiveXP:Recipe.OnGiveXP.Tailoring5,
+		CanBeDoneFromFloor:true,
+    }
+
+    recipe Herstellen Jazzy Vogue - Suit Pants (White)
+    {
+		RippedSheets=10,
+		Thread;2,
+		PaintWhite;3,
+
+		keep Needle,
+		keep Paintbrush,
+        keep JZV_Sketchbook,
+
+		Result:JZV_SuitPants_White,
+		Time:450.0,
+		Category:Tailoring,
+		SkillRequired:Tailoring=10,
+		OnGiveXP:Recipe.OnGiveXP.Tailoring5,
+		CanBeDoneFromFloor:true,
+    }
+}
