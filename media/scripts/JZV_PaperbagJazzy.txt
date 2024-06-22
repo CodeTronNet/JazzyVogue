@@ -1,0 +1,41 @@
+module JazzyVogue
+{
+    model JZV_PaperbagJazzy_Ground
+    {
+        mesh = WorldItems/Paperbag,
+        texture = worlditems/JZV_Paperbag_Jazzy,
+        scale = 0.4,
+    }
+
+    item JZV_Paperbag_Jazzy
+	{
+	    DisplayCategory = Container,
+		WeightReduction	=	10,
+		Weight	=	0.1,
+		Type	=	Container,
+		Capacity	=	5,
+		DisplayName	=	Paper Bag - Jazzy Vogue,
+		Icon	=	JZV_Paperbag_Jazzy,
+        OpenSound   =   OpenBag,
+        CloseSound   =   CloseBag,
+        PutInSound   =   PutItemInBag,
+        WorldStaticModel = JZV_PaperbagJazzy_Ground,
+	}
+
+    recipe Herstellen Jazzy Vogue - Paperbag
+    {
+		PaperBag=1,
+        PaintBlack;1,
+        PaintWhite;1,
+
+		keep Paintbrush,
+        keep JZV_Sketchbook,
+
+		Result:JZV_Paperbag_Jazzy,
+		Time:600.0,
+		Category:Tailoring,
+		SkillRequired:Tailoring=10,
+		OnGiveXP:Recipe.OnGiveXP.Tailoring5,
+		CanBeDoneFromFloor:true,
+    }
+}
