@@ -547,5 +547,10 @@
 		<guid>a19e0ba7-640e-47ba-ab5d-80770cafe5fa</guid>
 	</files>
 
+	<!-- JZV_Blindfold -->
+	<files>
+		<path>media/clothing/clothingItems/JZV_Blindfold.xml</path>
+		<guid>233fe00b-cbfb-4b90-8161-5d1b412123ba</guid>
+	</files>
 </fileGuidTable>
 

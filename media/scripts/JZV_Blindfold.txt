@@ -1,0 +1,15 @@
+module JazzyVogue
+{
+    item JZV_Blindfold
+    {
+        DisplayCategory = Accessory,
+        Type = Clothing,
+        DisplayName = Blindfold,
+        ClothingItem = JZV_Blindfold,
+        BodyLocation = Hat,
+        IconsForTexture = JZV_Blindfold,
+        CanHaveHoles = false,
+        Insulation = 0.10,
+        Weight = 0.1,
+    }
+}
