@@ -119,4 +119,24 @@ module JazzyVogue
         Weight = 2,
         WorldStaticModel = SuitJacket_Ground,
     }
+
+    item JZV_SuitJacketSlim_Green
+    {
+        DisplayCategory = Clothing,
+        Type = Clothing,
+        DisplayName = Jazzy Vogue - Slim Suit Jacket (Green),
+        ClothingItem = JZV_SuitJacketSlim_Green,
+        BodyLocation = JacketSuit,
+        BloodLocation = Jacket,
+        Icon = JZV_SuitJacketGeneric_Green,
+        RunSpeedModifier = 0.95,
+        CombatSpeedModifier = 0.95,
+        ScratchDefense = 20,
+        NeckProtectionModifier = 0.5,
+        Insulation = 0.55,
+        WindResistance = 0.45,
+        FabricType = Cotton,
+        Weight = 2,
+        WorldStaticModel = SuitJacket_Ground,
+    }
 }
