@@ -79,4 +79,36 @@ module JazzyVogue
 		OnGiveXP:Recipe.OnGiveXP.Tailoring5,
 		CanBeDoneFromFloor:true,
     }
+
+	item JZV_Deco_Painting_Dawson001
+	{
+		Weight = 0.2,	
+		Type = Moveable,
+		WorldObjectSprite = JazzyVogue001_16,
+		DisplayName	= Zeichnung von Dawson No. 1,
+	}
+
+	recipe Herstellen Jazzy Vogue - Zeichnung Dawson No. 1
+    {
+		Sheet=1,
+		Thread;5,
+		Plank=4,
+		PaintBlue;1,
+		PaintWhite;1,
+		PaintBlack;1,
+		PaintRed;1,
+		PaintGreen;1,
+
+		keep [Recipe.GetItemTypes.Hammer],
+		keep Needle,
+		keep Paintbrush,
+		keep JZV_Sketchbook,
+
+		Result:JZV_Deco_Painting_Dawson001,
+		Time:800.0,
+		Category:Tailoring,
+		SkillRequired:Tailoring=10,
+		OnGiveXP:Recipe.OnGiveXP.Tailoring5,
+		CanBeDoneFromFloor:true,
+    }
 }

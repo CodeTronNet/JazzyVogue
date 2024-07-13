@@ -81,4 +81,60 @@ module JazzyVogue
 		OnGiveXP:Recipe.OnGiveXP.Tailoring5,
 		CanBeDoneFromFloor:true,
     }
+
+	item JZV_Deco_Flag_Ceres001
+	{
+		Weight = 0.2,	
+		Type = Moveable,
+		WorldObjectSprite = JazzyVogue001_18,
+		DisplayName	= Flagge von Ceres No. 1,
+	}
+
+	recipe Herstellen Jazzy Vogue - Flagge von Ceres No. 1
+    {
+		Sheet=1,
+		Thread;5,
+		PaintBlack;2,
+		PaintWhite;1,
+		PaintYellow;1,
+
+		keep Needle,
+		keep Paintbrush,
+		keep JZV_Sketchbook,
+
+		Result:JZV_Deco_Flag_Ceres001,
+		Time:800.0,
+		Category:Tailoring,
+		SkillRequired:Tailoring=4,
+		OnGiveXP:Recipe.OnGiveXP.Tailoring5,
+		CanBeDoneFromFloor:true,
+    }
+
+	item JZV_Deco_Flag_Kentuckistan001
+	{
+		Weight = 0.2,	
+		Type = Moveable,
+		WorldObjectSprite = JazzyVogue001_20,
+		DisplayName	= Flagge von Kentuckistan No. 1,
+	}
+
+	recipe Herstellen Jazzy Vogue - Flagge von Kentuckistan No. 1
+    {
+		Sheet=1,
+		Thread;5,
+		PaintYellow;2,
+		PaintWhite;1,
+		PaintRed;1,
+
+		keep Needle,
+		keep Paintbrush,
+		keep JZV_Sketchbook,
+
+		Result:JZV_Deco_Flag_Kentuckistan001,
+		Time:800.0,
+		Category:Tailoring,
+		SkillRequired:Tailoring=4,
+		OnGiveXP:Recipe.OnGiveXP.Tailoring5,
+		CanBeDoneFromFloor:true,
+    }
 }
