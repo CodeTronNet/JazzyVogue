@@ -12,4 +12,17 @@ module JazzyVogue
         Insulation = 0.10,
         Weight = 0.1,
     }
+
+    recipe Herstellen Blindfold
+    {
+		RippedSheets=2,
+		Thread;2,
+
+		keep Needle,
+
+		Result:JZV_Blindfold,
+		Time:600.0,
+		Category:Tailoring,
+		CanBeDoneFromFloor:true,
+    }
 }
