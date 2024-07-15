@@ -111,4 +111,20 @@ module JazzyVogue
         FabricType = Cotton,
         WorldStaticModel = Trousers_Ground,
     }
+
+    item JZV_SuitPants_Red
+    {
+        DisplayCategory = Clothing,
+        Type = Clothing,
+        DisplayName = Jazzy Vogue - Suit Pants (Red),
+        ClothingItem = JZV_SuitPants_Red,
+        BodyLocation = Pants,
+        Icon = JZV_SuitPantsGeneric_Red,
+        BloodLocation = Trousers,
+        ScratchDefense = 10,
+        Insulation = 0.4,
+        WindResistance = 0.2,
+        FabricType = Cotton,
+        WorldStaticModel = Trousers_Ground,
+    }
 }

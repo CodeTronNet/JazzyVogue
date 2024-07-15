@@ -139,4 +139,24 @@ module JazzyVogue
         Weight = 2,
         WorldStaticModel = SuitJacket_Ground,
     }
+
+    item JZV_SuitJacket_Red
+    {
+        DisplayCategory = Clothing,
+        Type = Clothing,
+        DisplayName = Jazzy Vogue - Classic Suit Jacket (Red),
+        ClothingItem = JZV_SuitJacket_Red,
+        BodyLocation = JacketSuit,
+        BloodLocation = Jacket,
+        Icon = JZV_SuitJacketGeneric_Red,
+        RunSpeedModifier = 0.95,
+        CombatSpeedModifier = 0.95,
+        ScratchDefense = 20,
+        NeckProtectionModifier = 0.5,
+        Insulation = 0.55,
+        WindResistance = 0.45,
+        FabricType = Cotton,
+        Weight = 2,
+        WorldStaticModel = SuitJacket_Ground,
+    }
 }
