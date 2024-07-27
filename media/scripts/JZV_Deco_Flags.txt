@@ -105,7 +105,7 @@ module JazzyVogue
 		Result:JZV_Deco_Flag_Ceres001,
 		Time:800.0,
 		Category:Tailoring,
-		SkillRequired:Tailoring=4,
+		SkillRequired:Tailoring=10,
 		OnGiveXP:Recipe.OnGiveXP.Tailoring5,
 		CanBeDoneFromFloor:true,
     }
@@ -133,7 +133,35 @@ module JazzyVogue
 		Result:JZV_Deco_Flag_Kentuckistan001,
 		Time:800.0,
 		Category:Tailoring,
-		SkillRequired:Tailoring=4,
+		SkillRequired:Tailoring=10,
+		OnGiveXP:Recipe.OnGiveXP.Tailoring5,
+		CanBeDoneFromFloor:true,
+    }
+
+	item JZV_Deco_Flag_Ashenwood001
+	{
+		Weight = 0.2,	
+		Type = Moveable,
+		WorldObjectSprite = JazzyVogue001_22,
+		DisplayName	= Flagge von Ashenwood No. 1,
+	}
+
+	recipe Herstellen Jazzy Vogue - Flagge von Ashenwood No. 1
+    {
+		Sheet=1,
+		Thread;5,
+		PaintBlack;1,
+		PaintGrey;1,
+		PaintGreen;1,
+
+		keep Needle,
+		keep Paintbrush,
+		keep JZV_Sketchbook,
+
+		Result:JZV_Deco_Flag_Ashenwood001,
+		Time:800.0,
+		Category:Tailoring,
+		SkillRequired:Tailoring=10,
 		OnGiveXP:Recipe.OnGiveXP.Tailoring5,
 		CanBeDoneFromFloor:true,
     }
