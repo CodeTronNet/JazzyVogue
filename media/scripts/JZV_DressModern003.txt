@@ -1,0 +1,130 @@
+module JazzyVogue
+{
+    item JZV_DressModern003_Green
+    {
+        DisplayCategory = Clothing,
+        Type = Clothing,
+        DisplayName = Jazzy Vogue - Modern Dress No. 3 (Green),
+        ClothingItem = JZV_DressModern003_Green,
+        BodyLocation = Dress,
+        BloodLocation = Trousers;Shirt,
+        Icon = JZV_DressGeneric_Green,
+        RunSpeedModifier = 0.93,
+        Insulation = 0.20,
+        WindResistance = 0.15,
+        FabricType = Cotton,
+        WorldStaticModel = Dress_Mid_Ground,
+    }
+
+    item JZV_DressModern003_Orange
+    {
+        DisplayCategory = Clothing,
+        Type = Clothing,
+        DisplayName = Jazzy Vogue - Modern Dress No. 3 (Orange),
+        ClothingItem = JZV_DressModern003_Orange,
+        BodyLocation = Dress,
+        BloodLocation = Trousers;Shirt,
+        Icon = JZV_DressGeneric_Orange,
+        RunSpeedModifier = 0.93,
+        Insulation = 0.20,
+        WindResistance = 0.15,
+        FabricType = Cotton,
+        WorldStaticModel = Dress_Mid_Ground,
+    }
+
+    item JZV_DressModern003_Pear
+    {
+        DisplayCategory = Clothing,
+        Type = Clothing,
+        DisplayName = Jazzy Vogue - Modern Dress No. 3 (Pear),
+        ClothingItem = JZV_DressModern003_Pear,
+        BodyLocation = Dress,
+        BloodLocation = Trousers;Shirt,
+        Icon = JZV_DressGeneric_Pear,
+        RunSpeedModifier = 0.93,
+        Insulation = 0.20,
+        WindResistance = 0.15,
+        FabricType = Cotton,
+        WorldStaticModel = Dress_Mid_Ground,
+    }
+
+    item JZV_DressModern003_Purple
+    {
+        DisplayCategory = Clothing,
+        Type = Clothing,
+        DisplayName = Jazzy Vogue - Modern Dress No. 3 (Purple),
+        ClothingItem = JZV_DressModern003_Purple,
+        BodyLocation = Dress,
+        BloodLocation = Trousers;Shirt,
+        Icon = JZV_DressGeneric_Purple,
+        RunSpeedModifier = 0.93,
+        Insulation = 0.20,
+        WindResistance = 0.15,
+        FabricType = Cotton,
+        WorldStaticModel = Dress_Mid_Ground,
+    }
+
+    item JZV_DressModern003_Red
+    {
+        DisplayCategory = Clothing,
+        Type = Clothing,
+        DisplayName = Jazzy Vogue - Modern Dress No. 3 (Red),
+        ClothingItem = JZV_DressModern003_Red,
+        BodyLocation = Dress,
+        BloodLocation = Trousers;Shirt,
+        Icon = JZV_DressGeneric_Red,
+        RunSpeedModifier = 0.93,
+        Insulation = 0.20,
+        WindResistance = 0.15,
+        FabricType = Cotton,
+        WorldStaticModel = Dress_Mid_Ground,
+    }
+
+    item JZV_DressModern003_Teal
+    {
+        DisplayCategory = Clothing,
+        Type = Clothing,
+        DisplayName = Jazzy Vogue - Modern Dress No. 3 (Teal),
+        ClothingItem = JZV_DressModern003_Teal,
+        BodyLocation = Dress,
+        BloodLocation = Trousers;Shirt,
+        Icon = JZV_DressGeneric_Teal,
+        RunSpeedModifier = 0.93,
+        Insulation = 0.20,
+        WindResistance = 0.15,
+        FabricType = Cotton,
+        WorldStaticModel = Dress_Mid_Ground,
+    }
+
+    item JZV_DressModern003_Turquoise
+    {
+        DisplayCategory = Clothing,
+        Type = Clothing,
+        DisplayName = Jazzy Vogue - Modern Dress No. 3 (Turquoise),
+        ClothingItem = JZV_DressModern003_Turquoise,
+        BodyLocation = Dress,
+        BloodLocation = Trousers;Shirt,
+        Icon = JZV_DressGeneric_Turquoise,
+        RunSpeedModifier = 0.93,
+        Insulation = 0.20,
+        WindResistance = 0.15,
+        FabricType = Cotton,
+        WorldStaticModel = Dress_Mid_Ground,
+    }
+
+    item JZV_DressModern003_White
+    {
+        DisplayCategory = Clothing,
+        Type = Clothing,
+        DisplayName = Jazzy Vogue - Modern Dress No. 3 (White),
+        ClothingItem = JZV_DressModern003_White,
+        BodyLocation = Dress,
+        BloodLocation = Trousers;Shirt,
+        Icon = JZV_DressGeneric_White,
+        RunSpeedModifier = 0.93,
+        Insulation = 0.20,
+        WindResistance = 0.15,
+        FabricType = Cotton,
+        WorldStaticModel = Dress_Mid_Ground,
+    }
+}
