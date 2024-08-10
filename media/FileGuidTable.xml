@@ -634,6 +634,10 @@
 		<path>media/clothing/clothingItems/JZV_DressModern002_White.xml</path>
 		<guid>11efd276-0c3e-45d8-8fc4-ad284eef89a2</guid>
 	</files>
+	<files>
+		<path>media/clothing/clothingItems/JZV_DressModern002_WhiteLace.xml</path>
+		<guid>42789cdb-ff87-44e4-834e-bcc6e6806eaf</guid>
+	</files>
 
 	<!-- JZV_DressModern003 -->
 	<files>

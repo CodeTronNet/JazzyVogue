@@ -271,4 +271,20 @@ module JazzyVogue
         FabricType = Cotton,
         WorldStaticModel = Dress_Mid_Ground,
     }
+
+    item JZV_DressModern002_WhiteLace
+    {
+        DisplayCategory = Clothing,
+        Type = Clothing,
+        DisplayName = Jazzy Vogue - Modern Dress No. 2 (White Lace),
+        ClothingItem = JZV_DressModern002_WhiteLace,
+        BodyLocation = Dress,
+        BloodLocation = Trousers;Shirt,
+        Icon = JZV_DressGeneric_White,
+        RunSpeedModifier = 0.93,
+        Insulation = 0.20,
+        WindResistance = 0.15,
+        FabricType = Cotton,
+        WorldStaticModel = Dress_Mid_Ground,
+    }
 }
