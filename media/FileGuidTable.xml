@@ -672,5 +672,11 @@
 		<path>media/clothing/clothingItems/JZV_DressModern003_White.xml</path>
 		<guid>066a7211-f2ac-4db8-9858-01972c71c77a</guid>
 	</files>
+
+	<!-- JZV_FaceMask001 -->
+	<files>
+		<path>media/clothing/clothingItems/JZV_FaceMask001_Teeth.xml</path>
+		<guid>8238ca28-c041-43f4-a177-2380da374156</guid>
+	</files>
 </fileGuidTable>
 

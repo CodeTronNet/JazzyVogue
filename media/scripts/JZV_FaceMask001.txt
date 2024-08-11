@@ -1,0 +1,38 @@
+module JazzyVogue
+{
+    item JZV_FaceMask001_Teeth
+    {
+        DisplayCategory = Accessory,
+        Type = Clothing,
+        DisplayName = Jazzy Vogue - Face Mask No. 1 (Teeth),
+        ClothingItem = JZV_FaceMask001_Teeth,
+        BodyLocation = Scarf,
+        Icon = JZV_FaceMask001_Teeth,
+        Weight = 0.2,
+        BloodLocation = Neck;Head,
+        ScratchDefense = 25,
+        BiteDefense = 15,
+        Insulation = 0.7,
+        WindResistance = 0.7,
+        FabricType = Cotton,
+        WorldStaticModel = NomadMask_ground,
+    }
+
+    recipe Herstellen Jazzy Vogue - Face Mask No. 1 (Teeth)
+    {
+        PaintWhite;1,
+		PaintBlack;1,
+		PaintRed;1,
+        NomadMask=1,
+
+		keep Paintbrush,
+        keep JZV_Sketchbook,
+
+		Result:JZV_FaceMask001_Teeth,
+		Time:450.0,
+		Category:Tailoring,
+		SkillRequired:Tailoring=10,
+		OnGiveXP:Recipe.OnGiveXP.Tailoring5,
+		CanBeDoneFromFloor:true,
+    }
+}
