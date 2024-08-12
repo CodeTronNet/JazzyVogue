@@ -1,0 +1,8 @@
+ContextMenu_EN = {
+
+    ContextMenu_Blank = "Change: Blank",
+    ContextMenu_Flame = "Change: Flame",
+    ContextMenu_Hi = "Change: Hi",
+    ContextMenu_Network = "Change: Network",
+    ContextMenu_Equalizer = "Change: Equalizer",
+}

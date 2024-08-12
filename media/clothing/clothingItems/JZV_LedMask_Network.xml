@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<clothingItem>
+	<m_MaleModel>M_JZV_LedMask</m_MaleModel>
+	<m_FemaleModel>M_JZV_LedMask</m_FemaleModel>
+	<m_GUID>e3ca5ba3-6e1b-477e-887b-966a741b2ac4</m_GUID>
+	<m_Static>true</m_Static>
+	<m_AllowRandomHue>false</m_AllowRandomHue>
+	<m_AllowRandomTint>false</m_AllowRandomTint>
+	<m_AttachBone>Bip01_Head</m_AttachBone>
+	<m_MasksFolder>media/textures/Clothes/Hat/Masks</m_MasksFolder>
+	<textureChoices>clothes\JazzyVogue\JZV_LedMask\JZV_LedMask_Network</textureChoices>
+</clothingItem>

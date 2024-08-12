@@ -14,5 +14,84 @@ module JazzyVogue
         ScratchDefense = 50,
         Insulation = 0.25,
         WindResistance = 0.55,
+		ClothingItemExtra = JZV_LedMask_Blank;JZV_LedMask_Hi;JZV_LedMask_Flame;JZV_LedMask_Network;JZV_LedMask_Equalizer,
+        ClothingItemExtraOption = Blank;Hi;Flame;Network;Equalizer,
+        clothingExtraSubmenu = UpHoodie,
+	}
+
+	item JZV_LedMask_Hi
+	{
+	    DisplayCategory = Accessory,
+		Type = Clothing,
+		DisplayName = Led Mask (Hi),
+		ClothingItem = JZV_LedMask_Hi,
+		BodyLocation = MaskEyes,
+		Icon = HockeyMask,
+		CanHaveHoles = false,
+		BloodLocation = Head,
+        BiteDefense = 30,
+        ScratchDefense = 50,
+        Insulation = 0.25,
+        WindResistance = 0.55,
+		ClothingItemExtra = JZV_LedMask_Blank;JZV_LedMask_Hi;JZV_LedMask_Flame;JZV_LedMask_Network;JZV_LedMask_Equalizer,
+        ClothingItemExtraOption = Blank;Hi;Flame;Network;Equalizer,
+        clothingExtraSubmenu = UpHoodie,
+	}
+
+	item JZV_LedMask_Flame
+	{
+	    DisplayCategory = Accessory,
+		Type = Clothing,
+		DisplayName = Led Mask (Flame),
+		ClothingItem = JZV_LedMask_Flame,
+		BodyLocation = MaskEyes,
+		Icon = HockeyMask,
+		CanHaveHoles = false,
+		BloodLocation = Head,
+        BiteDefense = 30,
+        ScratchDefense = 50,
+        Insulation = 0.25,
+        WindResistance = 0.55,
+		ClothingItemExtra = JZV_LedMask_Blank;JZV_LedMask_Hi;JZV_LedMask_Flame;JZV_LedMask_Network;JZV_LedMask_Equalizer,
+        ClothingItemExtraOption = Blank;Hi;Flame;Network;Equalizer,
+        clothingExtraSubmenu = UpHoodie,
+	}
+
+	item JZV_LedMask_Network
+	{
+	    DisplayCategory = Accessory,
+		Type = Clothing,
+		DisplayName = Led Mask (Network),
+		ClothingItem = JZV_LedMask_Network,
+		BodyLocation = MaskEyes,
+		Icon = HockeyMask,
+		CanHaveHoles = false,
+		BloodLocation = Head,
+        BiteDefense = 30,
+        ScratchDefense = 50,
+        Insulation = 0.25,
+        WindResistance = 0.55,
+		ClothingItemExtra = JZV_LedMask_Blank;JZV_LedMask_Hi;JZV_LedMask_Flame;JZV_LedMask_Network;JZV_LedMask_Equalizer,
+        ClothingItemExtraOption = Blank;Hi;Flame;Network;Equalizer,
+        clothingExtraSubmenu = UpHoodie,
+	}
+
+	item JZV_LedMask_Equalizer
+	{
+	    DisplayCategory = Accessory,
+		Type = Clothing,
+		DisplayName = Led Mask (Equalizer),
+		ClothingItem = JZV_LedMask_Equalizer,
+		BodyLocation = MaskEyes,
+		Icon = HockeyMask,
+		CanHaveHoles = false,
+		BloodLocation = Head,
+        BiteDefense = 30,
+        ScratchDefense = 50,
+        Insulation = 0.25,
+        WindResistance = 0.55,
+		ClothingItemExtra = JZV_LedMask_Blank;JZV_LedMask_Hi;JZV_LedMask_Flame;JZV_LedMask_Network;JZV_LedMask_Equalizer,
+        ClothingItemExtraOption = Blank;Hi;Flame;Network;Equalizer,
+        clothingExtraSubmenu = UpHoodie,
 	}
 }
