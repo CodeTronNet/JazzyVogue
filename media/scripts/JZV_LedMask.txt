@@ -1,0 +1,18 @@
+module JazzyVogue
+{
+    item JZV_LedMask_Blank
+	{
+	    DisplayCategory = Accessory,
+		Type = Clothing,
+		DisplayName = Led Mask (Blank),
+		ClothingItem = JZV_LedMask_Blank,
+		BodyLocation = MaskEyes,
+		Icon = HockeyMask,
+		CanHaveHoles = false,
+		BloodLocation = Head,
+        BiteDefense = 30,
+        ScratchDefense = 50,
+        Insulation = 0.25,
+        WindResistance = 0.55,
+	}
+}

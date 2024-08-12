@@ -673,10 +673,16 @@
 		<guid>066a7211-f2ac-4db8-9858-01972c71c77a</guid>
 	</files>
 
-	<!-- JZV_FaceMask001 -->
+	<!-- JZV_LedMask -->
 	<files>
-		<path>media/clothing/clothingItems/JZV_FaceMask001_Teeth.xml</path>
-		<guid>8238ca28-c041-43f4-a177-2380da374156</guid>
+		<path>media/clothing/clothingItems/JZV_LedMask_Blank.xml</path>
+		<guid>67005189-d2b2-4cbd-851a-ed8066d608ee</guid>
+	</files>
+
+	<!-- JZV_HockeyMask -->
+	<files>
+		<path>media/clothing/clothingItems/JZV_HockeyMask_Black.xml</path>
+		<guid>2910a0bf-76f3-466b-a093-9c434de6f19e</guid>
 	</files>
 </fileGuidTable>
 

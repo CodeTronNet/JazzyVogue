@@ -1,0 +1,33 @@
+module JazzyVogue
+{
+    item JZV_HockeyMask_Black
+	{
+	    DisplayCategory = Accessory,
+		Type = Clothing,
+		DisplayName = Hockey Mask (Black),
+		ClothingItem = JZV_HockeyMask_Black,
+		BodyLocation = MaskEyes,
+		Icon = HockeyMask,
+		CanHaveHoles = false,
+		BloodLocation = Head,
+        BiteDefense = 30,
+        ScratchDefense = 50,
+        Insulation = 0.25,
+        WindResistance = 0.55,
+	}
+
+	recipe Herstellen Hockey Mask (Black)
+    {
+        PaintBlack;1,
+        Hat_HockeyMask=1,
+
+		keep Paintbrush,
+
+		Result:JZV_FaceMask001_Black,
+		Time:450.0,
+		Category:Tailoring,
+		SkillRequired:Tailoring=8,
+		OnGiveXP:Recipe.OnGiveXP.Tailoring5,
+		CanBeDoneFromFloor:true,
+    }
+}
