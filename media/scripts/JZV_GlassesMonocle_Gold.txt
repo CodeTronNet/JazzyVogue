@@ -18,7 +18,6 @@ module JazzyVogue
 		MetalPipe,
 		keep BallPeenHammer,
 		keep Scalpel,
-		keep JZV_Sketchbook,
 
 		Result:JZV_GlassesMonocle_Gold,
 		Time:450.0,

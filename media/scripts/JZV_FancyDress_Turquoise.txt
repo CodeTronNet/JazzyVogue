@@ -25,7 +25,6 @@ module JazzyVogue
 
 		keep Needle,
 		keep Paintbrush,
-		keep JZV_Sketchbook,
 
 		Result:JZV_FancyDress_Turquoise,
 		Time:450.0,

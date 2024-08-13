@@ -26,7 +26,6 @@ module JazzyVogue
 		keep KnittingNeedles,
 		keep Needle,
 		keep [Recipe.GetItemTypes.Scissors]/[Recipe.GetItemTypes.SharpKnife],
-		keep JZV_Sketchbook,
 		
 		Result:JZV_WinterHat_Chapka001,
 		Time:400.0,

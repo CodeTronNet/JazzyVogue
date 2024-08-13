@@ -31,7 +31,6 @@ module JazzyVogue
 
 		keep Needle,
 		keep Paintbrush,
-        keep JZV_Sketchbook,
 
 		Result:JZV_LeatherJacket_Raiders001,
 		Time:450.0,

@@ -9,7 +9,6 @@ module JazzyVogue
 
 		keep Needle,
 		keep Paintbrush,
-        keep JZV_Sketchbook,
 
 		Result:JZV_DressModern003_Green,
 		Time:600.0,
@@ -28,7 +27,6 @@ module JazzyVogue
 
 		keep Needle,
 		keep Paintbrush,
-        keep JZV_Sketchbook,
 
 		Result:JZV_DressModern003_Orange,
 		Time:600.0,
@@ -47,7 +45,6 @@ module JazzyVogue
 
 		keep Needle,
 		keep Paintbrush,
-        keep JZV_Sketchbook,
 
 		Result:JZV_DressModern003_Pear,
 		Time:600.0,
@@ -66,7 +63,6 @@ module JazzyVogue
 
 		keep Needle,
 		keep Paintbrush,
-        keep JZV_Sketchbook,
 
 		Result:JZV_DressModern003_Purple,
 		Time:600.0,
@@ -85,7 +81,6 @@ module JazzyVogue
 
 		keep Needle,
 		keep Paintbrush,
-        keep JZV_Sketchbook,
 
 		Result:JZV_DressModern003_Red,
 		Time:600.0,
@@ -104,7 +99,6 @@ module JazzyVogue
 
 		keep Needle,
 		keep Paintbrush,
-        keep JZV_Sketchbook,
 
 		Result:JZV_DressModern003_Teal,
 		Time:600.0,
@@ -123,7 +117,6 @@ module JazzyVogue
 
 		keep Needle,
 		keep Paintbrush,
-        keep JZV_Sketchbook,
 
 		Result:JZV_DressModern003_Turquoise,
 		Time:600.0,
@@ -142,7 +135,6 @@ module JazzyVogue
 
 		keep Needle,
 		keep Paintbrush,
-        keep JZV_Sketchbook,
 
 		Result:JZV_DressModern003_White,
 		Time:600.0,
