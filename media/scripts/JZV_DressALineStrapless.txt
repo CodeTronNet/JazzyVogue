@@ -4,7 +4,7 @@ module JazzyVogue
     {
         DisplayCategory = Clothing,
         Type = Clothing,
-        DisplayName = Jazzy Vogue - Strapless A-Line Dress (Black),
+        DisplayName = Strapless A-Line Dress (Black),
         ClothingItem = JZV_DressALineStrapless_Black,
         BodyLocation = Dress,
         BloodLocation = Trousers;Shirt,
@@ -20,7 +20,7 @@ module JazzyVogue
     {
         DisplayCategory = Clothing,
         Type = Clothing,
-        DisplayName = Jazzy Vogue - Strapless A-Line Dress (Brown),
+        DisplayName = Strapless A-Line Dress (Brown),
         ClothingItem = JZV_DressALineStrapless_Brown,
         BodyLocation = Dress,
         BloodLocation = Trousers;Shirt,
@@ -36,7 +36,7 @@ module JazzyVogue
     {
         DisplayCategory = Clothing,
         Type = Clothing,
-        DisplayName = Jazzy Vogue - Strapless A-Line Dress (Green),
+        DisplayName = Strapless A-Line Dress (Green),
         ClothingItem = JZV_DressALineStrapless_Green,
         BodyLocation = Dress,
         BloodLocation = Trousers;Shirt,
@@ -52,7 +52,7 @@ module JazzyVogue
     {
         DisplayCategory = Clothing,
         Type = Clothing,
-        DisplayName = Jazzy Vogue - Strapless A-Line Dress (Grey),
+        DisplayName = Strapless A-Line Dress (Grey),
         ClothingItem = JZV_DressALineStrapless_Grey,
         BodyLocation = Dress,
         BloodLocation = Trousers;Shirt,
@@ -68,7 +68,7 @@ module JazzyVogue
     {
         DisplayCategory = Clothing,
         Type = Clothing,
-        DisplayName = Jazzy Vogue - Strapless A-Line Dress (Indigo),
+        DisplayName = Strapless A-Line Dress (Indigo),
         ClothingItem = JZV_DressALineStrapless_Indigo,
         BodyLocation = Dress,
         BloodLocation = Trousers;Shirt,
@@ -84,7 +84,7 @@ module JazzyVogue
     {
         DisplayCategory = Clothing,
         Type = Clothing,
-        DisplayName = Jazzy Vogue - Strapless A-Line Dress (Midori),
+        DisplayName = Strapless A-Line Dress (Midori),
         ClothingItem = JZV_DressALineStrapless_Midori,
         BodyLocation = Dress,
         BloodLocation = Trousers;Shirt,
@@ -100,7 +100,7 @@ module JazzyVogue
     {
         DisplayCategory = Clothing,
         Type = Clothing,
-        DisplayName = Jazzy Vogue - Strapless A-Line Dress (Nautilus),
+        DisplayName = Strapless A-Line Dress (Nautilus),
         ClothingItem = JZV_DressALineStrapless_Nautilus,
         BodyLocation = Dress,
         BloodLocation = Trousers;Shirt,
@@ -116,7 +116,7 @@ module JazzyVogue
     {
         DisplayCategory = Clothing,
         Type = Clothing,
-        DisplayName = Jazzy Vogue - Strapless A-Line Dress (Olive),
+        DisplayName = Strapless A-Line Dress (Olive),
         ClothingItem = JZV_DressALineStrapless_Olive,
         BodyLocation = Dress,
         BloodLocation = Trousers;Shirt,
@@ -132,7 +132,7 @@ module JazzyVogue
     {
         DisplayCategory = Clothing,
         Type = Clothing,
-        DisplayName = Jazzy Vogue - Strapless A-Line Dress (Orange),
+        DisplayName = Strapless A-Line Dress (Orange),
         ClothingItem = JZV_DressALineStrapless_Orange,
         BodyLocation = Dress,
         BloodLocation = Trousers;Shirt,
@@ -148,7 +148,7 @@ module JazzyVogue
     {
         DisplayCategory = Clothing,
         Type = Clothing,
-        DisplayName = Jazzy Vogue - Strapless A-Line Dress (Pear),
+        DisplayName = Strapless A-Line Dress (Pear),
         ClothingItem = JZV_DressALineStrapless_Pear,
         BodyLocation = Dress,
         BloodLocation = Trousers;Shirt,
@@ -164,7 +164,7 @@ module JazzyVogue
     {
         DisplayCategory = Clothing,
         Type = Clothing,
-        DisplayName = Jazzy Vogue - Strapless A-Line Dress (Pine),
+        DisplayName = Strapless A-Line Dress (Pine),
         ClothingItem = JZV_DressALineStrapless_Pine,
         BodyLocation = Dress,
         BloodLocation = Trousers;Shirt,
@@ -180,7 +180,7 @@ module JazzyVogue
     {
         DisplayCategory = Clothing,
         Type = Clothing,
-        DisplayName = Jazzy Vogue - Strapless A-Line Dress (Plum),
+        DisplayName = Strapless A-Line Dress (Plum),
         ClothingItem = JZV_DressALineStrapless_Plum,
         BodyLocation = Dress,
         BloodLocation = Trousers;Shirt,
@@ -196,7 +196,7 @@ module JazzyVogue
     {
         DisplayCategory = Clothing,
         Type = Clothing,
-        DisplayName = Jazzy Vogue - Strapless A-Line Dress (Purple),
+        DisplayName = Strapless A-Line Dress (Purple),
         ClothingItem = JZV_DressALineStrapless_Purple,
         BodyLocation = Dress,
         BloodLocation = Trousers;Shirt,
@@ -212,7 +212,7 @@ module JazzyVogue
     {
         DisplayCategory = Clothing,
         Type = Clothing,
-        DisplayName = Jazzy Vogue - Strapless A-Line Dress (Red),
+        DisplayName = Strapless A-Line Dress (Red),
         ClothingItem = JZV_DressALineStrapless_Red,
         BodyLocation = Dress,
         BloodLocation = Trousers;Shirt,
@@ -228,7 +228,7 @@ module JazzyVogue
     {
         DisplayCategory = Clothing,
         Type = Clothing,
-        DisplayName = Jazzy Vogue - Strapless A-Line Dress (Teal),
+        DisplayName = Strapless A-Line Dress (Teal),
         ClothingItem = JZV_DressALineStrapless_Teal,
         BodyLocation = Dress,
         BloodLocation = Trousers;Shirt,
@@ -244,7 +244,7 @@ module JazzyVogue
     {
         DisplayCategory = Clothing,
         Type = Clothing,
-        DisplayName = Jazzy Vogue - Strapless A-Line Dress (Turquoise),
+        DisplayName = Strapless A-Line Dress (Turquoise),
         ClothingItem = JZV_DressALineStrapless_Turquoise,
         BodyLocation = Dress,
         BloodLocation = Trousers;Shirt,
@@ -260,7 +260,7 @@ module JazzyVogue
     {
         DisplayCategory = Clothing,
         Type = Clothing,
-        DisplayName = Jazzy Vogue - Strapless A-Line Dress (White),
+        DisplayName = Strapless A-Line Dress (White),
         ClothingItem = JZV_DressALineStrapless_White,
         BodyLocation = Dress,
         BloodLocation = Trousers;Shirt,

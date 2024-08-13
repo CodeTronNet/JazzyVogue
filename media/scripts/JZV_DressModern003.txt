@@ -4,7 +4,7 @@ module JazzyVogue
     {
         DisplayCategory = Clothing,
         Type = Clothing,
-        DisplayName = Jazzy Vogue - Modern Dress No. 3 (Green),
+        DisplayName = Modern Dress No. 3 (Green),
         ClothingItem = JZV_DressModern003_Green,
         BodyLocation = Dress,
         BloodLocation = Trousers;Shirt,

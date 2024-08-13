@@ -4,7 +4,7 @@ module JazzyVogue
     {
         DisplayCategory = Clothing,
         Type = Clothing,
-        DisplayName = Jazzy Vogue - Knitted Dress No. 1 (Black),
+        DisplayName = Knitted Dress No. 1 (Black),
         ClothingItem = JZV_DressKnit001_Black,
         BodyLocation = Dress,
         BloodLocation = Trousers;Shirt,
@@ -20,7 +20,7 @@ module JazzyVogue
     {
         DisplayCategory = Clothing,
         Type = Clothing,
-        DisplayName = Jazzy Vogue - Knitted Dress No. 1 (Brown),
+        DisplayName = Knitted Dress No. 1 (Brown),
         ClothingItem = JZV_DressKnit001_Brown,
         BodyLocation = Dress,
         BloodLocation = Trousers;Shirt,
@@ -36,7 +36,7 @@ module JazzyVogue
     {
         DisplayCategory = Clothing,
         Type = Clothing,
-        DisplayName = Jazzy Vogue - Knitted Dress No. 1 (Green),
+        DisplayName = Knitted Dress No. 1 (Green),
         ClothingItem = JZV_DressKnit001_Green,
         BodyLocation = Dress,
         BloodLocation = Trousers;Shirt,
@@ -52,7 +52,7 @@ module JazzyVogue
     {
         DisplayCategory = Clothing,
         Type = Clothing,
-        DisplayName = Jazzy Vogue - Knitted Dress No. 1 (Grey),
+        DisplayName = Knitted Dress No. 1 (Grey),
         ClothingItem = JZV_DressKnit001_Grey,
         BodyLocation = Dress,
         BloodLocation = Trousers;Shirt,
@@ -68,7 +68,7 @@ module JazzyVogue
     {
         DisplayCategory = Clothing,
         Type = Clothing,
-        DisplayName = Jazzy Vogue - Knitted Dress No. 1 (Indigo),
+        DisplayName = Knitted Dress No. 1 (Indigo),
         ClothingItem = JZV_DressKnit001_Indigo,
         BodyLocation = Dress,
         BloodLocation = Trousers;Shirt,
@@ -84,7 +84,7 @@ module JazzyVogue
     {
         DisplayCategory = Clothing,
         Type = Clothing,
-        DisplayName = Jazzy Vogue - Knitted Dress No. 1 (Midori),
+        DisplayName = Knitted Dress No. 1 (Midori),
         ClothingItem = JZV_DressKnit001_Midori,
         BodyLocation = Dress,
         BloodLocation = Trousers;Shirt,
@@ -100,7 +100,7 @@ module JazzyVogue
     {
         DisplayCategory = Clothing,
         Type = Clothing,
-        DisplayName = Jazzy Vogue - Knitted Dress No. 1 (Nautilus),
+        DisplayName = Knitted Dress No. 1 (Nautilus),
         ClothingItem = JZV_DressKnit001_Nautilus,
         BodyLocation = Dress,
         BloodLocation = Trousers;Shirt,
@@ -116,7 +116,7 @@ module JazzyVogue
     {
         DisplayCategory = Clothing,
         Type = Clothing,
-        DisplayName = Jazzy Vogue - Knitted Dress No. 1 (Olive),
+        DisplayName = Knitted Dress No. 1 (Olive),
         ClothingItem = JZV_DressKnit001_Olive,
         BodyLocation = Dress,
         BloodLocation = Trousers;Shirt,
@@ -132,7 +132,7 @@ module JazzyVogue
     {
         DisplayCategory = Clothing,
         Type = Clothing,
-        DisplayName = Jazzy Vogue - Knitted Dress No. 1 (Orange),
+        DisplayName = Knitted Dress No. 1 (Orange),
         ClothingItem = JZV_DressKnit001_Orange,
         BodyLocation = Dress,
         BloodLocation = Trousers;Shirt,
@@ -148,7 +148,7 @@ module JazzyVogue
     {
         DisplayCategory = Clothing,
         Type = Clothing,
-        DisplayName = Jazzy Vogue - Knitted Dress No. 1 (Pear),
+        DisplayName = Knitted Dress No. 1 (Pear),
         ClothingItem = JZV_DressKnit001_Pear,
         BodyLocation = Dress,
         BloodLocation = Trousers;Shirt,
@@ -164,7 +164,7 @@ module JazzyVogue
     {
         DisplayCategory = Clothing,
         Type = Clothing,
-        DisplayName = Jazzy Vogue - Knitted Dress No. 1 (Pine),
+        DisplayName = Knitted Dress No. 1 (Pine),
         ClothingItem = JZV_DressKnit001_Pine,
         BodyLocation = Dress,
         BloodLocation = Trousers;Shirt,
@@ -180,7 +180,7 @@ module JazzyVogue
     {
         DisplayCategory = Clothing,
         Type = Clothing,
-        DisplayName = Jazzy Vogue - Knitted Dress No. 1 (Plum),
+        DisplayName = Knitted Dress No. 1 (Plum),
         ClothingItem = JZV_DressKnit001_Plum,
         BodyLocation = Dress,
         BloodLocation = Trousers;Shirt,
@@ -196,7 +196,7 @@ module JazzyVogue
     {
         DisplayCategory = Clothing,
         Type = Clothing,
-        DisplayName = Jazzy Vogue - Knitted Dress No. 1 (Purple),
+        DisplayName = Knitted Dress No. 1 (Purple),
         ClothingItem = JZV_DressKnit001_Purple,
         BodyLocation = Dress,
         BloodLocation = Trousers;Shirt,
@@ -212,7 +212,7 @@ module JazzyVogue
     {
         DisplayCategory = Clothing,
         Type = Clothing,
-        DisplayName = Jazzy Vogue - Knitted Dress No. 1 (Red),
+        DisplayName = Knitted Dress No. 1 (Red),
         ClothingItem = JZV_DressKnit001_Red,
         BodyLocation = Dress,
         BloodLocation = Trousers;Shirt,
@@ -228,7 +228,7 @@ module JazzyVogue
     {
         DisplayCategory = Clothing,
         Type = Clothing,
-        DisplayName = Jazzy Vogue - Knitted Dress No. 1 (Teal),
+        DisplayName = Knitted Dress No. 1 (Teal),
         ClothingItem = JZV_DressKnit001_Teal,
         BodyLocation = Dress,
         BloodLocation = Trousers;Shirt,
@@ -244,7 +244,7 @@ module JazzyVogue
     {
         DisplayCategory = Clothing,
         Type = Clothing,
-        DisplayName = Jazzy Vogue - Knitted Dress No. 1 (Turquoise),
+        DisplayName = Knitted Dress No. 1 (Turquoise),
         ClothingItem = JZV_DressKnit001_Turquoise,
         BodyLocation = Dress,
         BloodLocation = Trousers;Shirt,
@@ -260,7 +260,7 @@ module JazzyVogue
     {
         DisplayCategory = Clothing,
         Type = Clothing,
-        DisplayName = Jazzy Vogue - Knitted Dress No. 1 (White),
+        DisplayName = Knitted Dress No. 1 (White),
         ClothingItem = JZV_DressKnit001_White,
         BodyLocation = Dress,
         BloodLocation = Trousers;Shirt,

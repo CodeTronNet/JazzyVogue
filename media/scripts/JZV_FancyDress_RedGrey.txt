@@ -2,23 +2,23 @@ module JazzyVogue
 {
 	item JZV_FancyDress_RedGrey
 	{
-        DisplayCategory = Clothing,
-        Type = Clothing,
-        DisplayName = Jazzy Vogue - Fancy Dress (Red / Grey),
-        ClothingItem = JZV_FancyDress_RedGrey,
-        BodyLocation = FullSuit,
-        BloodLocation = Trousers;Shirt,
-        Icon = JZV_FancyDress_RedGrey,
-        RunSpeedModifier = 0.8,
-        ScratchDefense = 10,
-        Insulation = 0.25,
-        WindResistance = 0.1,
-        FabricType = Cotton,
-        WorldStaticModel = WeddingDress_Ground,
+		DisplayCategory = Clothing,
+		Type = Clothing,
+		DisplayName = Fancy Dress (Red / Grey),
+		ClothingItem = JZV_FancyDress_RedGrey,
+		BodyLocation = FullSuit,
+		BloodLocation = Trousers;Shirt,
+		Icon = JZV_FancyDress_RedGrey,
+		RunSpeedModifier = 0.8,
+		ScratchDefense = 10,
+		Insulation = 0.25,
+		WindResistance = 0.1,
+		FabricType = Cotton,
+		WorldStaticModel = WeddingDress_Ground,
 	}
 
-    recipe Herstellen Jazzy Vogue - Fancy Dress (Red / Grey)
-    {
+	recipe Craft Fancy Dress (Red / Grey)
+	{
 		RippedSheets=16,
 		Thread;4,
 		PaintGrey;1,
@@ -26,7 +26,7 @@ module JazzyVogue
 
 		keep Needle,
 		keep Paintbrush,
-        keep JZV_Sketchbook,
+		keep JZV_Sketchbook,
 
 		Result:JZV_FancyDress_RedGrey,
 		Time:450.0,
@@ -34,5 +34,5 @@ module JazzyVogue
 		SkillRequired:Tailoring=10,
 		OnGiveXP:Recipe.OnGiveXP.Tailoring5,
 		CanBeDoneFromFloor:true,
-    }
+	}
 }

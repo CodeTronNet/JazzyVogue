@@ -4,7 +4,7 @@ module JazzyVogue
 	{
 	    DisplayCategory = Accessory,
 		Type = Clothing,
-		DisplayName = Jazzy Vogue - Monocle (Gold),
+		DisplayName = Monocle (Gold),
 		ClothingItem = JZV_GlassesMonocle_Gold,
 		BodyLocation = Eyes,
 		IconsForTexture = GlassesReading,
@@ -13,7 +13,7 @@ module JazzyVogue
 		ChanceToFall = 50,
 	}
 
-	recipe Herstellen Jazzy Vogue - Monocle (Gold)
+	recipe Craft Monocle (Gold)
     {
 		MetalPipe,
 		keep BallPeenHammer,

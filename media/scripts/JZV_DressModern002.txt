@@ -4,7 +4,7 @@ module JazzyVogue
     {
         DisplayCategory = Clothing,
         Type = Clothing,
-        DisplayName = Jazzy Vogue - Modern Dress No. 2 (Black),
+        DisplayName = Modern Dress No. 2 (Black),
         ClothingItem = JZV_DressModern002_Black,
         BodyLocation = Dress,
         BloodLocation = Trousers;Shirt,
@@ -20,7 +20,7 @@ module JazzyVogue
     {
         DisplayCategory = Clothing,
         Type = Clothing,
-        DisplayName = Jazzy Vogue - Modern Dress No. 2 (Brown),
+        DisplayName = Modern Dress No. 2 (Brown),
         ClothingItem = JZV_DressModern002_Brown,
         BodyLocation = Dress,
         BloodLocation = Trousers;Shirt,
@@ -36,7 +36,7 @@ module JazzyVogue
     {
         DisplayCategory = Clothing,
         Type = Clothing,
-        DisplayName = Jazzy Vogue - Modern Dress No. 2 (Green),
+        DisplayName = Modern Dress No. 2 (Green),
         ClothingItem = JZV_DressModern002_Green,
         BodyLocation = Dress,
         BloodLocation = Trousers;Shirt,
@@ -52,7 +52,7 @@ module JazzyVogue
     {
         DisplayCategory = Clothing,
         Type = Clothing,
-        DisplayName = Jazzy Vogue - Modern Dress No. 2 (Grey),
+        DisplayName = Modern Dress No. 2 (Grey),
         ClothingItem = JZV_DressModern002_Grey,
         BodyLocation = Dress,
         BloodLocation = Trousers;Shirt,
@@ -68,7 +68,7 @@ module JazzyVogue
     {
         DisplayCategory = Clothing,
         Type = Clothing,
-        DisplayName = Jazzy Vogue - Modern Dress No. 2 (Indigo),
+        DisplayName = Modern Dress No. 2 (Indigo),
         ClothingItem = JZV_DressModern002_Indigo,
         BodyLocation = Dress,
         BloodLocation = Trousers;Shirt,
@@ -84,7 +84,7 @@ module JazzyVogue
     {
         DisplayCategory = Clothing,
         Type = Clothing,
-        DisplayName = Jazzy Vogue - Modern Dress No. 2 (Midori),
+        DisplayName = Modern Dress No. 2 (Midori),
         ClothingItem = JZV_DressModern002_Midori,
         BodyLocation = Dress,
         BloodLocation = Trousers;Shirt,
@@ -100,7 +100,7 @@ module JazzyVogue
     {
         DisplayCategory = Clothing,
         Type = Clothing,
-        DisplayName = Jazzy Vogue - Modern Dress No. 2 (Nautilus),
+        DisplayName = Modern Dress No. 2 (Nautilus),
         ClothingItem = JZV_DressModern002_Nautilus,
         BodyLocation = Dress,
         BloodLocation = Trousers;Shirt,
@@ -116,7 +116,7 @@ module JazzyVogue
     {
         DisplayCategory = Clothing,
         Type = Clothing,
-        DisplayName = Jazzy Vogue - Modern Dress No. 2 (Olive),
+        DisplayName = Modern Dress No. 2 (Olive),
         ClothingItem = JZV_DressModern002_Olive,
         BodyLocation = Dress,
         BloodLocation = Trousers;Shirt,
@@ -132,7 +132,7 @@ module JazzyVogue
     {
         DisplayCategory = Clothing,
         Type = Clothing,
-        DisplayName = Jazzy Vogue - Modern Dress No. 2 (Orange),
+        DisplayName = Modern Dress No. 2 (Orange),
         ClothingItem = JZV_DressModern002_Orange,
         BodyLocation = Dress,
         BloodLocation = Trousers;Shirt,
@@ -148,7 +148,7 @@ module JazzyVogue
     {
         DisplayCategory = Clothing,
         Type = Clothing,
-        DisplayName = Jazzy Vogue - Modern Dress No. 2 (Pear),
+        DisplayName = Modern Dress No. 2 (Pear),
         ClothingItem = JZV_DressModern002_Pear,
         BodyLocation = Dress,
         BloodLocation = Trousers;Shirt,
@@ -164,7 +164,7 @@ module JazzyVogue
     {
         DisplayCategory = Clothing,
         Type = Clothing,
-        DisplayName = Jazzy Vogue - Modern Dress No. 2 (Pine),
+        DisplayName = Modern Dress No. 2 (Pine),
         ClothingItem = JZV_DressModern002_Pine,
         BodyLocation = Dress,
         BloodLocation = Trousers;Shirt,
@@ -180,7 +180,7 @@ module JazzyVogue
     {
         DisplayCategory = Clothing,
         Type = Clothing,
-        DisplayName = Jazzy Vogue - Modern Dress No. 2 (Plum),
+        DisplayName = Modern Dress No. 2 (Plum),
         ClothingItem = JZV_DressModern002_Plum,
         BodyLocation = Dress,
         BloodLocation = Trousers;Shirt,
@@ -196,7 +196,7 @@ module JazzyVogue
     {
         DisplayCategory = Clothing,
         Type = Clothing,
-        DisplayName = Jazzy Vogue - Modern Dress No. 2 (Purple),
+        DisplayName = Modern Dress No. 2 (Purple),
         ClothingItem = JZV_DressModern002_Purple,
         BodyLocation = Dress,
         BloodLocation = Trousers;Shirt,
@@ -212,7 +212,7 @@ module JazzyVogue
     {
         DisplayCategory = Clothing,
         Type = Clothing,
-        DisplayName = Jazzy Vogue - Modern Dress No. 2 (Red),
+        DisplayName = Modern Dress No. 2 (Red),
         ClothingItem = JZV_DressModern002_Red,
         BodyLocation = Dress,
         BloodLocation = Trousers;Shirt,
@@ -228,7 +228,7 @@ module JazzyVogue
     {
         DisplayCategory = Clothing,
         Type = Clothing,
-        DisplayName = Jazzy Vogue - Modern Dress No. 2 (Teal),
+        DisplayName = Modern Dress No. 2 (Teal),
         ClothingItem = JZV_DressModern002_Teal,
         BodyLocation = Dress,
         BloodLocation = Trousers;Shirt,
@@ -244,7 +244,7 @@ module JazzyVogue
     {
         DisplayCategory = Clothing,
         Type = Clothing,
-        DisplayName = Jazzy Vogue - Modern Dress No. 2 (Turquoise),
+        DisplayName = Modern Dress No. 2 (Turquoise),
         ClothingItem = JZV_DressModern002_Turquoise,
         BodyLocation = Dress,
         BloodLocation = Trousers;Shirt,
@@ -260,7 +260,7 @@ module JazzyVogue
     {
         DisplayCategory = Clothing,
         Type = Clothing,
-        DisplayName = Jazzy Vogue - Modern Dress No. 2 (White),
+        DisplayName = Modern Dress No. 2 (White),
         ClothingItem = JZV_DressModern002_White,
         BodyLocation = Dress,
         BloodLocation = Trousers;Shirt,
@@ -276,7 +276,7 @@ module JazzyVogue
     {
         DisplayCategory = Clothing,
         Type = Clothing,
-        DisplayName = Jazzy Vogue - Modern Dress No. 2 (White Lace),
+        DisplayName = Modern Dress No. 2 (White Lace),
         ClothingItem = JZV_DressModern002_WhiteLace,
         BodyLocation = Dress,
         BloodLocation = Trousers;Shirt,

@@ -4,7 +4,7 @@ module JazzyVogue
     {
         DisplayCategory = Clothing,
         Type = Clothing,
-        DisplayName = Jazzy Vogue - Slim Suit Jacket (Beige),
+        DisplayName = Slim Suit Jacket (Beige),
         ClothingItem = JZV_SuitJacketSlim_Beige,
         BodyLocation = JacketSuit,
         BloodLocation = Jacket,
@@ -24,7 +24,7 @@ module JazzyVogue
     {
         DisplayCategory = Clothing,
         Type = Clothing,
-        DisplayName = Jazzy Vogue - Slim Suit Jacket (Black),
+        DisplayName = Slim Suit Jacket (Black),
         ClothingItem = JZV_SuitJacketSlim_Black,
         BodyLocation = JacketSuit,
         BloodLocation = Jacket,
@@ -44,7 +44,7 @@ module JazzyVogue
     {
         DisplayCategory = Clothing,
         Type = Clothing,
-        DisplayName = Jazzy Vogue - Slim Suit Jacket (Blue),
+        DisplayName = Slim Suit Jacket (Blue),
         ClothingItem = JZV_SuitJacketSlim_Blue,
         BodyLocation = JacketSuit,
         BloodLocation = Jacket,
@@ -64,7 +64,7 @@ module JazzyVogue
     {
         DisplayCategory = Clothing,
         Type = Clothing,
-        DisplayName = Jazzy Vogue - Slim Suit Jacket (Brown),
+        DisplayName = Slim Suit Jacket (Brown),
         ClothingItem = JZV_SuitJacketSlim_Brown,
         BodyLocation = JacketSuit,
         BloodLocation = Jacket,
@@ -84,7 +84,7 @@ module JazzyVogue
     {
         DisplayCategory = Clothing,
         Type = Clothing,
-        DisplayName = Jazzy Vogue - Slim Suit Jacket (Grey),
+        DisplayName = Slim Suit Jacket (Grey),
         ClothingItem = JZV_SuitJacketSlim_Grey,
         BodyLocation = JacketSuit,
         BloodLocation = Jacket,
@@ -104,7 +104,7 @@ module JazzyVogue
     {
         DisplayCategory = Clothing,
         Type = Clothing,
-        DisplayName = Jazzy Vogue - Slim Suit Jacket (White),
+        DisplayName = Slim Suit Jacket (White),
         ClothingItem = JZV_SuitJacketSlim_White,
         BodyLocation = JacketSuit,
         BloodLocation = Jacket,
@@ -124,7 +124,7 @@ module JazzyVogue
     {
         DisplayCategory = Clothing,
         Type = Clothing,
-        DisplayName = Jazzy Vogue - Slim Suit Jacket (Green),
+        DisplayName = Slim Suit Jacket (Green),
         ClothingItem = JZV_SuitJacketSlim_Green,
         BodyLocation = JacketSuit,
         BloodLocation = Jacket,
@@ -144,7 +144,7 @@ module JazzyVogue
     {
         DisplayCategory = Clothing,
         Type = Clothing,
-        DisplayName = Jazzy Vogue - Slim Suit Jacket (Red),
+        DisplayName = Slim Suit Jacket (Red),
         ClothingItem = JZV_SuitJacketSlim_Red,
         BodyLocation = JacketSuit,
         BloodLocation = Jacket,

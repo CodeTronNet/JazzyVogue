@@ -1,43 +1,43 @@
 module JazzyVogue
 {
-    item JZV_ArmyPack_Red
-    {
-        DisplayCategory = Bag,
-        Type = Container,
-        DisplayName = Military Backpack (Red),
-        ClothingItem = JZV_ArmyPack_Red,
-        CanBeEquipped = Back,
-        WeightReduction	=	95,
-        Weight	=	1,
-        Capacity	=	35,
-        Icon	=	JZV_ArmyPack_Red,
-        OpenSound   =   OpenBag,
-        CloseSound   =   CloseBag,
-        PutInSound   =   PutItemInBag,
-        BloodLocation = Bag,
-        RunSpeedModifier = 0.99,
-        CanHaveHoles = false,
-        AttachmentReplacement = Bag,
-        ReplaceInSecondHand = JZV_ArmyPack_Red_LHand holdingbagleft,
-        ReplaceInPrimaryHand = JZV_ArmyPack_Red_RHand holdingbagright,
-        WorldStaticModel = ALICE_Pack_Ground,
-    }
+	item JZV_ArmyPack_Red
+	{
+		DisplayCategory = Bag,
+		Type = Container,
+		DisplayName = Military Backpack (Red),
+		ClothingItem = JZV_ArmyPack_Red,
+		CanBeEquipped = Back,
+		WeightReduction	=	95,
+		Weight	=	1,
+		Capacity	=	35,
+		Icon	=	JZV_ArmyPack_Red,
+		OpenSound   =   OpenBag,
+		CloseSound   =   CloseBag,
+		PutInSound   =   PutItemInBag,
+		BloodLocation = Bag,
+		RunSpeedModifier = 0.99,
+		CanHaveHoles = false,
+		AttachmentReplacement = Bag,
+		ReplaceInSecondHand = JZV_ArmyPack_Red_LHand holdingbagleft,
+		ReplaceInPrimaryHand = JZV_ArmyPack_Red_RHand holdingbagright,
+		WorldStaticModel = ALICE_Pack_Ground,
+	}
 
-    recipe Herstellen Military Backpack (Red)
-    {
-            RippedSheets=16,
-            Thread;4,
-            PaintRed;3,
-            Bag_ALICEpack_Army,
+	recipe Craft Military Backpack (Red)
+	{
+		RippedSheets=16,
+		Thread;4,
+		PaintRed;3,
+		Bag_ALICEpack_Army,
 
-            keep Needle,
-            keep Paintbrush,
+		keep Needle,
+		keep Paintbrush,
 
-            Result:JZV_ArmyPack_Red,
-            Time:450.0,
-            Category:Tailoring,
-            SkillRequired:Tailoring=6,
-            OnGiveXP:Recipe.OnGiveXP.Tailoring5,
-            CanBeDoneFromFloor:true,
-    }
+		Result:JZV_ArmyPack_Red,
+		Time:450.0,
+		Category:Tailoring,
+		SkillRequired:Tailoring=6,
+		OnGiveXP:Recipe.OnGiveXP.Tailoring5,
+		CanBeDoneFromFloor:true,
+	}
 }

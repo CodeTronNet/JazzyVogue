@@ -1,6 +1,6 @@
 module JazzyVogue
 {
-    recipe Herstellen Jazzy Vogue - Strapless A-Line Dress (Black)
+    recipe Craft Strapless A-Line Dress (Black)
     {
 		RippedSheets=10,
 		Thread;4,
@@ -19,7 +19,7 @@ module JazzyVogue
 		CanBeDoneFromFloor:true,
     }
 
-    recipe Herstellen Jazzy Vogue - Strapless A-Line Dress (Brown)
+    recipe Craft Strapless A-Line Dress (Brown)
     {
 		RippedSheets=10,
 		Thread;4,
@@ -38,7 +38,7 @@ module JazzyVogue
 		CanBeDoneFromFloor:true,
     }
 
-    recipe Herstellen Jazzy Vogue - Strapless A-Line Dress (Green)
+    recipe Craft Strapless A-Line Dress (Green)
     {
 		RippedSheets=10,
 		Thread;4,
@@ -57,7 +57,7 @@ module JazzyVogue
 		CanBeDoneFromFloor:true,
     }
 
-    recipe Herstellen Jazzy Vogue - Strapless A-Line Dress (Grey)
+    recipe Craft Strapless A-Line Dress (Grey)
     {
 		RippedSheets=10,
 		Thread;4,
@@ -76,7 +76,7 @@ module JazzyVogue
 		CanBeDoneFromFloor:true,
     }
 
-    recipe Herstellen Jazzy Vogue - Strapless A-Line Dress (Indigo)
+    recipe Craft Strapless A-Line Dress (Indigo)
     {
 		RippedSheets=10,
 		Thread;4,
@@ -95,7 +95,7 @@ module JazzyVogue
 		CanBeDoneFromFloor:true,
     }
 
-    recipe Herstellen Jazzy Vogue - Strapless A-Line Dress (Midori)
+    recipe Craft Strapless A-Line Dress (Midori)
     {
 		RippedSheets=10,
 		Thread;4,
@@ -114,7 +114,7 @@ module JazzyVogue
 		CanBeDoneFromFloor:true,
     }
 
-    recipe Herstellen Jazzy Vogue - Strapless A-Line Dress (Nautilus)
+    recipe Craft Strapless A-Line Dress (Nautilus)
     {
 		RippedSheets=10,
 		Thread;4,
@@ -133,7 +133,7 @@ module JazzyVogue
 		CanBeDoneFromFloor:true,
     }
 
-    recipe Herstellen Jazzy Vogue - Strapless A-Line Dress (Olive)
+    recipe Craft Strapless A-Line Dress (Olive)
     {
 		RippedSheets=10,
 		Thread;4,
@@ -152,7 +152,7 @@ module JazzyVogue
 		CanBeDoneFromFloor:true,
     }
 
-    recipe Herstellen Jazzy Vogue - Strapless A-Line Dress (Orange)
+    recipe Craft Strapless A-Line Dress (Orange)
     {
 		RippedSheets=10,
 		Thread;4,
@@ -171,7 +171,7 @@ module JazzyVogue
 		CanBeDoneFromFloor:true,
     }
 
-    recipe Herstellen Jazzy Vogue - Strapless A-Line Dress (Pear)
+    recipe Craft Strapless A-Line Dress (Pear)
     {
 		RippedSheets=10,
 		Thread;4,
@@ -190,7 +190,7 @@ module JazzyVogue
 		CanBeDoneFromFloor:true,
     }
 
-    recipe Herstellen Jazzy Vogue - Strapless A-Line Dress (Pine)
+    recipe Craft Strapless A-Line Dress (Pine)
     {
 		RippedSheets=10,
 		Thread;4,
@@ -209,7 +209,7 @@ module JazzyVogue
 		CanBeDoneFromFloor:true,
     }
 
-    recipe Herstellen Jazzy Vogue - Strapless A-Line Dress (Plum)
+    recipe Craft Strapless A-Line Dress (Plum)
     {
 		RippedSheets=10,
 		Thread;4,
@@ -228,7 +228,7 @@ module JazzyVogue
 		CanBeDoneFromFloor:true,
     }
 
-    recipe Herstellen Jazzy Vogue - Strapless A-Line Dress (Purple)
+    recipe Craft Strapless A-Line Dress (Purple)
     {
 		RippedSheets=10,
 		Thread;4,
@@ -247,7 +247,7 @@ module JazzyVogue
 		CanBeDoneFromFloor:true,
     }
 
-    recipe Herstellen Jazzy Vogue - Strapless A-Line Dress (Red)
+    recipe Craft Strapless A-Line Dress (Red)
     {
 		RippedSheets=10,
 		Thread;4,
@@ -266,7 +266,7 @@ module JazzyVogue
 		CanBeDoneFromFloor:true,
     }
 
-    recipe Herstellen Jazzy Vogue - Strapless A-Line Dress (Teal)
+    recipe Craft Strapless A-Line Dress (Teal)
     {
 		RippedSheets=10,
 		Thread;4,
@@ -285,7 +285,7 @@ module JazzyVogue
 		CanBeDoneFromFloor:true,
     }
 
-    recipe Herstellen Jazzy Vogue - Strapless A-Line Dress (Turquoise)
+    recipe Craft Strapless A-Line Dress (Turquoise)
     {
 		RippedSheets=10,
 		Thread;4,
@@ -304,7 +304,7 @@ module JazzyVogue
 		CanBeDoneFromFloor:true,
     }
 
-    recipe Herstellen Jazzy Vogue - Strapless A-Line Dress (White)
+    recipe Craft Strapless A-Line Dress (White)
     {
 		RippedSheets=10,
 		Thread;4,

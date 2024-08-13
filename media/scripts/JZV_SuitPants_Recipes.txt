@@ -1,6 +1,6 @@
 module JazzyVogue
 {
-    recipe Herstellen Jazzy Vogue - Suit Pants (Beige)
+    recipe Craft Suit Pants (Beige)
     {
 		RippedSheets=10,
 		Thread;2,
@@ -18,7 +18,7 @@ module JazzyVogue
 		CanBeDoneFromFloor:true,
     }
 
-    recipe Herstellen Jazzy Vogue - Suit Pants (Black)
+    recipe Craft Suit Pants (Black)
     {
 		RippedSheets=10,
 		Thread;2,
@@ -36,7 +36,7 @@ module JazzyVogue
 		CanBeDoneFromFloor:true,
     }
 
-    recipe Herstellen Jazzy Vogue - Suit Pants (Blue)
+    recipe Craft Suit Pants (Blue)
     {
 		RippedSheets=10,
 		Thread;2,
@@ -54,7 +54,7 @@ module JazzyVogue
 		CanBeDoneFromFloor:true,
     }
 
-    recipe Herstellen Jazzy Vogue - Suit Pants (Brown)
+    recipe Craft Suit Pants (Brown)
     {
 		RippedSheets=10,
 		Thread;2,
@@ -72,7 +72,7 @@ module JazzyVogue
 		CanBeDoneFromFloor:true,
     }
 
-    recipe Herstellen Jazzy Vogue - Suit Pants (Grey)
+    recipe Craft Suit Pants (Grey)
     {
 		RippedSheets=10,
 		Thread;2,
@@ -90,7 +90,7 @@ module JazzyVogue
 		CanBeDoneFromFloor:true,
     }
 
-    recipe Herstellen Jazzy Vogue - Suit Pants (White)
+    recipe Craft Suit Pants (White)
     {
 		RippedSheets=10,
 		Thread;2,
@@ -108,7 +108,7 @@ module JazzyVogue
 		CanBeDoneFromFloor:true,
     }
 
-    recipe Herstellen Jazzy Vogue - Suit Pants (Green)
+    recipe Craft Suit Pants (Green)
     {
 		RippedSheets=10,
 		Thread;2,
@@ -126,7 +126,7 @@ module JazzyVogue
 		CanBeDoneFromFloor:true,
     }
 
-	recipe Herstellen Jazzy Vogue - Suit Pants (Red)
+	recipe Craft Suit Pants (Red)
     {
 		RippedSheets=10,
 		Thread;2,

@@ -5,7 +5,7 @@ module JazzyVogue
         DisplayCategory     = Tool,
         Weight	            = 0.1,
         Type	            = Normal,
-        DisplayName	        = Jazzy Vogue Skizzenbuch,
+        DisplayName	        = Sketchbook - Jazzy Vogue,
         Icon	            = JZV_MagazineJazzy002,
         StaticModel         = Magazine,
         WorldStaticModel    = MagazineGround,

@@ -1,6 +1,6 @@
 module JazzyVogue
 {
-    recipe Herstellen Jazzy Vogue - Modern Dress No. 2 (Black)
+    recipe Craft Modern Dress No. 2 (Black)
     {
 		RippedSheets=10,
 		Thread;4,
@@ -19,7 +19,7 @@ module JazzyVogue
 		CanBeDoneFromFloor:true,
     }
 
-    recipe Herstellen Jazzy Vogue - Modern Dress No. 2 (Brown)
+    recipe Craft Modern Dress No. 2 (Brown)
     {
 		RippedSheets=10,
 		Thread;4,
@@ -38,7 +38,7 @@ module JazzyVogue
 		CanBeDoneFromFloor:true,
     }
 
-    recipe Herstellen Jazzy Vogue - Modern Dress No. 2 (Green)
+    recipe Craft Modern Dress No. 2 (Green)
     {
 		RippedSheets=10,
 		Thread;4,
@@ -57,7 +57,7 @@ module JazzyVogue
 		CanBeDoneFromFloor:true,
     }
 
-    recipe Herstellen Jazzy Vogue - Modern Dress No. 2 (Grey)
+    recipe Craft Modern Dress No. 2 (Grey)
     {
 		RippedSheets=10,
 		Thread;4,
@@ -76,7 +76,7 @@ module JazzyVogue
 		CanBeDoneFromFloor:true,
     }
 
-    recipe Herstellen Jazzy Vogue - Modern Dress No. 2 (Indigo)
+    recipe Craft Modern Dress No. 2 (Indigo)
     {
 		RippedSheets=10,
 		Thread;4,
@@ -95,7 +95,7 @@ module JazzyVogue
 		CanBeDoneFromFloor:true,
     }
 
-    recipe Herstellen Jazzy Vogue - Modern Dress No. 2 (Midori)
+    recipe Craft Modern Dress No. 2 (Midori)
     {
 		RippedSheets=10,
 		Thread;4,
@@ -114,7 +114,7 @@ module JazzyVogue
 		CanBeDoneFromFloor:true,
     }
 
-    recipe Herstellen Jazzy Vogue - Modern Dress No. 2 (Nautilus)
+    recipe Craft Modern Dress No. 2 (Nautilus)
     {
 		RippedSheets=10,
 		Thread;4,
@@ -133,7 +133,7 @@ module JazzyVogue
 		CanBeDoneFromFloor:true,
     }
 
-    recipe Herstellen Jazzy Vogue - Modern Dress No. 2 (Olive)
+    recipe Craft Modern Dress No. 2 (Olive)
     {
 		RippedSheets=10,
 		Thread;4,
@@ -152,7 +152,7 @@ module JazzyVogue
 		CanBeDoneFromFloor:true,
     }
 
-    recipe Herstellen Jazzy Vogue - Modern Dress No. 2 (Orange)
+    recipe Craft Modern Dress No. 2 (Orange)
     {
 		RippedSheets=10,
 		Thread;4,
@@ -171,7 +171,7 @@ module JazzyVogue
 		CanBeDoneFromFloor:true,
     }
 
-    recipe Herstellen Jazzy Vogue - Modern Dress No. 2 (Pear)
+    recipe Craft Modern Dress No. 2 (Pear)
     {
 		RippedSheets=10,
 		Thread;4,
@@ -190,7 +190,7 @@ module JazzyVogue
 		CanBeDoneFromFloor:true,
     }
 
-    recipe Herstellen Jazzy Vogue - Modern Dress No. 2 (Pine)
+    recipe Craft Modern Dress No. 2 (Pine)
     {
 		RippedSheets=10,
 		Thread;4,
@@ -209,7 +209,7 @@ module JazzyVogue
 		CanBeDoneFromFloor:true,
     }
 
-    recipe Herstellen Jazzy Vogue - Modern Dress No. 2 (Plum)
+    recipe Craft Modern Dress No. 2 (Plum)
     {
 		RippedSheets=10,
 		Thread;4,
@@ -228,7 +228,7 @@ module JazzyVogue
 		CanBeDoneFromFloor:true,
     }
 
-    recipe Herstellen Jazzy Vogue - Modern Dress No. 2 (Purple)
+    recipe Craft Modern Dress No. 2 (Purple)
     {
 		RippedSheets=10,
 		Thread;4,
@@ -247,7 +247,7 @@ module JazzyVogue
 		CanBeDoneFromFloor:true,
     }
 
-    recipe Herstellen Jazzy Vogue - Modern Dress No. 2 (Red)
+    recipe Craft Modern Dress No. 2 (Red)
     {
 		RippedSheets=10,
 		Thread;4,
@@ -266,7 +266,7 @@ module JazzyVogue
 		CanBeDoneFromFloor:true,
     }
 
-    recipe Herstellen Jazzy Vogue - Modern Dress No. 2 (Teal)
+    recipe Craft Modern Dress No. 2 (Teal)
     {
 		RippedSheets=10,
 		Thread;4,
@@ -285,7 +285,7 @@ module JazzyVogue
 		CanBeDoneFromFloor:true,
     }
 
-    recipe Herstellen Jazzy Vogue - Modern Dress No. 2 (Turquoise)
+    recipe Craft Modern Dress No. 2 (Turquoise)
     {
 		RippedSheets=10,
 		Thread;4,
@@ -304,7 +304,7 @@ module JazzyVogue
 		CanBeDoneFromFloor:true,
     }
 
-    recipe Herstellen Jazzy Vogue - Modern Dress No. 2 (White)
+    recipe Craft Modern Dress No. 2 (White)
     {
 		RippedSheets=10,
 		Thread;4,
@@ -323,7 +323,7 @@ module JazzyVogue
 		CanBeDoneFromFloor:true,
     }
 
-    recipe Herstellen Jazzy Vogue - Modern Dress No. 2 (White Lace)
+    recipe Craft Modern Dress No. 2 (White Lace)
     {
 		RippedSheets=10,
 		Thread;4,

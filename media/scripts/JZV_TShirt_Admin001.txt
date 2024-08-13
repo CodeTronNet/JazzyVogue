@@ -4,7 +4,7 @@ module JazzyVogue
 	{
 		DisplayCategory = Clothing,
 		Type				= Clothing,
-		DisplayName			= Jazzy Vogue - T-Shirt Admin No. 1,
+		DisplayName			= T-Shirt Admin No. 1,
 		ClothingItem		= JZV_TShirt_Admin001,
 		BodyLocation		= Tshirt,
 		Icon				= JZV_TShirt_Jazzy001,

@@ -4,7 +4,7 @@ module JazzyVogue
 	{
 		DisplayCategory = Accessory,
 		Type				= Clothing,
-		DisplayName			= Jazzy Vogue - Chapka (Black / Red Star),
+		DisplayName			= Chapka (Black / Red Star),
 		ClothingItem		= JZV_WinterHat_Chapka001,
 		BodyLocation 		= Hat,
 		Icon				= JZV_WinterHat_Chapka001,
@@ -18,7 +18,7 @@ module JazzyVogue
 		FabricType = Cotton,
 	}
 
-	recipe Herstellen Jazzy Vogue - Chapka (Black / Red Star)
+	recipe Craft Chapka (Black / Red Star)
 	{
 		DenimStrips=8,
 		Thread=3,

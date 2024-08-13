@@ -1,6 +1,6 @@
 module JazzyVogue
 {
-    recipe Herstellen Jazzy Vogue - Classic Suit Jacket (Beige)
+    recipe Craft Classic Suit Jacket (Beige)
     {
 		RippedSheets=10,
 		Thread;2,
@@ -18,7 +18,7 @@ module JazzyVogue
 		CanBeDoneFromFloor:true,
     }
 
-    recipe Herstellen Jazzy Vogue - Classic Suit Jacket (Black)
+    recipe Craft Classic Suit Jacket (Black)
     {
 		RippedSheets=10,
 		Thread;2,
@@ -36,7 +36,7 @@ module JazzyVogue
 		CanBeDoneFromFloor:true,
     }
 
-    recipe Herstellen Jazzy Vogue - Classic Suit Jacket (Blue)
+    recipe Craft Classic Suit Jacket (Blue)
     {
 		RippedSheets=10,
 		Thread;2,
@@ -54,7 +54,7 @@ module JazzyVogue
 		CanBeDoneFromFloor:true,
     }
 
-    recipe Herstellen Jazzy Vogue - Classic Suit Jacket (Brown)
+    recipe Craft Classic Suit Jacket (Brown)
     {
 		RippedSheets=10,
 		Thread;2,
@@ -72,7 +72,7 @@ module JazzyVogue
 		CanBeDoneFromFloor:true,
     }
 
-    recipe Herstellen Jazzy Vogue - Classic Suit Jacket (Grey)
+    recipe Craft Classic Suit Jacket (Grey)
     {
 		RippedSheets=10,
 		Thread;2,
@@ -90,7 +90,7 @@ module JazzyVogue
 		CanBeDoneFromFloor:true,
     }
 
-    recipe Herstellen Jazzy Vogue - Classic Suit Jacket (White)
+    recipe Craft Classic Suit Jacket (White)
     {
 		RippedSheets=10,
 		Thread;2,
@@ -108,7 +108,7 @@ module JazzyVogue
 		CanBeDoneFromFloor:true,
     }
 
-    recipe Herstellen Jazzy Vogue - Classic Suit Jacket (Green)
+    recipe Craft Classic Suit Jacket (Green)
     {
 		RippedSheets=10,
 		Thread;2,
@@ -126,7 +126,7 @@ module JazzyVogue
 		CanBeDoneFromFloor:true,
     }
 
-	recipe Herstellen Jazzy Vogue - Classic Suit Jacket (Red)
+	recipe Craft Classic Suit Jacket (Red)
     {
 		RippedSheets=10,
 		Thread;2,

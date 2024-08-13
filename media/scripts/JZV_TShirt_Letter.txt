@@ -410,7 +410,7 @@ module JazzyVogue
         WorldStaticModel	= TShirt_Ground,
 	}
 
-    recipe Herstellen T-Shirt - A
+    recipe Craft T-Shirt - A
     {
 		RippedSheets=8,
 		Thread;2,
@@ -427,7 +427,7 @@ module JazzyVogue
 		CanBeDoneFromFloor:true,
     }
 
-    recipe Herstellen T-Shirt - B
+    recipe Craft T-Shirt - B
     {
 		RippedSheets=8,
 		Thread;2,
@@ -444,7 +444,7 @@ module JazzyVogue
 		CanBeDoneFromFloor:true,
     }
 
-    recipe Herstellen T-Shirt - C
+    recipe Craft T-Shirt - C
     {
 		RippedSheets=8,
 		Thread;2,
@@ -461,7 +461,7 @@ module JazzyVogue
 		CanBeDoneFromFloor:true,
     }
 
-    recipe Herstellen T-Shirt - D
+    recipe Craft T-Shirt - D
     {
 		RippedSheets=8,
 		Thread;2,
@@ -478,7 +478,7 @@ module JazzyVogue
 		CanBeDoneFromFloor:true,
     }
 
-    recipe Herstellen T-Shirt - E
+    recipe Craft T-Shirt - E
     {
 		RippedSheets=8,
 		Thread;2,
@@ -495,7 +495,7 @@ module JazzyVogue
 		CanBeDoneFromFloor:true,
     }
 
-    recipe Herstellen T-Shirt - F
+    recipe Craft T-Shirt - F
     {
 		RippedSheets=8,
 		Thread;2,
@@ -512,7 +512,7 @@ module JazzyVogue
 		CanBeDoneFromFloor:true,
     }
 
-    recipe Herstellen T-Shirt - G
+    recipe Craft T-Shirt - G
     {
 		RippedSheets=8,
 		Thread;2,
@@ -529,7 +529,7 @@ module JazzyVogue
 		CanBeDoneFromFloor:true,
     }
 
-    recipe Herstellen T-Shirt - H
+    recipe Craft T-Shirt - H
     {
 		RippedSheets=8,
 		Thread;2,
@@ -546,7 +546,7 @@ module JazzyVogue
 		CanBeDoneFromFloor:true,
     }
 
-    recipe Herstellen T-Shirt - I
+    recipe Craft T-Shirt - I
     {
 		RippedSheets=8,
 		Thread;2,
@@ -563,7 +563,7 @@ module JazzyVogue
 		CanBeDoneFromFloor:true,
     }
 
-    recipe Herstellen T-Shirt - J
+    recipe Craft T-Shirt - J
     {
 		RippedSheets=8,
 		Thread;2,
@@ -580,7 +580,7 @@ module JazzyVogue
 		CanBeDoneFromFloor:true,
     }
 
-    recipe Herstellen T-Shirt - K
+    recipe Craft T-Shirt - K
     {
 		RippedSheets=8,
 		Thread;2,
@@ -597,7 +597,7 @@ module JazzyVogue
 		CanBeDoneFromFloor:true,
     }
 
-    recipe Herstellen T-Shirt - L
+    recipe Craft T-Shirt - L
     {
 		RippedSheets=8,
 		Thread;2,
@@ -614,7 +614,7 @@ module JazzyVogue
 		CanBeDoneFromFloor:true,
     }
 
-    recipe Herstellen T-Shirt - M
+    recipe Craft T-Shirt - M
     {
 		RippedSheets=8,
 		Thread;2,
@@ -631,7 +631,7 @@ module JazzyVogue
 		CanBeDoneFromFloor:true,
     }
 
-    recipe Herstellen T-Shirt - N
+    recipe Craft T-Shirt - N
     {
 		RippedSheets=8,
 		Thread;2,
@@ -648,7 +648,7 @@ module JazzyVogue
 		CanBeDoneFromFloor:true,
     }
 
-    recipe Herstellen T-Shirt - O
+    recipe Craft T-Shirt - O
     {
 		RippedSheets=8,
 		Thread;2,
@@ -665,7 +665,7 @@ module JazzyVogue
 		CanBeDoneFromFloor:true,
     }
 
-    recipe Herstellen T-Shirt - P
+    recipe Craft T-Shirt - P
     {
 		RippedSheets=8,
 		Thread;2,
@@ -682,7 +682,7 @@ module JazzyVogue
 		CanBeDoneFromFloor:true,
     }
 
-    recipe Herstellen T-Shirt - Q
+    recipe Craft T-Shirt - Q
     {
 		RippedSheets=8,
 		Thread;2,
@@ -699,7 +699,7 @@ module JazzyVogue
 		CanBeDoneFromFloor:true,
     }
 
-    recipe Herstellen T-Shirt - R
+    recipe Craft T-Shirt - R
     {
 		RippedSheets=8,
 		Thread;2,
@@ -716,7 +716,7 @@ module JazzyVogue
 		CanBeDoneFromFloor:true,
     }
 
-    recipe Herstellen T-Shirt - S
+    recipe Craft T-Shirt - S
     {
 		RippedSheets=8,
 		Thread;2,
@@ -733,7 +733,7 @@ module JazzyVogue
 		CanBeDoneFromFloor:true,
     }
 
-    recipe Herstellen T-Shirt - T
+    recipe Craft T-Shirt - T
     {
 		RippedSheets=8,
 		Thread;2,
@@ -750,7 +750,7 @@ module JazzyVogue
 		CanBeDoneFromFloor:true,
     }
 
-    recipe Herstellen T-Shirt - U
+    recipe Craft T-Shirt - U
     {
 		RippedSheets=8,
 		Thread;2,
@@ -767,7 +767,7 @@ module JazzyVogue
 		CanBeDoneFromFloor:true,
     }
 
-    recipe Herstellen T-Shirt - V
+    recipe Craft T-Shirt - V
     {
 		RippedSheets=8,
 		Thread;2,
@@ -784,7 +784,7 @@ module JazzyVogue
 		CanBeDoneFromFloor:true,
     }
 
-    recipe Herstellen T-Shirt - W
+    recipe Craft T-Shirt - W
     {
 		RippedSheets=8,
 		Thread;2,
@@ -801,7 +801,7 @@ module JazzyVogue
 		CanBeDoneFromFloor:true,
     }
 
-    recipe Herstellen T-Shirt - X
+    recipe Craft T-Shirt - X
     {
 		RippedSheets=8,
 		Thread;2,
@@ -818,7 +818,7 @@ module JazzyVogue
 		CanBeDoneFromFloor:true,
     }
 
-    recipe Herstellen T-Shirt - Y
+    recipe Craft T-Shirt - Y
     {
 		RippedSheets=8,
 		Thread;2,
@@ -835,7 +835,7 @@ module JazzyVogue
 		CanBeDoneFromFloor:true,
     }
 
-    recipe Herstellen T-Shirt - Z
+    recipe Craft T-Shirt - Z
     {
 		RippedSheets=8,
 		Thread;2,
@@ -852,7 +852,7 @@ module JazzyVogue
 		CanBeDoneFromFloor:true,
     }
 
-    recipe Herstellen T-Shirt - Questionmark
+    recipe Craft T-Shirt - Questionmark
     {
 		RippedSheets=8,
 		Thread;2,

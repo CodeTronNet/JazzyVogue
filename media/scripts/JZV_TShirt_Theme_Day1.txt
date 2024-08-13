@@ -9,7 +9,7 @@ module JazzyVogue
 	{
 		DisplayCategory 	= Clothing,
 		Type				= Clothing,
-		DisplayName			= Jazzy Vogue - T-Shirt Day 1,
+		DisplayName			= T-Shirt - Day 1,
 		ClothingItem		= JZV_TShirt_Theme_Day1,
 		BodyLocation		= Tshirt,
 		Icon				= JZV_TShirt_Jazzy001,
@@ -20,7 +20,7 @@ module JazzyVogue
         WorldStaticModel	= TShirt_Ground,
 	}
 
-	recipe Herstellen Jazzy Vogue - T-Shirt Day 1
+	recipe Craft T-Shirt - Day 1
     {
 		RippedSheets=8,
 		Thread;2,

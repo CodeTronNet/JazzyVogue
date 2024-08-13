@@ -4,7 +4,7 @@ module JazzyVogue
     {
         DisplayCategory = Clothing,
         Type = Clothing,
-        DisplayName = Jazzy Vogue - Suit Pants (Beige),
+        DisplayName = Suit Pants (Beige),
         ClothingItem = JZV_SuitPants_Beige,
         BodyLocation = Pants,
         Icon = JZV_SuitPantsGeneric_Beige,
@@ -20,7 +20,7 @@ module JazzyVogue
     {
         DisplayCategory = Clothing,
         Type = Clothing,
-        DisplayName = Jazzy Vogue - Suit Pants (Black),
+        DisplayName = Suit Pants (Black),
         ClothingItem = JZV_SuitPants_Black,
         BodyLocation = Pants,
         Icon = JZV_SuitPantsGeneric_Black,
@@ -36,7 +36,7 @@ module JazzyVogue
     {
         DisplayCategory = Clothing,
         Type = Clothing,
-        DisplayName = Jazzy Vogue - Suit Pants (Blue),
+        DisplayName = Suit Pants (Blue),
         ClothingItem = JZV_SuitPants_Blue,
         BodyLocation = Pants,
         Icon = JZV_SuitPantsGeneric_Blue,
@@ -52,7 +52,7 @@ module JazzyVogue
     {
         DisplayCategory = Clothing,
         Type = Clothing,
-        DisplayName = Jazzy Vogue - Suit Pants (Brown),
+        DisplayName = Suit Pants (Brown),
         ClothingItem = JZV_SuitPants_Brown,
         BodyLocation = Pants,
         Icon = JZV_SuitPantsGeneric_Brown,
@@ -68,7 +68,7 @@ module JazzyVogue
     {
         DisplayCategory = Clothing,
         Type = Clothing,
-        DisplayName = Jazzy Vogue - Suit Pants (Grey),
+        DisplayName = Suit Pants (Grey),
         ClothingItem = JZV_SuitPants_Grey,
         BodyLocation = Pants,
         Icon = JZV_SuitPantsGeneric_Grey,
@@ -84,7 +84,7 @@ module JazzyVogue
     {
         DisplayCategory = Clothing,
         Type = Clothing,
-        DisplayName = Jazzy Vogue - Suit Pants (White),
+        DisplayName = Suit Pants (White),
         ClothingItem = JZV_SuitPants_White,
         BodyLocation = Pants,
         Icon = JZV_SuitPantsGeneric_White,
@@ -100,7 +100,7 @@ module JazzyVogue
     {
         DisplayCategory = Clothing,
         Type = Clothing,
-        DisplayName = Jazzy Vogue - Suit Pants (Green),
+        DisplayName = Suit Pants (Green),
         ClothingItem = JZV_SuitPants_Green,
         BodyLocation = Pants,
         Icon = JZV_SuitPantsGeneric_Green,
@@ -116,7 +116,7 @@ module JazzyVogue
     {
         DisplayCategory = Clothing,
         Type = Clothing,
-        DisplayName = Jazzy Vogue - Suit Pants (Red),
+        DisplayName = Suit Pants (Red),
         ClothingItem = JZV_SuitPants_Red,
         BodyLocation = Pants,
         Icon = JZV_SuitPantsGeneric_Red,

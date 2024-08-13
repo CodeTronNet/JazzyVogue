@@ -1,37 +1,37 @@
 module JazzyVogue
 {
-        item JZV_FancyDress_Turquoise
-        {
-                DisplayCategory = Clothing,
-                Type = Clothing,
-                DisplayName = Jazzy Vogue - Fancy Dress (Turquoise),
-                ClothingItem = JZV_FancyDress_Turquoise,
-                BodyLocation = FullSuit,
-                BloodLocation = Trousers;Shirt,
-                Icon = JZV_FancyDress_Turquoise,
-                RunSpeedModifier = 0.8,
-                ScratchDefense = 10,
-                Insulation = 0.25,
-                WindResistance = 0.1,
-                FabricType = Cotton,
-                WorldStaticModel = WeddingDress_Ground,
-        }
+	item JZV_FancyDress_Turquoise
+	{
+		DisplayCategory = Clothing,
+		Type = Clothing,
+		DisplayName = Fancy Dress (Turquoise),
+		ClothingItem = JZV_FancyDress_Turquoise,
+		BodyLocation = FullSuit,
+		BloodLocation = Trousers;Shirt,
+		Icon = JZV_FancyDress_Turquoise,
+		RunSpeedModifier = 0.8,
+		ScratchDefense = 10,
+		Insulation = 0.25,
+		WindResistance = 0.1,
+		FabricType = Cotton,
+		WorldStaticModel = WeddingDress_Ground,
+	}
 
-        recipe Herstellen Jazzy Vogue - Fancy Dress (Turquoise)
-        {
-                RippedSheets=16,
-                Thread;4,
-                PaintTurquoise;3,
+	recipe Craft Fancy Dress (Turquoise)
+	{
+		RippedSheets=16,
+		Thread;4,
+		PaintTurquoise;3,
 
-                keep Needle,
-                keep Paintbrush,
-                keep JZV_Sketchbook,
+		keep Needle,
+		keep Paintbrush,
+		keep JZV_Sketchbook,
 
-                Result:JZV_FancyDress_Turquoise,
-                Time:450.0,
-                Category:Tailoring,
-                SkillRequired:Tailoring=10,
-                OnGiveXP:Recipe.OnGiveXP.Tailoring5,
-                CanBeDoneFromFloor:true,
-        }
+		Result:JZV_FancyDress_Turquoise,
+		Time:450.0,
+		Category:Tailoring,
+		SkillRequired:Tailoring=10,
+		OnGiveXP:Recipe.OnGiveXP.Tailoring5,
+		CanBeDoneFromFloor:true,
+	}
 }

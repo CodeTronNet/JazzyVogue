@@ -16,7 +16,7 @@ module JazzyVogue
         WindResistance = 0.55,
 	}
 
-	recipe Herstellen Hockey Mask (Black)
+	recipe Craft Hockey Mask (Black)
     {
         PaintBlack;1,
         Hat_HockeyMask=1,

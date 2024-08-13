@@ -4,7 +4,7 @@ module JazzyVogue
     {
         DisplayCategory = Clothing,
         Type = Clothing,
-        DisplayName = Jazzy Vogue - Leather Jacket Raiders No. 1,
+        DisplayName = Leather Jacket - Raiders No. 1,
         ClothingItem = JZV_LeatherJacket_Raiders001,
         BodyLocation = Jacket,
         Icon = JZV_LeatherJacket_White,
@@ -22,7 +22,7 @@ module JazzyVogue
         WorldStaticModel = JacketCoat_Ground,
     }
 
-    recipe Herstellen Jazzy Vogue - Leather Jacket Raiders No. 1
+    recipe Craft Leather Jacket - Raiders No. 1
     {
 		LeatherStrips=10,
 		Thread;2,

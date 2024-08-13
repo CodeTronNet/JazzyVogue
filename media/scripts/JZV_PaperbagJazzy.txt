@@ -22,7 +22,7 @@ module JazzyVogue
         WorldStaticModel = JZV_PaperbagJazzy_Ground,
 	}
 
-    recipe Herstellen Jazzy Vogue - Paperbag
+    recipe Craft Paper Bag - Jazzy Vogue
     {
 		PaperBag=1,
         PaintBlack;1,

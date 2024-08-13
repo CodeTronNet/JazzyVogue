@@ -4,7 +4,7 @@ module JazzyVogue
 	{
         DisplayCategory = Clothing,
         Type = Clothing,
-        DisplayName = Jazzy Vogue - Fancy Dress (Turquoise / Orange),
+        DisplayName = Fancy Dress (Turquoise / Orange),
         ClothingItem = JZV_FancyDress_TurquoiseOrange,
         BodyLocation = FullSuit,
         BloodLocation = Trousers;Shirt,
@@ -17,7 +17,7 @@ module JazzyVogue
         WorldStaticModel = WeddingDress_Ground,
 	}
 
-    recipe Herstellen Jazzy Vogue - Fancy Dress (Turquoise / Orange)
+    recipe Craft Fancy Dress (Turquoise / Orange)
     {
 		RippedSheets=16,
 		Thread;4,

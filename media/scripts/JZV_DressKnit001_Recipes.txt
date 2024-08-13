@@ -1,6 +1,6 @@
 module JazzyVogue
 {
-    recipe Herstellen Jazzy Vogue - Knitted Dress No. 1 (Black)
+    recipe Craft Knitted Dress No. 1 (Black)
     {
 		RippedSheets=8,
 		Thread;4,
@@ -20,7 +20,7 @@ module JazzyVogue
 		CanBeDoneFromFloor:true,
     }
 
-    recipe Herstellen Jazzy Vogue - Knitted Dress No. 1 (Brown)
+    recipe Craft Knitted Dress No. 1 (Brown)
     {
 		RippedSheets=8,
 		Thread;4,
@@ -40,7 +40,7 @@ module JazzyVogue
 		CanBeDoneFromFloor:true,
     }
 
-    recipe Herstellen Jazzy Vogue - Knitted Dress No. 1 (Green)
+    recipe Craft Knitted Dress No. 1 (Green)
     {
 		RippedSheets=8,
 		Thread;4,
@@ -60,7 +60,7 @@ module JazzyVogue
 		CanBeDoneFromFloor:true,
     }
 
-    recipe Herstellen Jazzy Vogue - Knitted Dress No. 1 (Grey)
+    recipe Craft Knitted Dress No. 1 (Grey)
     {
 		RippedSheets=8,
 		Thread;4,
@@ -80,7 +80,7 @@ module JazzyVogue
 		CanBeDoneFromFloor:true,
     }
 
-    recipe Herstellen Jazzy Vogue - Knitted Dress No. 1 (Indigo)
+    recipe Craft Knitted Dress No. 1 (Indigo)
     {
 		RippedSheets=8,
 		Thread;4,
@@ -100,7 +100,7 @@ module JazzyVogue
 		CanBeDoneFromFloor:true,
     }
 
-    recipe Herstellen Jazzy Vogue - Knitted Dress No. 1 (Midori)
+    recipe Craft Knitted Dress No. 1 (Midori)
     {
 		RippedSheets=8,
 		Thread;4,
@@ -120,7 +120,7 @@ module JazzyVogue
 		CanBeDoneFromFloor:true,
     }
 
-    recipe Herstellen Jazzy Vogue - Knitted Dress No. 1 (Nautilus)
+    recipe Craft Knitted Dress No. 1 (Nautilus)
     {
 		RippedSheets=8,
 		Thread;4,
@@ -140,7 +140,7 @@ module JazzyVogue
 		CanBeDoneFromFloor:true,
     }
 
-    recipe Herstellen Jazzy Vogue - Knitted Dress No. 1 (Olive)
+    recipe Craft Knitted Dress No. 1 (Olive)
     {
 		RippedSheets=8,
 		Thread;4,
@@ -160,7 +160,7 @@ module JazzyVogue
 		CanBeDoneFromFloor:true,
     }
 
-    recipe Herstellen Jazzy Vogue - Knitted Dress No. 1 (Orange)
+    recipe Craft Knitted Dress No. 1 (Orange)
     {
 		RippedSheets=8,
 		Thread;4,
@@ -180,7 +180,7 @@ module JazzyVogue
 		CanBeDoneFromFloor:true,
     }
 
-    recipe Herstellen Jazzy Vogue - Knitted Dress No. 1 (Pear)
+    recipe Craft Knitted Dress No. 1 (Pear)
     {
 		RippedSheets=8,
 		Thread;4,
@@ -200,7 +200,7 @@ module JazzyVogue
 		CanBeDoneFromFloor:true,
     }
 
-    recipe Herstellen Jazzy Vogue - Knitted Dress No. 1 (Pine)
+    recipe Craft Knitted Dress No. 1 (Pine)
     {
 		RippedSheets=8,
 		Thread;4,
@@ -220,7 +220,7 @@ module JazzyVogue
 		CanBeDoneFromFloor:true,
     }
 
-    recipe Herstellen Jazzy Vogue - Knitted Dress No. 1 (Plum)
+    recipe Craft Knitted Dress No. 1 (Plum)
     {
 		RippedSheets=8,
 		Thread;4,
@@ -240,7 +240,7 @@ module JazzyVogue
 		CanBeDoneFromFloor:true,
     }
 
-    recipe Herstellen Jazzy Vogue - Knitted Dress No. 1 (Purple)
+    recipe Craft Knitted Dress No. 1 (Purple)
     {
 		RippedSheets=8,
 		Thread;4,
@@ -260,7 +260,7 @@ module JazzyVogue
 		CanBeDoneFromFloor:true,
     }
 
-    recipe Herstellen Jazzy Vogue - Knitted Dress No. 1 (Red)
+    recipe Craft Knitted Dress No. 1 (Red)
     {
 		RippedSheets=8,
 		Thread;4,
@@ -280,7 +280,7 @@ module JazzyVogue
 		CanBeDoneFromFloor:true,
     }
 
-    recipe Herstellen Jazzy Vogue - Knitted Dress No. 1 (Teal)
+    recipe Craft Knitted Dress No. 1 (Teal)
     {
 		RippedSheets=8,
 		Thread;4,
@@ -300,7 +300,7 @@ module JazzyVogue
 		CanBeDoneFromFloor:true,
     }
 
-    recipe Herstellen Jazzy Vogue - Knitted Dress No. 1 (Turquoise)
+    recipe Craft Knitted Dress No. 1 (Turquoise)
     {
 		RippedSheets=8,
 		Thread;4,
@@ -320,7 +320,7 @@ module JazzyVogue
 		CanBeDoneFromFloor:true,
     }
 
-    recipe Herstellen Jazzy Vogue - Knitted Dress No. 1 (White)
+    recipe Craft Knitted Dress No. 1 (White)
     {
 		RippedSheets=8,
 		Thread;4,
