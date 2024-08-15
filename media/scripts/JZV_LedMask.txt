@@ -4,7 +4,7 @@ module JazzyVogue
 	{
 	    DisplayCategory = Accessory,
 		Type = Clothing,
-		DisplayName = Led Mask (Blank),
+		DisplayName = Led Mask,
 		ClothingItem = JZV_LedMask_Blank,
 		BodyLocation = MaskEyes,
 		Icon = JZV_LedMask,
@@ -23,7 +23,7 @@ module JazzyVogue
 	{
 		DisplayCategory = Accessory,
 		Type = Clothing,
-		DisplayName = Led Mask (Network),
+		DisplayName = Led Mask,
 		ClothingItem = JZV_LedMask_Network,
 		BodyLocation = MaskEyes,
 		Icon = JZV_LedMask,
@@ -42,7 +42,7 @@ module JazzyVogue
 	{
 		DisplayCategory = Accessory,
 		Type = Clothing,
-		DisplayName = Led Mask (Alien),
+		DisplayName = Led Mask,
 		ClothingItem = JZV_LedMask_Alien,
 		BodyLocation = MaskEyes,
 		Icon = JZV_LedMask,
@@ -61,7 +61,7 @@ module JazzyVogue
 	{
 		DisplayCategory = Accessory,
 		Type = Clothing,
-		DisplayName = Led Mask (Heart),
+		DisplayName = Led Mask,
 		ClothingItem = JZV_LedMask_Heart,
 		BodyLocation = MaskEyes,
 		Icon = JZV_LedMask,
@@ -76,4 +76,22 @@ module JazzyVogue
 		clothingExtraSubmenu = UpHoodie,
 	}
 
+	recipe Craft Led Mask
+    {
+        PaintBlack;1,
+		Battery=5,
+		LightBulb=10,
+        Hat_HockeyMask=1,
+
+		keep Paintbrush,
+		keep [Recipe.GetItemTypes.Screwdriver],
+		keep JZV_Sketchbook,
+
+		Result:JZV_LedMask_Blank,
+		Time:1200.0,
+		Category:Tailoring,
+		SkillRequired:Tailoring=8,
+		OnGiveXP:Recipe.OnGiveXP.Tailoring5,
+		CanBeDoneFromFloor:true,
+    }
 }
