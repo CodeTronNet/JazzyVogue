@@ -7,7 +7,7 @@ module JazzyVogue
 		DisplayName = Hockey Mask (Black),
 		ClothingItem = JZV_HockeyMask_Black,
 		BodyLocation = MaskEyes,
-		Icon = HockeyMask,
+		Icon = JZV_HockeyMask_Black,
 		CanHaveHoles = false,
 		BloodLocation = Head,
         BiteDefense = 30,

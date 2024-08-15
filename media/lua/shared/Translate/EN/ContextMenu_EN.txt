@@ -1,8 +1,7 @@
 ContextMenu_EN = {
 
-    ContextMenu_Blank = "Change: Blank",
-    ContextMenu_Flame = "Change: Flame",
-    ContextMenu_Hi = "Change: Hi",
-    ContextMenu_Network = "Change: Network",
-    ContextMenu_Equalizer = "Change: Equalizer",
+    ContextMenu_LedBlank = "Change: Blank",
+    ContextMenu_LedNetwork = "Change: Network",
+	ContextMenu_LedAlien = "Change: Alien",
+	ContextMenu_LedHeart = "Change: Heart",
 }

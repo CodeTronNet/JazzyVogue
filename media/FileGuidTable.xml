@@ -679,21 +679,18 @@
 		<guid>67005189-d2b2-4cbd-851a-ed8066d608ee</guid>
 	</files>
 	<files>
-		<path>media/clothing/clothingItems/JZV_LedMask_Flame.xml</path>
+		<path>media/clothing/clothingItems/JZV_LedMask_Alien.xml</path>
 		<guid>e11119a2-2651-4d86-b4cf-c90a7a99b9cb</guid>
 	</files>
 	<files>
-		<path>media/clothing/clothingItems/JZV_LedMask_Hi.xml</path>
+		<path>media/clothing/clothingItems/JZV_LedMask_Heart.xml</path>
 		<guid>39d4a836-d7fb-489c-9fa3-f77854ae9c52</guid>
-	</files>
-	<files>
-		<path>media/clothing/clothingItems/JZV_LedMask_Equalizer.xml</path>
-		<guid>0e361b2d-2fcc-486a-b8d6-879a0c832932</guid>
 	</files>
 	<files>
 		<path>media/clothing/clothingItems/JZV_LedMask_Network.xml</path>
 		<guid>e3ca5ba3-6e1b-477e-887b-966a741b2ac4</guid>
 	</files>
+
 
 	<!-- JZV_HockeyMask -->
 	<files>

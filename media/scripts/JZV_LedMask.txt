@@ -7,91 +7,73 @@ module JazzyVogue
 		DisplayName = Led Mask (Blank),
 		ClothingItem = JZV_LedMask_Blank,
 		BodyLocation = MaskEyes,
-		Icon = HockeyMask,
+		Icon = JZV_LedMask,
 		CanHaveHoles = false,
 		BloodLocation = Head,
         BiteDefense = 30,
         ScratchDefense = 50,
         Insulation = 0.25,
         WindResistance = 0.55,
-		ClothingItemExtra = JZV_LedMask_Blank;JZV_LedMask_Hi;JZV_LedMask_Flame;JZV_LedMask_Network;JZV_LedMask_Equalizer,
-        ClothingItemExtraOption = Blank;Hi;Flame;Network;Equalizer,
-        clothingExtraSubmenu = UpHoodie,
-	}
-
-	item JZV_LedMask_Hi
-	{
-	    DisplayCategory = Accessory,
-		Type = Clothing,
-		DisplayName = Led Mask (Hi),
-		ClothingItem = JZV_LedMask_Hi,
-		BodyLocation = MaskEyes,
-		Icon = HockeyMask,
-		CanHaveHoles = false,
-		BloodLocation = Head,
-        BiteDefense = 30,
-        ScratchDefense = 50,
-        Insulation = 0.25,
-        WindResistance = 0.55,
-		ClothingItemExtra = JZV_LedMask_Blank;JZV_LedMask_Hi;JZV_LedMask_Flame;JZV_LedMask_Network;JZV_LedMask_Equalizer,
-        ClothingItemExtraOption = Blank;Hi;Flame;Network;Equalizer,
-        clothingExtraSubmenu = UpHoodie,
-	}
-
-	item JZV_LedMask_Flame
-	{
-	    DisplayCategory = Accessory,
-		Type = Clothing,
-		DisplayName = Led Mask (Flame),
-		ClothingItem = JZV_LedMask_Flame,
-		BodyLocation = MaskEyes,
-		Icon = HockeyMask,
-		CanHaveHoles = false,
-		BloodLocation = Head,
-        BiteDefense = 30,
-        ScratchDefense = 50,
-        Insulation = 0.25,
-        WindResistance = 0.55,
-		ClothingItemExtra = JZV_LedMask_Blank;JZV_LedMask_Hi;JZV_LedMask_Flame;JZV_LedMask_Network;JZV_LedMask_Equalizer,
-        ClothingItemExtraOption = Blank;Hi;Flame;Network;Equalizer,
-        clothingExtraSubmenu = UpHoodie,
+		ClothingItemExtra = JZV_LedMask_Blank;JZV_LedMask_Network;JZV_LedMask_Alien;JZV_LedMask_Heart,
+        ClothingItemExtraOption = LedBlank;LedNetwork;LedAlien;LedHeart,
+		clothingExtraSubmenu = UpHoodie,
 	}
 
 	item JZV_LedMask_Network
 	{
-	    DisplayCategory = Accessory,
+		DisplayCategory = Accessory,
 		Type = Clothing,
 		DisplayName = Led Mask (Network),
 		ClothingItem = JZV_LedMask_Network,
 		BodyLocation = MaskEyes,
-		Icon = HockeyMask,
+		Icon = JZV_LedMask,
 		CanHaveHoles = false,
 		BloodLocation = Head,
         BiteDefense = 30,
         ScratchDefense = 50,
         Insulation = 0.25,
         WindResistance = 0.55,
-		ClothingItemExtra = JZV_LedMask_Blank;JZV_LedMask_Hi;JZV_LedMask_Flame;JZV_LedMask_Network;JZV_LedMask_Equalizer,
-        ClothingItemExtraOption = Blank;Hi;Flame;Network;Equalizer,
-        clothingExtraSubmenu = UpHoodie,
+		ClothingItemExtra = JZV_LedMask_Blank;JZV_LedMask_Network;JZV_LedMask_Alien;JZV_LedMask_Heart,
+        ClothingItemExtraOption = LedBlank;LedNetwork;LedAlien;LedHeart,
+		clothingExtraSubmenu = UpHoodie,
 	}
 
-	item JZV_LedMask_Equalizer
+	item JZV_LedMask_Alien
 	{
-	    DisplayCategory = Accessory,
+		DisplayCategory = Accessory,
 		Type = Clothing,
-		DisplayName = Led Mask (Equalizer),
-		ClothingItem = JZV_LedMask_Equalizer,
+		DisplayName = Led Mask (Alien),
+		ClothingItem = JZV_LedMask_Alien,
 		BodyLocation = MaskEyes,
-		Icon = HockeyMask,
+		Icon = JZV_LedMask,
 		CanHaveHoles = false,
 		BloodLocation = Head,
         BiteDefense = 30,
         ScratchDefense = 50,
         Insulation = 0.25,
         WindResistance = 0.55,
-		ClothingItemExtra = JZV_LedMask_Blank;JZV_LedMask_Hi;JZV_LedMask_Flame;JZV_LedMask_Network;JZV_LedMask_Equalizer,
-        ClothingItemExtraOption = Blank;Hi;Flame;Network;Equalizer,
-        clothingExtraSubmenu = UpHoodie,
+		ClothingItemExtra = JZV_LedMask_Blank;JZV_LedMask_Network;JZV_LedMask_Alien;JZV_LedMask_Heart,
+        ClothingItemExtraOption = LedBlank;LedNetwork;LedAlien;LedHeart,
+		clothingExtraSubmenu = UpHoodie,
 	}
+
+	item JZV_LedMask_Heart
+	{
+		DisplayCategory = Accessory,
+		Type = Clothing,
+		DisplayName = Led Mask (Heart),
+		ClothingItem = JZV_LedMask_Heart,
+		BodyLocation = MaskEyes,
+		Icon = JZV_LedMask,
+		CanHaveHoles = false,
+		BloodLocation = Head,
+        BiteDefense = 30,
+        ScratchDefense = 50,
+        Insulation = 0.25,
+        WindResistance = 0.55,
+		ClothingItemExtra = JZV_LedMask_Blank;JZV_LedMask_Network;JZV_LedMask_Alien;JZV_LedMask_Heart,
+        ClothingItemExtraOption = LedBlank;LedNetwork;LedAlien;LedHeart,
+		clothingExtraSubmenu = UpHoodie,
+	}
+
 }

@@ -8,5 +8,5 @@
 	<m_AllowRandomTint>false</m_AllowRandomTint>
 	<m_AttachBone>Bip01_Head</m_AttachBone>
 	<m_MasksFolder>media/textures/Clothes/Hat/Masks</m_MasksFolder>
-	<textureChoices>clothes\JazzyVogue\JZV_LedMask\JZV_LedMask_Flame</textureChoices>
+	<textureChoices>clothes\JazzyVogue\JZV_LedMask\JZV_LedMask_Alien</textureChoices>
 </clothingItem>
