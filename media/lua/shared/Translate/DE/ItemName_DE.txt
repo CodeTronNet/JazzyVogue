@@ -169,4 +169,6 @@ ItemName_DE = {
 	ItemName_JazzyVogue.JZV_TShirt_Vaugn001 = "T-Shirt - Vaugn Nr. 1",
 
 	ItemName_JazzyVogue.JZV_WinterHat_Chapka001 = "Chapka (Schwarz / Roter Stern)",
+
+	ItemName_JazzyVogue.JZV_ArmyHelmet_Medic = "Militär Helm (Medic)",
 }

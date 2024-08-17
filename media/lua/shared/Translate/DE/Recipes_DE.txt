@@ -163,4 +163,6 @@ Recipes_DE = {
 	Recipe_Craft_T-Shirt_-_Vaugn_No._1 = "Herstellen T-Shirt - Vaugn Nr. 1",
 
 	Recipe_Craft_Chapka_(Black_/_Red_Star) = "Herstellen Chapka (Schwarz / Roter Stern)",
+
+	Recipe_Craft_Military_Helmet_(Medic) = "Herstellen Militär Helm (Medic)",
 }

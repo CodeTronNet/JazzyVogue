@@ -1,0 +1,36 @@
+module JazzyVogue
+{
+	item JZV_ArmyHelmet_Medic
+	{
+		DisplayCategory = Accessory,
+		Type = Clothing,
+		DisplayName = Military Helmet (Medic),
+		ClothingItem = JZV_ArmyHelmet_Medic,
+		BodyLocation = Hat,
+		Icon = JZV_ArmyHelmet_Medic,
+		CanHaveHoles = false,
+		BloodLocation = Head,
+		BiteDefense = 100,
+		ScratchDefense = 100,
+		ChanceToFall = 10,
+		Insulation = 0.25,
+		WaterResistance = 0.2,
+	}
+
+	recipe Craft Military Helmet (Medic)
+    {
+		Hat_Army=1,
+        PaintRed;2,
+		PaintWhite;1,
+
+		keep Needle,
+		keep Paintbrush,
+
+		Result:JZV_ArmyHelmet_Medic,
+		Time:600.0,
+		Category:Tailoring,
+		SkillRequired:Tailoring=10,
+		OnGiveXP:Recipe.OnGiveXP.Tailoring5,
+		CanBeDoneFromFloor:true,
+    }
+}

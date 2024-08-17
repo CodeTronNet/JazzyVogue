@@ -697,5 +697,11 @@
 		<path>media/clothing/clothingItems/JZV_HockeyMask_Black.xml</path>
 		<guid>2910a0bf-76f3-466b-a093-9c434de6f19e</guid>
 	</files>
+
+	<!-- JZV_ArmyHelmet -->
+	<files>
+		<path>media/clothing/clothingItems/JZV_ArmyHelmet_Medic.xml</path>
+		<guid>3ec92857-f539-40ca-84ff-b90f8f363c07</guid>
+	</files>
 </fileGuidTable>
 

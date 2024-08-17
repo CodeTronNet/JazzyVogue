@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<clothingItem>
+	<m_MaleModel>static\clothes\m_armyhelmet</m_MaleModel>
+	<m_FemaleModel>static\clothes\f_armyhelmet</m_FemaleModel>
+	<m_GUID>3ec92857-f539-40ca-84ff-b90f8f363c07</m_GUID>
+	<m_Static>true</m_Static>
+	<m_AllowRandomHue>false</m_AllowRandomHue>
+	<m_AllowRandomTint>false</m_AllowRandomTint>
+	<m_AttachBone>Bip01_Head</m_AttachBone>
+	<m_HatCategory>Group02</m_HatCategory>
+	<m_MasksFolder>media/textures/Clothes/Hat/Masks</m_MasksFolder>
+	<textureChoices>clothes\JazzyVogue\JZV_ArmyHelmet\JZV_ArmyHelmet_Medic</textureChoices>
+</clothingItem>

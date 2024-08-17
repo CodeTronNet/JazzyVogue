@@ -23,7 +23,7 @@ module JazzyVogue
 
 		keep Paintbrush,
 
-		Result:JZV_FaceMask001_Black,
+		Result:JZV_HockeyMask_Black,
 		Time:450.0,
 		Category:Tailoring,
 		SkillRequired:Tailoring=8,
