@@ -165,4 +165,7 @@ Recipes_DE = {
 	Recipe_Craft_Chapka_(Black_/_Red_Star) = "Herstellen Chapka (Schwarz / Roter Stern)",
 
 	Recipe_Craft_Military_Helmet_(Medic) = "Herstellen Milit‰r Helm (Medic)",
+
+	Recipe_Craft_High_Heels_(Black) = "Herstellen High Heels (Schwarz)",
+	Recipe_Craft_High_Heels_(White) = "Herstellen High Heels (Weiﬂ)",
 }

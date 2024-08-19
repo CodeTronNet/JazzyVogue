@@ -1,0 +1,84 @@
+module JazzyVogue
+{
+	item JZV_ShoeStiletto_Black
+	{
+		DisplayCategory = Clothing,
+		Type = Clothing,
+		DisplayName = High Heels (Black),
+		ClothingItem = JZV_ShoeStiletto_Black,
+		BodyLocation = Shoes,
+		BloodLocation = Shoes;LowerLegs,
+		Icon = Shoes,
+		StompPower = 5.0,
+		ConditionLowerChanceOneIn = 12,
+		ConditionMax = 24,
+		RunSpeedModifier = 0.92,
+		RemoveOnBroken = false,
+		ScratchDefense = 20,
+		BiteDefense = 10,
+		Insulation = 0.25,
+		WindResistance = 0.25,
+		WaterResistance = 0.25,
+		Weight = 1.0,
+		WorldStaticModel = Shoes_Ground,
+		CanHaveHoles = false,
+	}
+
+	item JZV_ShoeStiletto_White
+	{
+		DisplayCategory = Clothing,
+		Type = Clothing,
+		DisplayName = High Heels (White),
+		ClothingItem = JZV_ShoeStiletto_White,
+		BodyLocation = Shoes,
+		BloodLocation = Shoes;LowerLegs,
+		Icon = Shoes,
+		StompPower = 5.0,
+		ConditionLowerChanceOneIn = 12,
+		ConditionMax = 24,
+		RunSpeedModifier = 0.92,
+		RemoveOnBroken = false,
+		ScratchDefense = 20,
+		BiteDefense = 10,
+		Insulation = 0.25,
+		WindResistance = 0.25,
+		WaterResistance = 0.25,
+		Weight = 1.0,
+		WorldStaticModel = Shoes_Ground,
+		CanHaveHoles = false,
+	}
+
+	recipe Craft High Heels (Black)
+	{
+		LeatherStrips=10,
+		Thread;4,
+		PaintBlack;3,
+
+		keep Needle,
+		keep Paintbrush,
+
+		Result:JZV_ShoeStiletto_Black,
+		Time:600.0,
+		Category:Tailoring,
+		SkillRequired:Tailoring=10,
+		OnGiveXP:Recipe.OnGiveXP.Tailoring5,
+		CanBeDoneFromFloor:true,
+	}
+
+	recipe Craft High Heels (White)
+	{
+		LeatherStrips=10,
+		Thread;4,
+		PaintWhite;3,
+
+		keep Needle,
+		keep Paintbrush,
+
+		Result:JZV_ShoeStiletto_White,
+		Time:600.0,
+		Category:Tailoring,
+		SkillRequired:Tailoring=10,
+		OnGiveXP:Recipe.OnGiveXP.Tailoring5,
+		CanBeDoneFromFloor:true,
+	}
+}

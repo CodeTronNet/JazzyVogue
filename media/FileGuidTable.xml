@@ -703,5 +703,16 @@
 		<path>media/clothing/clothingItems/JZV_ArmyHelmet_Medic.xml</path>
 		<guid>3ec92857-f539-40ca-84ff-b90f8f363c07</guid>
 	</files>
+
+	<!-- JZV_ShoeStiletto -->
+	<files>
+		<path>media/clothing/clothingItems/JZV_ShoeStiletto_Black.xml</path>
+		<guid>6f709bf2-0427-4924-8d4e-e80b336aae7f</guid>
+	</files>
+	<files>
+		<path>media/clothing/clothingItems/JZV_ShoeStiletto_White.xml</path>
+		<guid>5327933b-f624-41b5-96b6-5f6f4bb8c4aa</guid>
+	</files>
+	
 </fileGuidTable>
 
