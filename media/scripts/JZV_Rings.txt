@@ -1,0 +1,16 @@
+
+module JazzyVogue
+{
+	item JZV_WeddingRing_TronyaJames
+	{
+		DisplayCategory = Accessory,
+		Type = Clothing,
+		DisplayName = Ehering - Tronya & James,
+		ClothingItem = Ring_Left_RingFinger_SilverDiamond,
+		BodyLocation = Left_RingFinger,
+		Icon = Ring_SilverDiamond,
+		Weight = 0.1,
+		Cosmetic = TRUE,
+		WorldStaticModel = Ring_Silver_Ground,
+	}
+}
