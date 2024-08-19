@@ -127,4 +127,20 @@ module JazzyVogue
         FabricType = Cotton,
         WorldStaticModel = Trousers_Ground,
     }
+
+	item JZV_SuitPants_Purple
+    {
+        DisplayCategory = Clothing,
+        Type = Clothing,
+        DisplayName = Suit Pants (Purple),
+        ClothingItem = JZV_SuitPants_Purple,
+        BodyLocation = Pants,
+        Icon = JZV_SuitPantsGeneric_Purple,
+        BloodLocation = Trousers,
+        ScratchDefense = 10,
+        Insulation = 0.4,
+        WindResistance = 0.2,
+        FabricType = Cotton,
+        WorldStaticModel = Trousers_Ground,
+    }
 }

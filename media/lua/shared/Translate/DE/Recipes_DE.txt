@@ -107,6 +107,7 @@ Recipes_DE = {
 	Recipe_Craft_Classic_Suit_Jacket_(White) = "Herstellen Klassisches Jackett (Weiß)",
 	Recipe_Craft_Classic_Suit_Jacket_(Green) = "Herstellen Klassisches Jackett (Grün)",
 	Recipe_Craft_Classic_Suit_Jacket_(Red) = "Herstellen Klassisches Jackett (Rot)",
+	Recipe_Craft_Classic_Suit_Jacket_(Purple) = "Herstellen Klassisches Jackett (Lila)",
 
 	Recipe_Craft_Slim_Suit_Jacket_(Beige) = "Herstellen Schlankes Jackett (Beige)",
 	Recipe_Craft_Slim_Suit_Jacket_(Black) = "Herstellen Schlankes Jackett (Schwarz)",
@@ -116,6 +117,7 @@ Recipes_DE = {
 	Recipe_Craft_Slim_Suit_Jacket_(White) = "Herstellen Schlankes Jackett (Weiß)",
 	Recipe_Craft_Slim_Suit_Jacket_(Green) = "Herstellen Schlankes Jackett (Grün)",
 	Recipe_Craft_Slim_Suit_Jacket_(Red) = "Herstellen Schlankes Jackett (Rot)",
+	Recipe_Craft_Slim_Suit_Jacket_(Purple) = "Herstellen Schlankes Jackett (Lila)",
 
 	Recipe_Craft_Suit_Pants_(Beige) = "Herstellen Anzug-Hose (Beige)",
 	Recipe_Craft_Suit_Pants_(Black) = "Herstellen Anzug-Hose (Schwarz)",
@@ -125,6 +127,7 @@ Recipes_DE = {
 	Recipe_Craft_Suit_Pants_(White) = "Herstellen Anzug-Hose (Weiß)",
 	Recipe_Craft_Suit_Pants_(Green) = "Herstellen Anzug-Hose (Grün)",
 	Recipe_Craft_Suit_Pants_(Red) = "Herstellen Anzug-Hose (Rot)",
+	Recipe_Craft_Suit_Pants_(Purple) = "Herstellen Anzug-Hose (Lila)",
 
 	Recipe_Craft_T-Shirt_-_Fallen_Lands_No._1 = "Herstellen T-Shirt - Fallen Lands Nr. 1",
 

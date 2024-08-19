@@ -109,6 +109,7 @@ ItemName_DE = {
 	ItemName_JazzyVogue.JZV_SuitJacket_White = "Klassisches Jackett (Weiß)",
 	ItemName_JazzyVogue.JZV_SuitJacket_Green = "Klassisches Jackett (Grün)",
 	ItemName_JazzyVogue.JZV_SuitJacket_Red = "Klassisches Jackett (Rot)",
+	ItemName_JazzyVogue.JZV_SuitJacket_Purple = "Klassisches Jackett (Lila)",
 
 	ItemName_JazzyVogue.JZV_SuitJacketSlim_Beige = "Schlankes Jackett (Beige)",
 	ItemName_JazzyVogue.JZV_SuitJacketSlim_Black = "Schlankes Jackett (Schwarz)",
@@ -118,6 +119,7 @@ ItemName_DE = {
 	ItemName_JazzyVogue.JZV_SuitJacketSlim_White = "Schlankes Jackett (Weiß)",
 	ItemName_JazzyVogue.JZV_SuitJacketSlim_Green = "Schlankes Jackett (Grün)",
 	ItemName_JazzyVogue.JZV_SuitJacketSlim_Red = "Schlankes Jackett (Rot)",
+	ItemName_JazzyVogue.JZV_SuitJacketSlim_Purple = "Schlankes Jackett (Lila)",
 
 	ItemName_JazzyVogue.JZV_SuitPants_Beige = "Anzug-Hose (Beige)",
 	ItemName_JazzyVogue.JZV_SuitPants_Black = "Anzug-Hose (Schwarz)",
@@ -127,6 +129,7 @@ ItemName_DE = {
 	ItemName_JazzyVogue.JZV_SuitPants_White = "Anzug-Hose (Weiß)",
 	ItemName_JazzyVogue.JZV_SuitPants_Green = "Anzug-Hose (Grün)",
 	ItemName_JazzyVogue.JZV_SuitPants_Red = "Anzug-Hose (Rot)",
+	ItemName_JazzyVogue.JZV_SuitPants_Purple = "Anzug-Hose (Lila)",
 
 	ItemName_JazzyVogue.JZV_TShirt_Admin001 = "T-Shirt Admin Nr. 1",
 

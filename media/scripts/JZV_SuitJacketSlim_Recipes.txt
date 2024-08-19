@@ -135,4 +135,21 @@ module JazzyVogue
 		OnGiveXP:Recipe.OnGiveXP.Tailoring5,
 		CanBeDoneFromFloor:true,
     }
+
+	recipe Craft Slim Suit Jacket (Purple)
+    {
+		RippedSheets=10,
+		Thread;2,
+		PaintPurple;3,
+
+		keep Needle,
+		keep Paintbrush,
+
+		Result:JZV_SuitJacketSlim_Purple,
+		Time:450.0,
+		Category:Tailoring,
+		SkillRequired:Tailoring=10,
+		OnGiveXP:Recipe.OnGiveXP.Tailoring5,
+		CanBeDoneFromFloor:true,
+    }
 }

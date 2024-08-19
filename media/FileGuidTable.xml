@@ -490,6 +490,10 @@
 		<path>media/clothing/clothingItems/JZV_SuitJacketSlim_Red.xml</path>
 		<guid>5100f2c2-8b90-4746-9852-3a5afefe1cd7</guid>
 	</files>
+	<files>
+		<path>media/clothing/clothingItems/JZV_SuitJacketSlim_Purple.xml</path>
+		<guid>3ee14c01-3130-4c01-9c00-4a1066d6db97</guid>
+	</files>
 
 	<!-- JZV_SuitJacket -->
 	<files>
@@ -524,6 +528,10 @@
 		<path>media/clothing/clothingItems/JZV_SuitJacket_Red.xml</path>
 		<guid>3323783a-65f1-4796-a76e-93ff1130b15e</guid>
 	</files>
+	<files>
+		<path>media/clothing/clothingItems/JZV_SuitJacket_Purple.xml</path>
+		<guid>aa7f14b8-58bb-4d93-92d6-8b3e5efb4b2b</guid>
+	</files>
 
 	<!-- JZV_SuitPants -->
 	<files>
@@ -557,6 +565,10 @@
 	<files>
 		<path>media/clothing/clothingItems/JZV_SuitPants_Red.xml</path>
 		<guid>8833ba84-6f77-41bf-96e1-fea3b863eea9</guid>
+	</files>
+	<files>
+		<path>media/clothing/clothingItems/JZV_SuitPants_Purple.xml</path>
+		<guid>279176df-3a73-48f1-9273-ce95a26d5a54</guid>
 	</files>
 
 	<!-- JZV_Blindfold -->
