@@ -175,6 +175,5 @@ ItemName_DE = {
 
 	ItemName_JazzyVogue.JZV_ArmyHelmet_Medic = "Milit‰r Helm (Medic)",
 
-	ItemName_JazzyVogue.JZV_ShoeStiletto_Black = "High Heels (Schwarz)",
-	ItemName_JazzyVogue.JZV_ShoeStiletto_White = "High Heels (Weiﬂ)",
+	ItemName_JazzyVogue.JZV_FancyShoes_White = "Schicke Schuhe (Weiﬂ)",
 }

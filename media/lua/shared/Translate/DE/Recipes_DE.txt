@@ -169,6 +169,5 @@ Recipes_DE = {
 
 	Recipe_Craft_Military_Helmet_(Medic) = "Herstellen Milit‰r Helm (Medic)",
 
-	Recipe_Craft_High_Heels_(Black) = "Herstellen High Heels (Schwarz)",
-	Recipe_Craft_High_Heels_(White) = "Herstellen High Heels (Weiﬂ)",
+	Recipe_Craft_Fancy_Shoes_(White) = "Schicke Schuhe (Weiﬂ)",
 }
