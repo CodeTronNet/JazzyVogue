@@ -152,4 +152,21 @@ module JazzyVogue
 		OnGiveXP:Recipe.OnGiveXP.Tailoring5,
 		CanBeDoneFromFloor:true,
     }
+
+	recipe Craft Classic Suit Jacket (Turquoise)
+    {
+		RippedSheets=10,
+		Thread;2,
+		PaintTurquoise;3,
+
+		keep Needle,
+		keep Paintbrush,
+
+		Result:JZV_SuitJacket_Turquoise,
+		Time:450.0,
+		Category:Tailoring,
+		SkillRequired:Tailoring=10,
+		OnGiveXP:Recipe.OnGiveXP.Tailoring5,
+		CanBeDoneFromFloor:true,
+    }
 }
