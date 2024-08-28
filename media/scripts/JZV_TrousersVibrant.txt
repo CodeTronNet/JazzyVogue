@@ -1,0 +1,77 @@
+module JazzyVogue
+{
+	item JZV_TrousersVibrant_Blue
+	{
+		DisplayCategory = Clothing,
+		Type = Clothing,
+		DisplayName = Vibrant Pants (Blue),
+		ClothingItem = JZV_TrousersVibrant_Blue,
+		BodyLocation = Pants,
+		Icon = JZV_TrousersGeneric_Blue,
+		BloodLocation = Trousers,
+		Insulation = 0.5,
+		WindResistance = 0.25,
+		FabricType = Cotton,
+		WorldStaticModel = Trousers_Ground,
+	}
+
+	item JZV_TrousersVibrant_Green
+	{
+		DisplayCategory = Clothing,
+		Type = Clothing,
+		DisplayName = Vibrant Pants (Green),
+		ClothingItem = JZV_TrousersVibrant_Green,
+		BodyLocation = Pants,
+		Icon = JZV_TrousersGeneric_Green,
+		BloodLocation = Trousers,
+		Insulation = 0.5,
+		WindResistance = 0.25,
+		FabricType = Cotton,
+		WorldStaticModel = Trousers_Ground,
+	}
+
+	item JZV_TrousersVibrant_Orange
+	{
+		DisplayCategory = Clothing,
+		Type = Clothing,
+		DisplayName = Vibrant Pants (Orange),
+		ClothingItem = JZV_TrousersVibrant_Orange,
+		BodyLocation = Pants,
+		Icon = JZV_TrousersGeneric_Orange,
+		BloodLocation = Trousers,
+		Insulation = 0.5,
+		WindResistance = 0.25,
+		FabricType = Cotton,
+		WorldStaticModel = Trousers_Ground,
+	}
+
+	item JZV_TrousersVibrant_Purple
+	{
+		DisplayCategory = Clothing,
+		Type = Clothing,
+		DisplayName = Vibrant Pants (Purple),
+		ClothingItem = JZV_TrousersVibrant_Purple,
+		BodyLocation = Pants,
+		Icon = JZV_TrousersGeneric_Purple,
+		BloodLocation = Trousers,
+		Insulation = 0.5,
+		WindResistance = 0.25,
+		FabricType = Cotton,
+		WorldStaticModel = Trousers_Ground,
+	}
+
+	item JZV_TrousersVibrant_Red
+	{
+		DisplayCategory = Clothing,
+		Type = Clothing,
+		DisplayName = Vibrant Pants (Red),
+		ClothingItem = JZV_TrousersVibrant_Red,
+		BodyLocation = Pants,
+		Icon = JZV_TrousersGeneric_Red,
+		BloodLocation = Trousers,
+		Insulation = 0.5,
+		WindResistance = 0.25,
+		FabricType = Cotton,
+		WorldStaticModel = Trousers_Ground,
+	}
+}

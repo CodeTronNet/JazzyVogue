@@ -179,4 +179,16 @@ ItemName_DE = {
 	ItemName_JazzyVogue.JZV_ArmyHelmet_Medic = "Militär Helm (Medic)",
 
 	ItemName_JazzyVogue.JZV_FancyShoes_White = "Schicke Schuhe (Weiß)",
+
+	ItemName_JazzyVogue.JZV_ShirtPattern001_Blue = "Shirt - Blumen (Blau)",
+	ItemName_JazzyVogue.JZV_ShirtPattern001_Green = "Shirt - Blumen (Grün)",
+	ItemName_JazzyVogue.JZV_ShirtPattern001_Orange = "Shirt - Blumen (Orange)",
+	ItemName_JazzyVogue.JZV_ShirtPattern001_Red = "Shirt - Blumen (Rot)",
+	ItemName_JazzyVogue.JZV_ShirtPattern001_Purple = "Shirt - Blumen (Lila)",
+
+	ItemName_JazzyVogue.JZV_TrousersVibrant_Blue = "Strahlende Hose (Blau)",
+	ItemName_JazzyVogue.JZV_TrousersVibrant_Green = "Strahlende Hose (Grün)",
+	ItemName_JazzyVogue.JZV_TrousersVibrant_Orange = "Strahlende Hose (Orange)",
+	ItemName_JazzyVogue.JZV_TrousersVibrant_Red = "Strahlende Hose (Rot)",
+	ItemName_JazzyVogue.JZV_TrousersVibrant_Purple = "Strahlende Hose (Lila)",
 }

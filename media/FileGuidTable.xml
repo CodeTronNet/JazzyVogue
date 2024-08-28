@@ -734,5 +734,49 @@
 		<guid>d4612dcb-6f6a-4496-86d1-2b7efd27f30f</guid>
 	</files>
 
+	<!-- JZV_ShirtPattern001 -->
+	<files>
+		<path>media/clothing/clothingItems/JZV_ShirtPattern001_Blue.xml</path>
+		<guid>3025490f-3a06-4059-8148-67364bda4411</guid>
+	</files>
+	<files>
+		<path>media/clothing/clothingItems/JZV_ShirtPattern001_Green.xml</path>
+		<guid>12aa4dcf-c0ac-4f11-825d-08a3a5c46550</guid>
+	</files>
+	<files>
+		<path>media/clothing/clothingItems/JZV_ShirtPattern001_Orange.xml</path>
+		<guid>af6119b2-eba2-4516-a628-caabcfd35141</guid>
+	</files>
+	<files>
+		<path>media/clothing/clothingItems/JZV_ShirtPattern001_Purple.xml</path>
+		<guid>347e96d2-0952-4631-970a-18c7beeb09ea</guid>
+	</files>
+	<files>
+		<path>media/clothing/clothingItems/JZV_ShirtPattern001_Red.xml</path>
+		<guid>b0546ecd-dcb6-4cad-9593-5b1cec40dbbe</guid>
+	</files>
+
+	<!-- JZV_TrousersVibrant -->
+	<files>
+		<path>media/clothing/clothingItems/JZV_TrousersVibrant_Blue.xml</path>
+		<guid>edfc5023-5f93-4e37-9edb-bf0be4495eca</guid>
+	</files>
+	<files>
+		<path>media/clothing/clothingItems/JZV_TrousersVibrant_Green.xml</path>
+		<guid>acded087-a378-47e6-ac81-7c65b7f21e2d</guid>
+	</files>
+	<files>
+		<path>media/clothing/clothingItems/JZV_TrousersVibrant_Orange.xml</path>
+		<guid>d9e62cba-7011-4cef-a795-afbc956955f0</guid>
+	</files>
+	<files>
+		<path>media/clothing/clothingItems/JZV_TrousersVibrant_Purple.xml</path>
+		<guid>6a638425-e721-4882-b8fe-171c923d6036</guid>
+	</files>
+	<files>
+		<path>media/clothing/clothingItems/JZV_TrousersVibrant_Red.xml</path>
+		<guid>9bc4750a-4002-4295-933a-4412fb89decc</guid>
+	</files>
+
 </fileGuidTable>
 

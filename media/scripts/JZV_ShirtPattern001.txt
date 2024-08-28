@@ -1,0 +1,77 @@
+module JazzyVogue
+{
+	item JZV_ShirtPattern001_Blue
+	{
+		DisplayCategory = Clothing,
+		Type = Clothing,
+		DisplayName = Shirt - Flowers (Blue),
+		ClothingItem = JZV_ShirtPattern001_Blue,
+		BodyLocation = ShortSleeveShirt,
+		Icon = JZV_ShirtPatternGeneric_Blue,
+		BloodLocation = Shirt,
+		Insulation = 0.1,
+		WindResistance = 0.05,
+		FabricType = Cotton,
+		WorldStaticModel = TShirt_Ground,
+	}
+
+	item JZV_ShirtPattern001_Green
+	{
+		DisplayCategory = Clothing,
+		Type = Clothing,
+		DisplayName = Shirt - Flowers (Green),
+		ClothingItem = JZV_ShirtPattern001_Green,
+		BodyLocation = ShortSleeveShirt,
+		Icon = JZV_ShirtPatternGeneric_Green,
+		BloodLocation = Shirt,
+		Insulation = 0.1,
+		WindResistance = 0.05,
+		FabricType = Cotton,
+		WorldStaticModel = TShirt_Ground,
+	}
+
+	item JZV_ShirtPattern001_Orange
+	{
+		DisplayCategory = Clothing,
+		Type = Clothing,
+		DisplayName = Shirt - Flowers (Orange),
+		ClothingItem = JZV_ShirtPattern001_Orange,
+		BodyLocation = ShortSleeveShirt,
+		Icon = JZV_ShirtPatternGeneric_Orange,
+		BloodLocation = Shirt,
+		Insulation = 0.1,
+		WindResistance = 0.05,
+		FabricType = Cotton,
+		WorldStaticModel = TShirt_Ground,
+	}
+
+	item JZV_ShirtPattern001_Red
+	{
+		DisplayCategory = Clothing,
+		Type = Clothing,
+		DisplayName = Shirt - Flowers (Red),
+		ClothingItem = JZV_ShirtPattern001_Red,
+		BodyLocation = ShortSleeveShirt,
+		Icon = JZV_ShirtPatternGeneric_Red,
+		BloodLocation = Shirt,
+		Insulation = 0.1,
+		WindResistance = 0.05,
+		FabricType = Cotton,
+		WorldStaticModel = TShirt_Ground,
+	}
+
+	item JZV_ShirtPattern001_Purple
+	{
+		DisplayCategory = Clothing,
+		Type = Clothing,
+		DisplayName = Shirt - Flowers (Purple),
+		ClothingItem = JZV_ShirtPattern001_Purple,
+		BodyLocation = ShortSleeveShirt,
+		Icon = JZV_ShirtPatternGeneric_Purple,
+		BloodLocation = Shirt,
+		Insulation = 0.1,
+		WindResistance = 0.05,
+		FabricType = Cotton,
+		WorldStaticModel = TShirt_Ground,
+	}
+}

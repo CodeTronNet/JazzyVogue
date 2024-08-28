@@ -172,5 +172,17 @@ Recipes_DE = {
 
 	Recipe_Craft_Military_Helmet_(Medic) = "Herstellen Militär Helm (Medic)",
 
-	Recipe_Craft_Fancy_Shoes_(White) = "Schicke Schuhe (Weiß)",
+	Recipe_Craft_Fancy_Shoes_(White) = "Herstellen Schicke Schuhe (Weiß)",
+
+	Recipe_Craft_Shirt_-_Flowers_(Blue) = "Herstellen Shirt - Blumen (Blau)",
+	Recipe_Craft_Shirt_-_Flowers_(Green) = "Herstellen Shirt - Blumen (Grün)",
+	Recipe_Craft_Shirt_-_Flowers_(Orange) = "Herstellen Shirt - Blumen (Orange)",
+	Recipe_Craft_Shirt_-_Flowers_(Red) = "Herstellen Shirt - Blumen (Rot)",
+	Recipe_Craft_Shirt_-_Flowers_(Purple) = "Herstellen Shirt - Blumen (Lila)",
+
+	Recipe_Craft_Vibrant_Pants_(Blue) = "Herstellen Strahlende Hose (Blau)",
+	Recipe_Craft_Vibrant_Pants_(Green) = "Herstellen Strahlende Hose (Grün)",
+	Recipe_Craft_Vibrant_Pants_(Orange) = "Herstellen Strahlende Hose (Orange)",
+	Recipe_Craft_Vibrant_Pants_(Red) = "Herstellen Strahlende Hose (Rot)",
+	Recipe_Craft_Vibrant_Pants_(Purple) = "Herstellen Strahlende Hose (Lila)",
 }

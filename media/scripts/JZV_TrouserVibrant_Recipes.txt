@@ -1,0 +1,87 @@
+module JazzyVogue
+{
+	recipe Craft Vibrant Pants (Blue)
+	{
+		DenimStrips=15,
+		Thread;2,
+		PaintBlue;3,
+
+		keep Needle,
+		keep Paintbrush,
+
+		Result:JZV_TrousersVibrant_Blue,
+		Time:600.0,
+		Category:Tailoring,
+		SkillRequired:Tailoring=10,
+		OnGiveXP:Recipe.OnGiveXP.Tailoring5,
+		CanBeDoneFromFloor:true,
+	}
+
+	recipe Craft Vibrant Pants (Green)
+	{
+		DenimStrips=15,
+		Thread;2,
+		PaintGreen;3,
+
+		keep Needle,
+		keep Paintbrush,
+
+		Result:JZV_TrousersVibrant_Green,
+		Time:600.0,
+		Category:Tailoring,
+		SkillRequired:Tailoring=10,
+		OnGiveXP:Recipe.OnGiveXP.Tailoring5,
+		CanBeDoneFromFloor:true,
+	}
+
+	recipe Craft Vibrant Pants (Orange)
+	{
+		DenimStrips=15,
+		Thread;2,
+		PaintOrange;3,
+
+		keep Needle,
+		keep Paintbrush,
+
+		Result:JZV_TrousersVibrant_Orange,
+		Time:600.0,
+		Category:Tailoring,
+		SkillRequired:Tailoring=10,
+		OnGiveXP:Recipe.OnGiveXP.Tailoring5,
+		CanBeDoneFromFloor:true,
+	}
+
+	recipe Craft Vibrant Pants (Purple)
+	{
+		DenimStrips=15,
+		Thread;2,
+		PaintPurple;3,
+
+		keep Needle,
+		keep Paintbrush,
+
+		Result:JZV_TrousersVibrant_Purple,
+		Time:600.0,
+		Category:Tailoring,
+		SkillRequired:Tailoring=10,
+		OnGiveXP:Recipe.OnGiveXP.Tailoring5,
+		CanBeDoneFromFloor:true,
+	}
+
+	recipe Craft Vibrant Pants (Red)
+	{
+		DenimStrips=15,
+		Thread;2,
+		PaintRed;3,
+
+		keep Needle,
+		keep Paintbrush,
+
+		Result:JZV_TrousersVibrant_Red,
+		Time:600.0,
+		Category:Tailoring,
+		SkillRequired:Tailoring=10,
+		OnGiveXP:Recipe.OnGiveXP.Tailoring5,
+		CanBeDoneFromFloor:true,
+	}
+}
