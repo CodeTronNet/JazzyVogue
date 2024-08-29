@@ -1,0 +1,41 @@
+module JazzyVogue
+{
+	recipe Bleach Military Poncho
+	{
+		JZV_MilitaryPoncho_Red_Up/JZV_MilitaryPoncho_Red_Down/JZV_MilitaryPoncho_Red_Shoulder/JZV_MilitaryPoncho_Red_ShoulderDown,
+		Bleach,
+		Result:JZV_MilitaryPoncho_Grey_Up,
+		Time:300.0,
+		Category:Survivalist,
+		SkillRequired:Tailoring=2,
+	}
+
+	recipe Bleach Military Poncho
+	{
+		JZV_MilitaryPoncho_Blue_Up/JZV_MilitaryPoncho_Blue_Down/JZV_MilitaryPoncho_Blue_Shoulder/JZV_MilitaryPoncho_Blue_ShoulderDown,
+		Bleach,
+		Result:JZV_MilitaryPoncho_Grey_Up,
+		Time:300.0,
+		Category:Survivalist,
+		SkillRequired:Tailoring=2,
+	}
+	recipe Paint Military Poncho Red
+	{
+		JZV_MilitaryPoncho_Grey_Up/JZV_MilitaryPoncho_Grey_Down/JZV_MilitaryPoncho_Grey_Shoulder/JZV_MilitaryPoncho_Grey_ShoulderDown,
+		PaintRed,
+		Result:JZV_MilitaryPoncho_Red_Up,
+		Time:300.0,
+		Category:Survivalist,
+		SkillRequired:Tailoring=2,
+	}
+
+	recipe Paint Military Poncho Blue
+	{
+		JZV_MilitaryPoncho_Grey_Up/JZV_MilitaryPoncho_Grey_Down/JZV_MilitaryPoncho_Grey_Shoulder/JZV_MilitaryPoncho_Grey_ShoulderDown,
+		PaintBlue,
+		Result:JZV_MilitaryPoncho_Blue_Up,
+		Time:300.0,
+		Category:Survivalist,
+		SkillRequired:Tailoring=2,
+	}
+}

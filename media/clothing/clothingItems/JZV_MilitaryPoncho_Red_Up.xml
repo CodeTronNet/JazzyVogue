@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<clothingItem>
+	<m_MaleModel>G_JZV_MilitaryPoncho_Up</m_MaleModel>
+	<m_FemaleModel>G_JZV_MilitaryPoncho_Up</m_FemaleModel>
+	<m_GUID>9763e518-014c-4120-ad9c-9f6a7261107d</m_GUID>
+	<m_Static>false</m_Static>
+	<m_AllowRandomHue>false</m_AllowRandomHue>
+	<m_AllowRandomTint>false</m_AllowRandomTint>
+	<m_AttachBone></m_AttachBone>
+	<m_HatCategory>Group01</m_HatCategory>
+	<m_Masks>12</m_Masks>
+	<m_UnderlayMasksFolder>media/textures/clothes/JazzyVogue/JZV_MilitaryPoncho/Masks</m_UnderlayMasksFolder>
+	<textureChoices>clothes\JazzyVogue\JZV_MilitaryPoncho\JZV_MilitaryPoncho_Red</textureChoices>
+</clothingItem>

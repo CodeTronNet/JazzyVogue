@@ -1,0 +1,93 @@
+module JazzyVogue
+{
+	item JZV_MilitaryPoncho_Blue_Up
+	{
+		Type = Clothing,
+		DisplayName = Military Poncho - Blue,
+		ClothingItem = JZV_MilitaryPoncho_Blue_Up,
+		BodyLocation = Tail,
+		Icon = JZV_MilitaryPoncho_Blue,
+		BloodLocation = Shirt;FullHelmet;Trousers,
+		ClothingItemExtra = JZV_MilitaryPoncho_Blue_Down;JZV_MilitaryPoncho_Blue_Shoulder;JZV_MilitaryPoncho_Blue_ShoulderDown,
+		ClothingItemExtraOption = DownHoodie;UpHoodieS;DownHoodieS,
+		clothingExtraSubmenu = UpHoodie,
+		BiteDefense = 0,
+		ScratchDefense = 0,
+		NeckProtectionModifier = 0.8,
+		Insulation = 0.1,
+		WindResistance = 0.75,
+		WaterResistance = 1.0,
+		FabricType = Cotton,
+		WorldStaticModel = JZV_MilitaryPoncho_Blue_Ground,
+	}
+
+	item JZV_MilitaryPoncho_Blue_Down
+	{
+		Type = Clothing,
+		DisplayName = Military Poncho - Blue,
+		ClothingItem = JZV_MilitaryPoncho_Blue_Down,
+		BodyLocation = Tail,
+		Icon = JZV_MilitaryPoncho_Blue,
+		BloodLocation = Shirt;FullHelmet;Trousers,
+		ClothingItemExtra = JZV_MilitaryPoncho_Blue_Up;JZV_MilitaryPoncho_Blue_Shoulder;JZV_MilitaryPoncho_Blue_ShoulderDown,
+		ClothingItemExtraOption = UpHoodie;UpHoodieS;DownHoodieS,
+		clothingExtraSubmenu = DownHoodie,
+		BiteDefense = 0,
+		ScratchDefense = 0,
+		NeckProtectionModifier = 0.5,
+		Insulation = 0.15,
+		WindResistance = 0.8,
+		WaterResistance = 1.0,
+		FabricType = Cotton,
+		WorldStaticModel = JZV_MilitaryPoncho_Blue_Ground,
+	}
+
+	item JZV_MilitaryPoncho_Blue_Shoulder
+	{
+		Type = Clothing,
+		DisplayName = Military Poncho - Blue,
+		ClothingItem = JZV_MilitaryPoncho_Blue_Shoulder,
+		BodyLocation = Tail,
+		Icon = JZV_MilitaryPoncho_Blue,
+		BloodLocation = Shirt;FullHelmet;Trousers,
+		ClothingItemExtra = JZV_MilitaryPoncho_Blue_Down;JZV_MilitaryPoncho_Blue_Up;JZV_MilitaryPoncho_Blue_ShoulderDown,
+		ClothingItemExtraOption = DownHoodie;UpHoodie;DownHoodieS,
+		clothingExtraSubmenu = UpHoodieS,
+		BiteDefense = 0,
+		ScratchDefense = 0,
+		NeckProtectionModifier = 0.8,
+		Insulation = 0.1,
+		WindResistance = 0.75,
+		WaterResistance = 1.0,
+		FabricType = Cotton,
+		WorldStaticModel = JZV_MilitaryPoncho_Blue_Ground,
+	}
+
+	item JZV_MilitaryPoncho_Blue_ShoulderDown
+	{
+		Type = Clothing,
+		DisplayName = Military Poncho - Blue,
+		ClothingItem = JZV_MilitaryPoncho_Blue_ShoulderDown,
+		BodyLocation = Tail,
+		Icon = JZV_MilitaryPoncho_Blue,
+		BloodLocation = Shirt;FullHelmet;Trousers,
+		ClothingItemExtra = JZV_MilitaryPoncho_Blue_Down;JZV_MilitaryPoncho_Blue_Up;JZV_MilitaryPoncho_Blue_Shoulder,
+		ClothingItemExtraOption = DownHoodie;UpHoodie;UpHoodieS,
+		clothingExtraSubmenu = DownHoodieS,
+		BiteDefense = 0,
+		ScratchDefense = 0,
+		NeckProtectionModifier = 0.8,
+		Insulation = 0.1,
+		WindResistance = 0.75,
+		WaterResistance = 1.0,
+		FabricType = Cotton,
+		WorldStaticModel = JZV_MilitaryPoncho_Blue_Ground,
+	}
+
+	model JZV_MilitaryPoncho_Blue_Ground
+	{
+		mesh = WI_JZV_MilitaryPoncho,
+		texture = Clothes/JazzyVogue/JZV_MilitaryPoncho/JZV_MilitaryPoncho_Blue,
+		scale = 0.3000,
+	}
+}

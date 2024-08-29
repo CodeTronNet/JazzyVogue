@@ -778,5 +778,57 @@
 		<guid>9bc4750a-4002-4295-933a-4412fb89decc</guid>
 	</files>
 
+	<!-- JZV_MilitaryPoncho -->
+	<files>
+		<path>media/clothing/clothingItems/JZV_MilitaryPoncho_Red_Down.xml</path>
+		<guid>2ec12123-6454-42c3-ad6e-f45e26dc857d</guid>
+	</files>
+	<files>
+		<path>media/clothing/clothingItems/JZV_MilitaryPoncho_Red_Shoulder.xml</path>
+		<guid>4d0fd3a9-5fe3-428b-86d0-7341cc52f96c</guid>
+	</files>
+	<files>
+		<path>media/clothing/clothingItems/JZV_MilitaryPoncho_Red_ShoulderDown.xml</path>
+		<guid>5c54b00f-f750-480e-a967-95674e805a77</guid>
+	</files>
+	<files>
+		<path>media/clothing/clothingItems/JZV_MilitaryPoncho_Red_Up.xml</path>
+		<guid>9763e518-014c-4120-ad9c-9f6a7261107d</guid>
+	</files>
+
+	<files>
+		<path>media/clothing/clothingItems/JZV_MilitaryPoncho_Grey_Down.xml</path>
+		<guid>c3cffa81-691c-4b33-b18e-60f44560ee14</guid>
+	</files>
+	<files>
+		<path>media/clothing/clothingItems/JZV_MilitaryPoncho_Grey_Shoulder.xml</path>
+		<guid>ea59f471-17b5-4614-b0ff-3ef39627ccf5</guid>
+	</files>
+	<files>
+		<path>media/clothing/clothingItems/JZV_MilitaryPoncho_Grey_ShoulderDown.xml</path>
+		<guid>ade2a78e-4e88-40fa-83e2-6c065bb41110</guid>
+	</files>
+	<files>
+		<path>media/clothing/clothingItems/JZV_MilitaryPoncho_Grey_Up.xml</path>
+		<guid>889136ef-27b6-4461-a33f-cec6e026c512</guid>
+	</files>
+
+	<files>
+		<path>media/clothing/clothingItems/JZV_MilitaryPoncho_Blue_Down.xml</path>
+		<guid>c57f82f4-d1e5-4f2e-bbba-e7af0d751711</guid>
+	</files>
+	<files>
+		<path>media/clothing/clothingItems/JZV_MilitaryPoncho_Blue_Shoulder.xml</path>
+		<guid>e2ba2a48-40cc-4698-917d-698c6b508197</guid>
+	</files>
+	<files>
+		<path>media/clothing/clothingItems/JZV_MilitaryPoncho_Blue_ShoulderDown.xml</path>
+		<guid>70c8a325-1da9-4dbf-9d75-1b59e629fd85</guid>
+	</files>
+	<files>
+		<path>media/clothing/clothingItems/JZV_MilitaryPoncho_Blue_Up.xml</path>
+		<guid>9f49c775-cf9d-497c-87cf-2116b9af2a48</guid>
+	</files>
+
 </fileGuidTable>
 

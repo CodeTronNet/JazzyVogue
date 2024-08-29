@@ -1,0 +1,93 @@
+module JazzyVogue
+{
+	item JZV_MilitaryPoncho_Grey_Up
+	{
+		Type = Clothing,
+		DisplayName = Military Poncho - Grey,
+		ClothingItem = JZV_MilitaryPoncho_Grey_Up,
+		BodyLocation = Tail,
+		Icon = JZV_MilitaryPoncho_Grey,
+		BloodLocation = Shirt;FullHelmet;Trousers,
+		ClothingItemExtra = JZV_MilitaryPoncho_Grey_Down;JZV_MilitaryPoncho_Grey_Shoulder;JZV_MilitaryPoncho_Grey_ShoulderDown,
+		ClothingItemExtraOption = DownHoodie;UpHoodieS;DownHoodieS,
+		clothingExtraSubmenu = UpHoodie,
+		BiteDefense = 0,
+		ScratchDefense = 0,
+		NeckProtectionModifier = 0.8,
+		Insulation = 0.1,
+		WindResistance = 0.75,
+		WaterResistance = 1.0,
+		FabricType = Cotton,
+		WorldStaticModel = JZV_MilitaryPoncho_Grey_Ground,
+	}
+
+	item JZV_MilitaryPoncho_Grey_Down
+	{
+		Type = Clothing,
+		DisplayName = Military Poncho - Grey,
+		ClothingItem = JZV_MilitaryPoncho_Grey_Down,
+		BodyLocation = Tail,
+		Icon = JZV_MilitaryPoncho_Grey,
+		BloodLocation = Shirt;FullHelmet;Trousers,
+		ClothingItemExtra = JZV_MilitaryPoncho_Grey_Up;JZV_MilitaryPoncho_Grey_Shoulder;JZV_MilitaryPoncho_Grey_ShoulderDown,
+		ClothingItemExtraOption = UpHoodie;UpHoodieS;DownHoodieS,
+		clothingExtraSubmenu = DownHoodie,
+		BiteDefense = 0,
+		ScratchDefense = 0,
+		NeckProtectionModifier = 0.5,
+		Insulation = 0.15,
+		WindResistance = 0.8,
+		WaterResistance = 1.0,
+		FabricType = Cotton,
+		WorldStaticModel = JZV_MilitaryPoncho_Grey_Ground,
+	}
+
+	item JZV_MilitaryPoncho_Grey_Shoulder
+	{
+		Type = Clothing,
+		DisplayName = Military Poncho - Grey,
+		ClothingItem = JZV_MilitaryPoncho_Grey_Shoulder,
+		BodyLocation = Tail,
+		Icon = JZV_MilitaryPoncho_Grey,
+		BloodLocation = Shirt;FullHelmet;Trousers,
+		ClothingItemExtra = JZV_MilitaryPoncho_Grey_Down;JZV_MilitaryPoncho_Grey_Up;JZV_MilitaryPoncho_Grey_ShoulderDown,
+		ClothingItemExtraOption = DownHoodie;UpHoodie;DownHoodieS,
+		clothingExtraSubmenu = UpHoodieS,
+		BiteDefense = 0,
+		ScratchDefense = 0,
+		NeckProtectionModifier = 0.8,
+		Insulation = 0.1,
+		WindResistance = 0.75,
+		WaterResistance = 1.0,
+		FabricType = Cotton,
+		WorldStaticModel = JZV_MilitaryPoncho_Grey_Ground,
+	}
+
+	item JZV_MilitaryPoncho_Grey_ShoulderDown
+	{
+		Type = Clothing,
+		DisplayName = Military Poncho - Grey,
+		ClothingItem = JZV_MilitaryPoncho_Grey_ShoulderDown,
+		BodyLocation = Tail,
+		Icon = JZV_MilitaryPoncho_Grey,
+		BloodLocation = Shirt;FullHelmet;Trousers,
+		ClothingItemExtra = JZV_MilitaryPoncho_Grey_Down;JZV_MilitaryPoncho_Grey_Up;JZV_MilitaryPoncho_Grey_Shoulder,
+		ClothingItemExtraOption = DownHoodie;UpHoodie;UpHoodieS,
+		clothingExtraSubmenu = DownHoodieS,
+		BiteDefense = 0,
+		ScratchDefense = 0,
+		NeckProtectionModifier = 0.8,
+		Insulation = 0.1,
+		WindResistance = 0.75,
+		WaterResistance = 1.0,
+		FabricType = Cotton,
+		WorldStaticModel = JZV_MilitaryPoncho_Grey_Ground,
+	}
+
+	model JZV_MilitaryPoncho_Grey_Ground
+	{
+		mesh = WI_JZV_MilitaryPoncho,
+		texture = Clothes/JazzyVogue/JZV_MilitaryPoncho/JZV_MilitaryPoncho_Grey,
+		scale = 0.3000,
+	}
+}
