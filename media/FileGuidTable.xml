@@ -714,6 +714,14 @@
 		<path>media/clothing/clothingItems/JZV_LedMask_Network.xml</path>
 		<guid>e3ca5ba3-6e1b-477e-887b-966a741b2ac4</guid>
 	</files>
+	<files>
+		<path>media/clothing/clothingItems/JZV_LedMask_No.xml</path>
+		<guid>75e3ebbc-0f99-4852-a8be-170943a3e9cd</guid>
+	</files>
+	<files>
+		<path>media/clothing/clothingItems/JZV_LedMask_Yes.xml</path>
+		<guid>e6818e50-af32-432e-a6b5-4cc10b5c174e</guid>
+	</files>
 
 
 	<!-- JZV_HockeyMask -->

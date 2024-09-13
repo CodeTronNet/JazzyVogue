@@ -4,4 +4,6 @@ ContextMenu_EN = {
     ContextMenu_LedNetwork = "Change: Network",
 	ContextMenu_LedAlien = "Change: Alien",
 	ContextMenu_LedHeart = "Change: Heart",
+	ContextMenu_LedNo = "Change: No",
+	ContextMenu_LedYes = "Change: Yes",
 }

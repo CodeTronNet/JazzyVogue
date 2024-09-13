@@ -14,8 +14,8 @@ module JazzyVogue
         ScratchDefense = 50,
         Insulation = 0.25,
         WindResistance = 0.55,
-		ClothingItemExtra = JZV_LedMask_Blank;JZV_LedMask_Network;JZV_LedMask_Alien;JZV_LedMask_Heart,
-        ClothingItemExtraOption = LedBlank;LedNetwork;LedAlien;LedHeart,
+		ClothingItemExtra = JZV_LedMask_Blank;JZV_LedMask_Network;JZV_LedMask_Alien;JZV_LedMask_Heart;JZV_LedMask_No;JZV_LedMask_Yes,
+		ClothingItemExtraOption = LedBlank;LedNetwork;LedAlien;LedHeart;LedNo;LedYes,
 		clothingExtraSubmenu = UpHoodie,
 	}
 
@@ -33,8 +33,8 @@ module JazzyVogue
         ScratchDefense = 50,
         Insulation = 0.25,
         WindResistance = 0.55,
-		ClothingItemExtra = JZV_LedMask_Blank;JZV_LedMask_Network;JZV_LedMask_Alien;JZV_LedMask_Heart,
-        ClothingItemExtraOption = LedBlank;LedNetwork;LedAlien;LedHeart,
+		ClothingItemExtra = JZV_LedMask_Blank;JZV_LedMask_Network;JZV_LedMask_Alien;JZV_LedMask_Heart;JZV_LedMask_No;JZV_LedMask_Yes,
+		ClothingItemExtraOption = LedBlank;LedNetwork;LedAlien;LedHeart;LedNo;LedYes,
 		clothingExtraSubmenu = UpHoodie,
 	}
 
@@ -52,8 +52,8 @@ module JazzyVogue
         ScratchDefense = 50,
         Insulation = 0.25,
         WindResistance = 0.55,
-		ClothingItemExtra = JZV_LedMask_Blank;JZV_LedMask_Network;JZV_LedMask_Alien;JZV_LedMask_Heart,
-        ClothingItemExtraOption = LedBlank;LedNetwork;LedAlien;LedHeart,
+		ClothingItemExtra = JZV_LedMask_Blank;JZV_LedMask_Network;JZV_LedMask_Alien;JZV_LedMask_Heart;JZV_LedMask_No;JZV_LedMask_Yes,
+		ClothingItemExtraOption = LedBlank;LedNetwork;LedAlien;LedHeart;LedNo;LedYes,
 		clothingExtraSubmenu = UpHoodie,
 	}
 
@@ -71,8 +71,46 @@ module JazzyVogue
         ScratchDefense = 50,
         Insulation = 0.25,
         WindResistance = 0.55,
-		ClothingItemExtra = JZV_LedMask_Blank;JZV_LedMask_Network;JZV_LedMask_Alien;JZV_LedMask_Heart,
-        ClothingItemExtraOption = LedBlank;LedNetwork;LedAlien;LedHeart,
+		ClothingItemExtra = JZV_LedMask_Blank;JZV_LedMask_Network;JZV_LedMask_Alien;JZV_LedMask_Heart;JZV_LedMask_No;JZV_LedMask_Yes,
+		ClothingItemExtraOption = LedBlank;LedNetwork;LedAlien;LedHeart;LedNo;LedYes,
+		clothingExtraSubmenu = UpHoodie,
+	}
+
+	item JZV_LedMask_No
+	{
+		DisplayCategory = Accessory,
+		Type = Clothing,
+		DisplayName = Led Mask,
+		ClothingItem = JZV_LedMask_No,
+		BodyLocation = MaskEyes,
+		Icon = JZV_LedMask,
+		CanHaveHoles = false,
+		BloodLocation = Head,
+        BiteDefense = 30,
+        ScratchDefense = 50,
+        Insulation = 0.25,
+        WindResistance = 0.55,
+		ClothingItemExtra = JZV_LedMask_Blank;JZV_LedMask_Network;JZV_LedMask_Alien;JZV_LedMask_Heart;JZV_LedMask_No;JZV_LedMask_Yes,
+		ClothingItemExtraOption = LedBlank;LedNetwork;LedAlien;LedHeart;LedNo;LedYes,
+		clothingExtraSubmenu = UpHoodie,
+	}
+
+	item JZV_LedMask_Yes
+	{
+		DisplayCategory = Accessory,
+		Type = Clothing,
+		DisplayName = Led Mask,
+		ClothingItem = JZV_LedMask_Yes,
+		BodyLocation = MaskEyes,
+		Icon = JZV_LedMask,
+		CanHaveHoles = false,
+		BloodLocation = Head,
+        BiteDefense = 30,
+        ScratchDefense = 50,
+        Insulation = 0.25,
+        WindResistance = 0.55,
+		ClothingItemExtra = JZV_LedMask_Blank;JZV_LedMask_Network;JZV_LedMask_Alien;JZV_LedMask_Heart;JZV_LedMask_No;JZV_LedMask_Yes,
+		ClothingItemExtraOption = LedBlank;LedNetwork;LedAlien;LedHeart;LedNo;LedYes,
 		clothingExtraSubmenu = UpHoodie,
 	}
 
