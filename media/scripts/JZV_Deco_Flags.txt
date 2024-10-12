@@ -192,4 +192,31 @@ module JazzyVogue
 		OnGiveXP:Recipe.OnGiveXP.Tailoring5,
 		CanBeDoneFromFloor:true,
     }
+
+	item JZV_Deco_Flag_ZDP001
+	{
+		Weight = 0.2,	
+		Type = Moveable,
+		WorldObjectSprite = JazzyVogue001_30,
+		DisplayName	= Flagge von ZDP No. 1,
+	}
+
+	recipe Herstellen Jazzy Vogue - Flagge ZDP No. 1
+    {
+		Sheet=1,
+		Thread;5,
+		PaintBlue;2,
+		PaintPurple;2,
+
+		keep Needle,
+		keep Paintbrush,
+		keep JZV_Sketchbook,
+
+		Result:JZV_Deco_Flag_ZDP001,
+		Time:800.0,
+		Category:Tailoring,
+		SkillRequired:Tailoring=10,
+		OnGiveXP:Recipe.OnGiveXP.Tailoring5,
+		CanBeDoneFromFloor:true,
+    }
 }
