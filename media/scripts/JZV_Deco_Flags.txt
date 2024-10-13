@@ -219,4 +219,30 @@ module JazzyVogue
 		OnGiveXP:Recipe.OnGiveXP.Tailoring5,
 		CanBeDoneFromFloor:true,
     }
+
+	item JZV_Deco_Flag_Balgeroth001
+	{
+		Weight = 0.2,	
+		Type = Moveable,
+		WorldObjectSprite = JazzyVogue002_2,
+		DisplayName	= Flagge von Balgeroth No. 1,
+	}
+
+	recipe Herstellen Jazzy Vogue - Flagge von Balgeroth No. 1
+    {
+		Sheet=1,
+		Thread;5,
+		PaintWhite;1,
+		PaintPurple;2,
+
+		keep Needle,
+		keep Paintbrush,
+
+		Result:JZV_Deco_Flag_Balgeroth001,
+		Time:800.0,
+		Category:Tailoring,
+		SkillRequired:Tailoring=4,
+		OnGiveXP:Recipe.OnGiveXP.Tailoring5,
+		CanBeDoneFromFloor:true,
+    }
 }
