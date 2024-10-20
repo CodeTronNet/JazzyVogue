@@ -228,7 +228,7 @@ module JazzyVogue
 		DisplayName	= Flagge von Balgeroth No. 1,
 	}
 
-	recipe Herstellen Jazzy Vogue - Flagge von Balgeroth No. 1
+	recipe Herstellen Flagge von Balgeroth No. 1
     {
 		Sheet=1,
 		Thread;5,
