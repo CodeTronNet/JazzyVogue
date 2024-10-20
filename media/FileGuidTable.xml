@@ -838,5 +838,11 @@
 		<guid>9f49c775-cf9d-497c-87cf-2116b9af2a48</guid>
 	</files>
 
+	<!-- JZV_PantsPunk001 -->
+	<files>
+		<path>media/clothing/clothingItems/JZV_PantsPunk001.xml</path>
+		<guid>91caba8e-229f-4d5f-917a-438d96d9707e</guid>
+	</files>
+
 </fileGuidTable>
 

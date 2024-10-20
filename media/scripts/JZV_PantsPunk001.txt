@@ -1,0 +1,34 @@
+module JazzyVogue
+{
+	item JZV_PantsPunk001
+	{
+		DisplayCategory = Clothing,
+		Type = Clothing,
+		DisplayName = Punk Pants,
+		ClothingItem = JZV_PantsPunk001,
+		BodyLocation = Pants,
+		Icon = JZV_SuitPantsGeneric_Black,
+		BloodLocation = Trousers,
+		Insulation = 0.5,
+		WindResistance = 0.25,
+		FabricType = Cotton,
+		WorldStaticModel = Trousers_Ground,
+	}
+
+	recipe Craft Punk Pants
+	{
+		LeatherStrips=5,
+		ScrapMetal=2,
+		Thread;2,
+		Trousers_LeatherBlack,
+
+		keep Needle,
+
+		Result:JZV_PantsPunk001,
+		Time:450.0,
+		Category:Tailoring,
+		SkillRequired:Tailoring=10,
+		OnGiveXP:Recipe.OnGiveXP.Tailoring5,
+		CanBeDoneFromFloor:true,
+	}
+}
