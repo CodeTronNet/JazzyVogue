@@ -215,27 +215,4 @@ module JazzyVogue
 		WorldObjectSprite = JazzyVogue002_4,
 		DisplayName	= Gemälde von Balgeroth,
 	}
-
-	recipe Herstellen Gemälde von Balgeroth
-    {
-		Sheet=1,
-		Thread;5,
-		Plank=4,
-		PaintBlue;1,
-		PaintWhite;1,
-		PaintBlack;1,
-		PaintRed;1,
-		PaintGreen;1,
-
-		keep [Recipe.GetItemTypes.Hammer],
-		keep Needle,
-		keep Paintbrush,
-
-		Result:JZV_Deco_Painting_Balgeroth001,
-		Time:800.0,
-		Category:Tailoring,
-		SkillRequired:Tailoring=4,
-		OnGiveXP:Recipe.OnGiveXP.Tailoring5,
-		CanBeDoneFromFloor:true,
-    }
 }
