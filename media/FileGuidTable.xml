@@ -844,5 +844,10 @@
 		<guid>91caba8e-229f-4d5f-917a-438d96d9707e</guid>
 	</files>
 
+	<!-- JZV_Tattoo -->
+	<files>
+		<path>media/clothing/clothingItems/JZV_Tattoo_Hiroshi.xml</path>
+		<guid>57cb983d-daa6-4213-bb9a-e3cb1adf135b</guid>
+	</files>
 </fileGuidTable>
 

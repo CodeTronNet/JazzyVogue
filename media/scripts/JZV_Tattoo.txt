@@ -1,0 +1,14 @@
+module JazzyVogue
+{
+	item JZV_Tattoo_Hiroshi
+	{
+		DisplayCategory = Clothing,
+		Type = Clothing,
+		DisplayName = Tattoo - Hiroshi,
+		ClothingItem = JZV_Tattoo_Hiroshi,
+		BodyLocation = UnderwearExtra2,
+		Icon = SpiffoTail,
+		Weight = 0.1,
+		WorldStaticModel = Garter_Ground,
+	}
+}
