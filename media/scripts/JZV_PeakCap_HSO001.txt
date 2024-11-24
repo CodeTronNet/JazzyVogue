@@ -25,7 +25,6 @@ module JazzyVogue
 
 		keep Needle,
 		keep Paintbrush,
-        keep JZV_Sketchbook,
 
 		Result:JZV_PeakCap_HSO001,
 		Time:450.0,

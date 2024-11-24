@@ -29,7 +29,6 @@ module JazzyVogue
 
 		keep Needle,
 		keep Paintbrush,
-		keep JZV_Sketchbook,
 
 		Result:JZV_TShirt_Theme_Day1,
 		Time:450.0,

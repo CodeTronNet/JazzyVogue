@@ -29,7 +29,6 @@ module JazzyVogue
         PaintWhite;1,
 
 		keep Paintbrush,
-        keep JZV_Sketchbook,
 
 		Result:JZV_Paperbag_Jazzy,
 		Time:600.0,

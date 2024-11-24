@@ -19,7 +19,6 @@ module JazzyVogue
 
 		keep Needle,
 		keep Paintbrush,
-		keep JZV_Sketchbook,
 
 		Result:JZV_Deco_Flag_HSO001,
 		Time:800.0,
@@ -46,7 +45,6 @@ module JazzyVogue
 
 		keep Needle,
 		keep Paintbrush,
-		keep JZV_Sketchbook,
 
 		Result:JZV_Deco_Flag_Jazzy001,
 		Time:800.0,
@@ -100,7 +98,6 @@ module JazzyVogue
 
 		keep Needle,
 		keep Paintbrush,
-		keep JZV_Sketchbook,
 
 		Result:JZV_Deco_Flag_Ceres001,
 		Time:800.0,
@@ -128,7 +125,6 @@ module JazzyVogue
 
 		keep Needle,
 		keep Paintbrush,
-		keep JZV_Sketchbook,
 
 		Result:JZV_Deco_Flag_Kentuckistan001,
 		Time:800.0,
@@ -156,7 +152,6 @@ module JazzyVogue
 
 		keep Needle,
 		keep Paintbrush,
-		keep JZV_Sketchbook,
 
 		Result:JZV_Deco_Flag_Ashenwood001,
 		Time:800.0,
@@ -183,7 +178,6 @@ module JazzyVogue
 
 		keep Needle,
 		keep Paintbrush,
-		keep JZV_Sketchbook,
 
 		Result:JZV_Deco_Flag_Barmageddon001,
 		Time:800.0,
@@ -210,7 +204,6 @@ module JazzyVogue
 
 		keep Needle,
 		keep Paintbrush,
-		keep JZV_Sketchbook,
 
 		Result:JZV_Deco_Flag_ZDP001,
 		Time:800.0,
