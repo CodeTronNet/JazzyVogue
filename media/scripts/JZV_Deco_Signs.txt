@@ -1,0 +1,58 @@
+module JazzyVogue
+{
+	item JZV_Deco_Sign_BioHazard_Right
+	{
+		Weight = 0.2,	
+		Type = Moveable,
+		WorldObjectSprite = JazzyVogue003_0,
+		DisplayName	= Warnschild - Bio Hazard (Rechts),
+	}
+
+	item JZV_Deco_Sign_BioHazard_Left
+	{
+		Weight = 0.2,	
+		Type = Moveable,
+		WorldObjectSprite = JazzyVogue003_4,
+		DisplayName	= Warnschild - Bio Hazard (Links),
+	}
+
+	recipe Herstellen Warnschild - Bio Hazard (Rechts)
+	{
+		SheetMetal=6,
+		BlowTorch=4,
+		PaintRed;10,
+		PaintWhite;20,
+		PaintBlack;10,
+
+		keep [Recipe.GetItemTypes.WeldingMask],
+		keep [Recipe.GetItemTypes.Hammer],
+		keep Paintbrush,
+
+		Result:JZV_Deco_Sign_BioHazard_Right,
+		Time:2000.0,
+		Category:Welding,
+		SkillRequired:MetalWelding=8,
+		OnGiveXP:Recipe.OnGiveXP.MetalWelding10,
+		CanBeDoneFromFloor:true,
+	}
+
+	recipe Herstellen Warnschild - Bio Hazard (Links)
+	{
+		SheetMetal=6,
+		BlowTorch=4,
+		PaintRed;10,
+		PaintWhite;20,
+		PaintBlack;10,
+
+		keep [Recipe.GetItemTypes.WeldingMask],
+		keep [Recipe.GetItemTypes.Hammer],
+		keep Paintbrush,
+
+		Result:JZV_Deco_Sign_BioHazard_Left,
+		Time:2000.0,
+		Category:Welding,
+		SkillRequired:MetalWelding=8,
+		OnGiveXP:Recipe.OnGiveXP.MetalWelding10,
+		CanBeDoneFromFloor:true,
+	}
+}
