@@ -37,7 +37,6 @@ module JazzyVogue
 		Time:450.0,
 		Category:Tailoring,
 		SkillRequired:Tailoring=6,
-		OnGiveXP:Recipe.OnGiveXP.Tailoring5,
 		CanBeDoneFromFloor:true,
 	}
 }

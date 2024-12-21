@@ -32,7 +32,6 @@ module JazzyVogue
 		Time:2000.0,
 		Category:Welding,
 		SkillRequired:MetalWelding=8,
-		OnGiveXP:Recipe.OnGiveXP.MetalWelding10,
 		CanBeDoneFromFloor:true,
 	}
 
@@ -52,7 +51,6 @@ module JazzyVogue
 		Time:2000.0,
 		Category:Welding,
 		SkillRequired:MetalWelding=8,
-		OnGiveXP:Recipe.OnGiveXP.MetalWelding10,
 		CanBeDoneFromFloor:true,
 	}
 }

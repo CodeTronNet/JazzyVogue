@@ -13,7 +13,6 @@ module JazzyVogue
 		Time:600.0,
 		Category:Tailoring,
 		SkillRequired:Tailoring=10,
-		OnGiveXP:Recipe.OnGiveXP.Tailoring5,
 		CanBeDoneFromFloor:true,
 	}
 
@@ -30,7 +29,6 @@ module JazzyVogue
 		Time:600.0,
 		Category:Tailoring,
 		SkillRequired:Tailoring=10,
-		OnGiveXP:Recipe.OnGiveXP.Tailoring5,
 		CanBeDoneFromFloor:true,
 	}
 
@@ -47,7 +45,6 @@ module JazzyVogue
 		Time:600.0,
 		Category:Tailoring,
 		SkillRequired:Tailoring=10,
-		OnGiveXP:Recipe.OnGiveXP.Tailoring5,
 		CanBeDoneFromFloor:true,
 	}
 
@@ -64,7 +61,6 @@ module JazzyVogue
 		Time:600.0,
 		Category:Tailoring,
 		SkillRequired:Tailoring=10,
-		OnGiveXP:Recipe.OnGiveXP.Tailoring5,
 		CanBeDoneFromFloor:true,
 	}
 
@@ -81,7 +77,6 @@ module JazzyVogue
 		Time:600.0,
 		Category:Tailoring,
 		SkillRequired:Tailoring=10,
-		OnGiveXP:Recipe.OnGiveXP.Tailoring5,
 		CanBeDoneFromFloor:true,
 	}
 }
