@@ -113,4 +113,22 @@ module JazzyVogue
 		ClothingItemExtraOption = LedBlank;LedNetwork;LedAlien;LedHeart;LedNo;LedYes,
 		clothingExtraSubmenu = UpHoodie,
 	}
+
+	recipe Craft Led Mask
+    {
+        PaintBlack;1,
+		Battery=5,
+		LightBulb=10,
+        Hat_HockeyMask=1,
+
+		keep Paintbrush,
+		keep [Recipe.GetItemTypes.Screwdriver],
+
+		Result:JZV_LedMask_Blank,
+		Time:1200.0,
+		Category:Tailoring,
+		SkillRequired:Electricity=10,
+		OnGiveXP:Recipe.OnGiveXP.Tailoring5,
+		CanBeDoneFromFloor:true,
+    }
 }

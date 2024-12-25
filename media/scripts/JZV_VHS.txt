@@ -1,0 +1,13 @@
+module JazzyVogue
+{
+    item JZV_VHS
+    {
+        DisplayCategory = Entertainment,
+        Type				= Normal,
+        DisplayName			= Jazzy VHS,
+        Icon				= Cassette3,
+        Weight				= 0.1,
+        MediaCategory       = Jazzy-VHS,
+        WorldStaticModel = VHSBox3,
+    }
+}
