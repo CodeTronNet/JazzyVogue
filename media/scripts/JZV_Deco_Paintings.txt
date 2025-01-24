@@ -263,6 +263,7 @@ module JazzyVogue
 		keep [Recipe.GetItemTypes.Hammer],
 		keep Needle,
 		keep Paintbrush,
+		keep JZV_Sketchbook,
 
 		Result:JZV_Deco_Painting_Eddie001,
 		Time:800.0,
