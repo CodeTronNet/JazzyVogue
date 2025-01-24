@@ -722,6 +722,10 @@
 		<path>media/clothing/clothingItems/JZV_LedMask_Yes.xml</path>
 		<guid>e6818e50-af32-432e-a6b5-4cc10b5c174e</guid>
 	</files>
+	<files>
+		<path>media/clothing/clothingItems/JZV_LedMask_CherryBlossom.xml</path>
+		<guid>ef2cee8e-7d23-4f65-8041-0f48a63cacc3</guid>
+	</files>
 
 
 	<!-- JZV_HockeyMask -->

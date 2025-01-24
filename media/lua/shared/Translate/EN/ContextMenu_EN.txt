@@ -6,4 +6,5 @@ ContextMenu_EN = {
 	ContextMenu_LedHeart = "Change: Heart",
 	ContextMenu_LedNo = "Change: No",
 	ContextMenu_LedYes = "Change: Yes",
+	ContextMenu_LedCherryBlossom = "Change: Cherry Blossom",
 }

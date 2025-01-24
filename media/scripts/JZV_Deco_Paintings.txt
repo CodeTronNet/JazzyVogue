@@ -240,4 +240,34 @@ module JazzyVogue
 		WorldObjectSprite = JazzyVogue002_4,
 		DisplayName	= Gemälde von Balgeroth,
 	}
+
+	item JZV_Deco_Painting_Eddie001
+	{
+		Weight = 0.2,	
+		Type = Moveable,
+		WorldObjectSprite = JazzyVogue002_8,
+		DisplayName	= Zeichnung von Eddie No. 1,
+	}
+
+	recipe Herstellen Jazzy Vogue - Zeichnung Eddie No. 1
+    {
+		Sheet=1,
+		Thread;5,
+		Plank=4,
+		PaintBlue;1,
+		PaintWhite;1,
+		PaintBlack;1,
+		PaintRed;1,
+		PaintGreen;1,
+
+		keep [Recipe.GetItemTypes.Hammer],
+		keep Needle,
+		keep Paintbrush,
+
+		Result:JZV_Deco_Painting_Eddie001,
+		Time:800.0,
+		Category:Tailoring,
+		SkillRequired:Tailoring=4,
+		CanBeDoneFromFloor:true,
+    }
 }
