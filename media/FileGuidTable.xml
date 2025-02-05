@@ -853,5 +853,12 @@
 		<path>media/clothing/clothingItems/JZV_Tattoo_Hiroshi.xml</path>
 		<guid>57cb983d-daa6-4213-bb9a-e3cb1adf135b</guid>
 	</files>
+
+	<files>
+		<path>media/clothing/clothingItems/JZV_Tattoo_Tronya.xml</path>
+		<guid>4324a7de-47e1-472e-a839-1e53524530b8</guid>
+	</files>
+
+	
 </fileGuidTable>
 

@@ -6,7 +6,19 @@ module JazzyVogue
 		Type = Clothing,
 		DisplayName = Tattoo - Hiroshi,
 		ClothingItem = JZV_Tattoo_Hiroshi,
-		BodyLocation = UnderwearExtra2,
+		BodyLocation = Tail,
+		Icon = SpiffoTail,
+		Weight = 0.1,
+		WorldStaticModel = Garter_Ground,
+	}
+
+	item JZV_Tattoo_Tronya
+	{
+		DisplayCategory = Clothing,
+		Type = Clothing,
+		DisplayName = Tattoo - Tronya,
+		ClothingItem = JZV_Tattoo_Tronya,
+		BodyLocation = Tail,
 		Icon = SpiffoTail,
 		Weight = 0.1,
 		WorldStaticModel = Garter_Ground,
